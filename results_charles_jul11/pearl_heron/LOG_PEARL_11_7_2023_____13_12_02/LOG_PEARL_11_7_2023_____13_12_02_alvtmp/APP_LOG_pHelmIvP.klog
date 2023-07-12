@@ -1,0 +1,2039 @@
+1.92470         APP_LOG              pHelmIvP        iter=5,log=* 
+2.17503         APP_LOG              pHelmIvP        iter=6,log=* 
+2.42519         APP_LOG              pHelmIvP        iter=7,log=* 
+2.67533         APP_LOG              pHelmIvP        iter=8,log=* 
+2.92560         APP_LOG              pHelmIvP        iter=9,log=* 
+3.17580         APP_LOG              pHelmIvP        iter=10,log=* 
+3.42608         APP_LOG              pHelmIvP        iter=11,log=* 
+3.67622         APP_LOG              pHelmIvP        iter=12,log=* 
+3.92648         APP_LOG              pHelmIvP        iter=13,log=* 
+4.17667         APP_LOG              pHelmIvP        iter=14,log=* 
+4.17667         APP_LOG              pHelmIvP        iter=14,log=* 
+4.42692         APP_LOG              pHelmIvP        iter=15,log=* 
+4.67709         APP_LOG              pHelmIvP        iter=16,log=* 
+4.92742         APP_LOG              pHelmIvP        iter=17,log=* 
+5.17759         APP_LOG              pHelmIvP        iter=18,log=* 
+5.42784         APP_LOG              pHelmIvP        iter=19,log=* 
+5.67797         APP_LOG              pHelmIvP        iter=20,log=* 
+5.92824         APP_LOG              pHelmIvP        iter=21,log=* 
+6.17840         APP_LOG              pHelmIvP        iter=22,log=* 
+6.42866         APP_LOG              pHelmIvP        iter=23,log=* 
+6.67880         APP_LOG              pHelmIvP        iter=24,log=* 
+6.92920         APP_LOG              pHelmIvP        iter=25,log=* 
+7.17936         APP_LOG              pHelmIvP        iter=26,log=* 
+7.42961         APP_LOG              pHelmIvP        iter=27,log=* 
+7.67978         APP_LOG              pHelmIvP        iter=28,log=* 
+7.93003         APP_LOG              pHelmIvP        iter=29,log=* 
+8.18022         APP_LOG              pHelmIvP        iter=30,log=* 
+8.43047         APP_LOG              pHelmIvP        iter=31,log=* 
+8.68063         APP_LOG              pHelmIvP        iter=32,log=* 
+8.93101         APP_LOG              pHelmIvP        iter=33,log=* 
+9.18116         APP_LOG              pHelmIvP        iter=34,log=* 
+9.43141         APP_LOG              pHelmIvP        iter=35,log=* 
+9.68155         APP_LOG              pHelmIvP        iter=36,log=* 
+9.93182         APP_LOG              pHelmIvP        iter=37,log=* 
+10.18198        APP_LOG              pHelmIvP        iter=38,log=* 
+10.43222        APP_LOG              pHelmIvP        iter=39,log=* 
+10.68239        APP_LOG              pHelmIvP        iter=40,log=* 
+10.93272        APP_LOG              pHelmIvP        iter=41,log=* 
+11.18289        APP_LOG              pHelmIvP        iter=42,log=* 
+11.18289        APP_LOG              pHelmIvP        iter=42,log=* 
+11.43316        APP_LOG              pHelmIvP        iter=43,log=* 
+11.68330        APP_LOG              pHelmIvP        iter=44,log=* 
+11.93358        APP_LOG              pHelmIvP        iter=45,log=* 
+12.18373        APP_LOG              pHelmIvP        iter=46,log=* 
+12.43405        APP_LOG              pHelmIvP        iter=47,log=* 
+12.43405        APP_LOG              pHelmIvP        iter=47,log=* 
+12.68419        APP_LOG              pHelmIvP        iter=48,log=* 
+12.93455        APP_LOG              pHelmIvP        iter=49,log=* 
+13.18471        APP_LOG              pHelmIvP        iter=50,log=* 
+13.43500        APP_LOG              pHelmIvP        iter=51,log=* 
+13.68531        APP_LOG              pHelmIvP        iter=52,log=* 
+13.93556        APP_LOG              pHelmIvP        iter=53,log=* 
+14.18584        APP_LOG              pHelmIvP        iter=54,log=* 
+14.43614        APP_LOG              pHelmIvP        iter=55,log=* 
+14.68646        APP_LOG              pHelmIvP        iter=56,log=* 
+14.93686        APP_LOG              pHelmIvP        iter=57,log=* 
+15.18712        APP_LOG              pHelmIvP        iter=58,log=* 
+15.18712        APP_LOG              pHelmIvP        iter=58,log=* 
+15.43753        APP_LOG              pHelmIvP        iter=59,log=* 
+15.68785        APP_LOG              pHelmIvP        iter=60,log=* 
+15.93815        APP_LOG              pHelmIvP        iter=61,log=* 
+16.18847        APP_LOG              pHelmIvP        iter=62,log=* 
+16.18847        APP_LOG              pHelmIvP        iter=62,log=* 
+16.43876        APP_LOG              pHelmIvP        iter=63,log=* 
+16.68912        APP_LOG              pHelmIvP        iter=64,log=* 
+16.93951        APP_LOG              pHelmIvP        iter=65,log=* 
+17.18967        APP_LOG              pHelmIvP        iter=66,log=* 
+17.43999        APP_LOG              pHelmIvP        iter=67,log=* 
+17.69013        APP_LOG              pHelmIvP        iter=68,log=* 
+17.94043        APP_LOG              pHelmIvP        iter=69,log=* 
+18.19057        APP_LOG              pHelmIvP        iter=70,log=* 
+18.44087        APP_LOG              pHelmIvP        iter=71,log=* 
+18.69102        APP_LOG              pHelmIvP        iter=72,log=* 
+18.94139        APP_LOG              pHelmIvP        iter=73,log=* 
+19.19154        APP_LOG              pHelmIvP        iter=74,log=* 
+19.44185        APP_LOG              pHelmIvP        iter=75,log=* 
+19.69204        APP_LOG              pHelmIvP        iter=76,log=* 
+19.94233        APP_LOG              pHelmIvP        iter=77,log=* 
+20.19247        APP_LOG              pHelmIvP        iter=78,log=* 
+20.44275        APP_LOG              pHelmIvP        iter=79,log=* 
+20.69290        APP_LOG              pHelmIvP        iter=80,log=* 
+20.94332        APP_LOG              pHelmIvP        iter=81,log=* 
+21.19344        APP_LOG              pHelmIvP        iter=82,log=* 
+21.44373        APP_LOG              pHelmIvP        iter=83,log=* 
+21.69387        APP_LOG              pHelmIvP        iter=84,log=* 
+21.94417        APP_LOG              pHelmIvP        iter=85,log=* 
+22.19434        APP_LOG              pHelmIvP        iter=86,log=* 
+22.44463        APP_LOG              pHelmIvP        iter=87,log=* 
+22.69479        APP_LOG              pHelmIvP        iter=88,log=* 
+22.94516        APP_LOG              pHelmIvP        iter=89,log=* 
+23.19531        APP_LOG              pHelmIvP        iter=90,log=* 
+23.44557        APP_LOG              pHelmIvP        iter=91,log=* 
+23.69571        APP_LOG              pHelmIvP        iter=92,log=* 
+23.94600        APP_LOG              pHelmIvP        iter=93,log=* 
+24.19614        APP_LOG              pHelmIvP        iter=94,log=* 
+24.44643        APP_LOG              pHelmIvP        iter=95,log=* 
+24.69657        APP_LOG              pHelmIvP        iter=96,log=* 
+24.94693        APP_LOG              pHelmIvP        iter=97,log=* 
+25.19711        APP_LOG              pHelmIvP        iter=98,log=* 
+25.44738        APP_LOG              pHelmIvP        iter=99,log=* 
+25.69755        APP_LOG              pHelmIvP        iter=100,log=* 
+25.94782        APP_LOG              pHelmIvP        iter=101,log=* 
+26.19799        APP_LOG              pHelmIvP        iter=102,log=* 
+26.44827        APP_LOG              pHelmIvP        iter=103,log=* 
+26.69838        APP_LOG              pHelmIvP        iter=104,log=* 
+26.94878        APP_LOG              pHelmIvP        iter=105,log=* 
+27.19891        APP_LOG              pHelmIvP        iter=106,log=* 
+27.44920        APP_LOG              pHelmIvP        iter=107,log=* 
+27.69934        APP_LOG              pHelmIvP        iter=108,log=* 
+27.94962        APP_LOG              pHelmIvP        iter=109,log=* 
+28.19979        APP_LOG              pHelmIvP        iter=110,log=* 
+28.45007        APP_LOG              pHelmIvP        iter=111,log=* 
+28.70023        APP_LOG              pHelmIvP        iter=112,log=* 
+28.95059        APP_LOG              pHelmIvP        iter=113,log=* 
+29.20075        APP_LOG              pHelmIvP        iter=114,log=* 
+29.45101        APP_LOG              pHelmIvP        iter=115,log=* 
+29.70115        APP_LOG              pHelmIvP        iter=116,log=* 
+29.95143        APP_LOG              pHelmIvP        iter=117,log=* 
+30.20157        APP_LOG              pHelmIvP        iter=118,log=* 
+30.45189        APP_LOG              pHelmIvP        iter=119,log=* 
+30.70205        APP_LOG              pHelmIvP        iter=120,log=* 
+30.95242        APP_LOG              pHelmIvP        iter=121,log=* 
+31.20257        APP_LOG              pHelmIvP        iter=122,log=* 
+31.45284        APP_LOG              pHelmIvP        iter=123,log=* 
+31.70301        APP_LOG              pHelmIvP        iter=124,log=* 
+31.95329        APP_LOG              pHelmIvP        iter=125,log=* 
+32.20346        APP_LOG              pHelmIvP        iter=126,log=* 
+32.45374        APP_LOG              pHelmIvP        iter=127,log=* 
+32.70388        APP_LOG              pHelmIvP        iter=128,log=* 
+32.95430        APP_LOG              pHelmIvP        iter=129,log=* 
+33.20445        APP_LOG              pHelmIvP        iter=130,log=* 
+33.45474        APP_LOG              pHelmIvP        iter=131,log=* 
+33.70488        APP_LOG              pHelmIvP        iter=132,log=* 
+33.95517        APP_LOG              pHelmIvP        iter=133,log=* 
+34.20533        APP_LOG              pHelmIvP        iter=134,log=* 
+34.45562        APP_LOG              pHelmIvP        iter=135,log=* 
+34.70578        APP_LOG              pHelmIvP        iter=136,log=* 
+34.95614        APP_LOG              pHelmIvP        iter=137,log=* 
+35.20629        APP_LOG              pHelmIvP        iter=138,log=* 
+35.45663        APP_LOG              pHelmIvP        iter=139,log=* 
+35.70678        APP_LOG              pHelmIvP        iter=140,log=* 
+35.95709        APP_LOG              pHelmIvP        iter=141,log=* 
+36.20725        APP_LOG              pHelmIvP        iter=142,log=* 
+36.45755        APP_LOG              pHelmIvP        iter=143,log=* 
+36.70770        APP_LOG              pHelmIvP        iter=144,log=* 
+36.95806        APP_LOG              pHelmIvP        iter=145,log=* 
+37.20822        APP_LOG              pHelmIvP        iter=146,log=* 
+37.45855        APP_LOG              pHelmIvP        iter=147,log=* 
+37.70871        APP_LOG              pHelmIvP        iter=148,log=* 
+37.95898        APP_LOG              pHelmIvP        iter=149,log=* 
+38.20915        APP_LOG              pHelmIvP        iter=150,log=* 
+38.45943        APP_LOG              pHelmIvP        iter=151,log=* 
+38.70965        APP_LOG              pHelmIvP        iter=152,log=* 
+38.96015        APP_LOG              pHelmIvP        iter=153,log=* 
+39.21035        APP_LOG              pHelmIvP        iter=154,log=* 
+39.46066        APP_LOG              pHelmIvP        iter=155,log=* 
+39.71081        APP_LOG              pHelmIvP        iter=156,log=* 
+39.96111        APP_LOG              pHelmIvP        iter=157,log=* 
+40.21129        APP_LOG              pHelmIvP        iter=158,log=* 
+40.46158        APP_LOG              pHelmIvP        iter=159,log=* 
+40.71175        APP_LOG              pHelmIvP        iter=160,log=* 
+40.96257        APP_LOG              pHelmIvP        iter=161,log=* 
+41.21274        APP_LOG              pHelmIvP        iter=162,log=* 
+41.46301        APP_LOG              pHelmIvP        iter=163,log=* 
+41.71317        APP_LOG              pHelmIvP        iter=164,log=* 
+41.96344        APP_LOG              pHelmIvP        iter=165,log=* 
+42.21361        APP_LOG              pHelmIvP        iter=166,log=* 
+42.46392        APP_LOG              pHelmIvP        iter=167,log=* 
+42.71407        APP_LOG              pHelmIvP        iter=168,log=* 
+42.96445        APP_LOG              pHelmIvP        iter=169,log=* 
+43.21463        APP_LOG              pHelmIvP        iter=170,log=* 
+43.46489        APP_LOG              pHelmIvP        iter=171,log=* 
+43.71506        APP_LOG              pHelmIvP        iter=172,log=* 
+43.96533        APP_LOG              pHelmIvP        iter=173,log=* 
+44.21556        APP_LOG              pHelmIvP        iter=174,log=* 
+44.21556        APP_LOG              pHelmIvP        iter=174,log=* 
+44.46588        APP_LOG              pHelmIvP        iter=175,log=* 
+44.71602        APP_LOG              pHelmIvP        iter=176,log=* 
+44.96641        APP_LOG              pHelmIvP        iter=177,log=* 
+45.21655        APP_LOG              pHelmIvP        iter=178,log=* 
+45.46693        APP_LOG              pHelmIvP        iter=179,log=* 
+45.71708        APP_LOG              pHelmIvP        iter=180,log=* 
+45.96736        APP_LOG              pHelmIvP        iter=181,log=* 
+46.21757        APP_LOG              pHelmIvP        iter=182,log=* 
+46.46788        APP_LOG              pHelmIvP        iter=183,log=* 
+46.71804        APP_LOG              pHelmIvP        iter=184,log=* 
+46.96842        APP_LOG              pHelmIvP        iter=185,log=* 
+47.21857        APP_LOG              pHelmIvP        iter=186,log=* 
+47.46883        APP_LOG              pHelmIvP        iter=187,log=* 
+47.71898        APP_LOG              pHelmIvP        iter=188,log=* 
+47.96927        APP_LOG              pHelmIvP        iter=189,log=* 
+48.21941        APP_LOG              pHelmIvP        iter=190,log=* 
+48.46976        APP_LOG              pHelmIvP        iter=191,log=* 
+48.71991        APP_LOG              pHelmIvP        iter=192,log=* 
+48.97028        APP_LOG              pHelmIvP        iter=193,log=* 
+49.22044        APP_LOG              pHelmIvP        iter=194,log=* 
+49.47066        APP_LOG              pHelmIvP        iter=195,log=* 
+49.72083        APP_LOG              pHelmIvP        iter=196,log=* 
+49.97111        APP_LOG              pHelmIvP        iter=197,log=* 
+50.22129        APP_LOG              pHelmIvP        iter=198,log=* 
+50.47157        APP_LOG              pHelmIvP        iter=199,log=* 
+50.72172        APP_LOG              pHelmIvP        iter=200,log=* 
+50.97211        APP_LOG              pHelmIvP        iter=201,log=* 
+51.22224        APP_LOG              pHelmIvP        iter=202,log=* 
+51.47253        APP_LOG              pHelmIvP        iter=203,log=* 
+51.72268        APP_LOG              pHelmIvP        iter=204,log=* 
+51.97296        APP_LOG              pHelmIvP        iter=205,log=* 
+52.22313        APP_LOG              pHelmIvP        iter=206,log=* 
+52.47343        APP_LOG              pHelmIvP        iter=207,log=* 
+52.72359        APP_LOG              pHelmIvP        iter=208,log=* 
+52.97395        APP_LOG              pHelmIvP        iter=209,log=* 
+53.22410        APP_LOG              pHelmIvP        iter=210,log=* 
+53.47441        APP_LOG              pHelmIvP        iter=211,log=* 
+53.72455        APP_LOG              pHelmIvP        iter=212,log=* 
+53.97490        APP_LOG              pHelmIvP        iter=213,log=* 
+54.22510        APP_LOG              pHelmIvP        iter=214,log=* 
+54.47540        APP_LOG              pHelmIvP        iter=215,log=* 
+54.72591        APP_LOG              pHelmIvP        iter=216,log=* 
+54.97628        APP_LOG              pHelmIvP        iter=217,log=* 
+55.22646        APP_LOG              pHelmIvP        iter=218,log=* 
+55.47671        APP_LOG              pHelmIvP        iter=219,log=* 
+55.72688        APP_LOG              pHelmIvP        iter=220,log=* 
+55.97719        APP_LOG              pHelmIvP        iter=221,log=* 
+56.22740        APP_LOG              pHelmIvP        iter=222,log=* 
+56.47766        APP_LOG              pHelmIvP        iter=223,log=* 
+56.72780        APP_LOG              pHelmIvP        iter=224,log=* 
+56.97825        APP_LOG              pHelmIvP        iter=225,log=* 
+57.22863        APP_LOG              pHelmIvP        iter=226,log=* 
+57.47940        APP_LOG              pHelmIvP        iter=227,log=* 
+57.72954        APP_LOG              pHelmIvP        iter=228,log=* 
+57.97982        APP_LOG              pHelmIvP        iter=229,log=* 
+58.22998        APP_LOG              pHelmIvP        iter=230,log=* 
+58.48031        APP_LOG              pHelmIvP        iter=231,log=* 
+58.73048        APP_LOG              pHelmIvP        iter=232,log=* 
+58.98084        APP_LOG              pHelmIvP        iter=233,log=* 
+59.23101        APP_LOG              pHelmIvP        iter=234,log=* 
+59.48125        APP_LOG              pHelmIvP        iter=235,log=* 
+59.73141        APP_LOG              pHelmIvP        iter=236,log=* 
+59.98170        APP_LOG              pHelmIvP        iter=237,log=* 
+60.23189        APP_LOG              pHelmIvP        iter=238,log=* 
+60.48216        APP_LOG              pHelmIvP        iter=239,log=* 
+60.73230        APP_LOG              pHelmIvP        iter=240,log=* 
+60.98269        APP_LOG              pHelmIvP        iter=241,log=* 
+61.23290        APP_LOG              pHelmIvP        iter=242,log=* 
+61.48315        APP_LOG              pHelmIvP        iter=243,log=* 
+61.73333        APP_LOG              pHelmIvP        iter=244,log=* 
+61.98360        APP_LOG              pHelmIvP        iter=245,log=* 
+62.23379        APP_LOG              pHelmIvP        iter=246,log=* 
+62.48405        APP_LOG              pHelmIvP        iter=247,log=* 
+62.73419        APP_LOG              pHelmIvP        iter=248,log=* 
+62.98456        APP_LOG              pHelmIvP        iter=249,log=* 
+63.23473        APP_LOG              pHelmIvP        iter=250,log=* 
+63.48500        APP_LOG              pHelmIvP        iter=251,log=* 
+63.73514        APP_LOG              pHelmIvP        iter=252,log=* 
+63.98546        APP_LOG              pHelmIvP        iter=253,log=* 
+64.23566        APP_LOG              pHelmIvP        iter=254,log=* 
+64.48591        APP_LOG              pHelmIvP        iter=255,log=* 
+64.73608        APP_LOG              pHelmIvP        iter=256,log=* 
+64.98650        APP_LOG              pHelmIvP        iter=257,log=* 
+65.23666        APP_LOG              pHelmIvP        iter=258,log=* 
+65.48691        APP_LOG              pHelmIvP        iter=259,log=* 
+65.73713        APP_LOG              pHelmIvP        iter=260,log=* 
+65.98743        APP_LOG              pHelmIvP        iter=261,log=* 
+66.23762        APP_LOG              pHelmIvP        iter=262,log=* 
+66.48793        APP_LOG              pHelmIvP        iter=263,log=* 
+66.73808        APP_LOG              pHelmIvP        iter=264,log=* 
+66.98846        APP_LOG              pHelmIvP        iter=265,log=* 
+67.23863        APP_LOG              pHelmIvP        iter=266,log=* 
+67.48901        APP_LOG              pHelmIvP        iter=267,log=* 
+67.73918        APP_LOG              pHelmIvP        iter=268,log=* 
+67.98945        APP_LOG              pHelmIvP        iter=269,log=* 
+68.23964        APP_LOG              pHelmIvP        iter=270,log=* 
+68.48989        APP_LOG              pHelmIvP        iter=271,log=* 
+68.74005        APP_LOG              pHelmIvP        iter=272,log=* 
+68.99045        APP_LOG              pHelmIvP        iter=273,log=* 
+69.24081        APP_LOG              pHelmIvP        iter=274,log=* 
+69.49108        APP_LOG              pHelmIvP        iter=275,log=* 
+69.74122        APP_LOG              pHelmIvP        iter=276,log=* 
+69.99151        APP_LOG              pHelmIvP        iter=277,log=* 
+70.24172        APP_LOG              pHelmIvP        iter=278,log=* 
+70.49194        APP_LOG              pHelmIvP        iter=279,log=* 
+70.74212        APP_LOG              pHelmIvP        iter=280,log=* 
+70.99249        APP_LOG              pHelmIvP        iter=281,log=* 
+71.24270        APP_LOG              pHelmIvP        iter=282,log=* 
+71.49295        APP_LOG              pHelmIvP        iter=283,log=* 
+71.74310        APP_LOG              pHelmIvP        iter=284,log=* 
+71.99338        APP_LOG              pHelmIvP        iter=285,log=* 
+72.24354        APP_LOG              pHelmIvP        iter=286,log=* 
+72.49380        APP_LOG              pHelmIvP        iter=287,log=* 
+72.74395        APP_LOG              pHelmIvP        iter=288,log=* 
+72.99432        APP_LOG              pHelmIvP        iter=289,log=* 
+73.24450        APP_LOG              pHelmIvP        iter=290,log=* 
+73.49475        APP_LOG              pHelmIvP        iter=291,log=* 
+73.74492        APP_LOG              pHelmIvP        iter=292,log=* 
+73.99520        APP_LOG              pHelmIvP        iter=293,log=* 
+74.24542        APP_LOG              pHelmIvP        iter=294,log=* 
+74.49567        APP_LOG              pHelmIvP        iter=295,log=* 
+74.74583        APP_LOG              pHelmIvP        iter=296,log=* 
+74.99620        APP_LOG              pHelmIvP        iter=297,log=* 
+75.24637        APP_LOG              pHelmIvP        iter=298,log=* 
+75.49663        APP_LOG              pHelmIvP        iter=299,log=* 
+75.74678        APP_LOG              pHelmIvP        iter=300,log=* 
+75.99708        APP_LOG              pHelmIvP        iter=301,log=* 
+76.24738        APP_LOG              pHelmIvP        iter=302,log=* 
+76.49770        APP_LOG              pHelmIvP        iter=303,log=* 
+76.74799        APP_LOG              pHelmIvP        iter=304,log=* 
+76.99835        APP_LOG              pHelmIvP        iter=305,log=* 
+77.24852        APP_LOG              pHelmIvP        iter=306,log=* 
+77.49877        APP_LOG              pHelmIvP        iter=307,log=* 
+77.74892        APP_LOG              pHelmIvP        iter=308,log=* 
+77.99921        APP_LOG              pHelmIvP        iter=309,log=* 
+78.24944        APP_LOG              pHelmIvP        iter=310,log=* 
+78.49971        APP_LOG              pHelmIvP        iter=311,log=* 
+78.74986        APP_LOG              pHelmIvP        iter=312,log=* 
+79.00022        APP_LOG              pHelmIvP        iter=313,log=* 
+79.25040        APP_LOG              pHelmIvP        iter=314,log=* 
+79.50065        APP_LOG              pHelmIvP        iter=315,log=* 
+79.75082        APP_LOG              pHelmIvP        iter=316,log=* 
+80.00110        APP_LOG              pHelmIvP        iter=317,log=* 
+80.25129        APP_LOG              pHelmIvP        iter=318,log=* 
+80.50154        APP_LOG              pHelmIvP        iter=319,log=* 
+80.75168        APP_LOG              pHelmIvP        iter=320,log=* 
+81.00206        APP_LOG              pHelmIvP        iter=321,log=* 
+81.25222        APP_LOG              pHelmIvP        iter=322,log=* 
+81.50250        APP_LOG              pHelmIvP        iter=323,log=* 
+81.75265        APP_LOG              pHelmIvP        iter=324,log=* 
+82.00293        APP_LOG              pHelmIvP        iter=325,log=* 
+82.25315        APP_LOG              pHelmIvP        iter=326,log=* 
+82.50340        APP_LOG              pHelmIvP        iter=327,log=* 
+82.75358        APP_LOG              pHelmIvP        iter=328,log=* 
+83.00393        APP_LOG              pHelmIvP        iter=329,log=* 
+83.25410        APP_LOG              pHelmIvP        iter=330,log=* 
+83.50436        APP_LOG              pHelmIvP        iter=331,log=* 
+83.75450        APP_LOG              pHelmIvP        iter=332,log=* 
+84.00480        APP_LOG              pHelmIvP        iter=333,log=* 
+84.25500        APP_LOG              pHelmIvP        iter=334,log=* 
+84.50588        APP_LOG              pHelmIvP        iter=335,log=* 
+84.75603        APP_LOG              pHelmIvP        iter=336,log=* 
+85.00639        APP_LOG              pHelmIvP        iter=337,log=* 
+85.25656        APP_LOG              pHelmIvP        iter=338,log=* 
+85.50686        APP_LOG              pHelmIvP        iter=339,log=* 
+85.75704        APP_LOG              pHelmIvP        iter=340,log=* 
+86.00733        APP_LOG              pHelmIvP        iter=341,log=* 
+86.25753        APP_LOG              pHelmIvP        iter=342,log=* 
+86.50778        APP_LOG              pHelmIvP        iter=343,log=* 
+86.75793        APP_LOG              pHelmIvP        iter=344,log=* 
+87.00836        APP_LOG              pHelmIvP        iter=345,log=* 
+87.25853        APP_LOG              pHelmIvP        iter=346,log=* 
+87.50880        APP_LOG              pHelmIvP        iter=347,log=* 
+87.75901        APP_LOG              pHelmIvP        iter=348,log=* 
+88.00929        APP_LOG              pHelmIvP        iter=349,log=* 
+88.25950        APP_LOG              pHelmIvP        iter=350,log=* 
+88.50975        APP_LOG              pHelmIvP        iter=351,log=* 
+88.75994        APP_LOG              pHelmIvP        iter=352,log=* 
+89.01029        APP_LOG              pHelmIvP        iter=353,log=* 
+89.26046        APP_LOG              pHelmIvP        iter=354,log=* 
+89.51072        APP_LOG              pHelmIvP        iter=355,log=* 
+89.76087        APP_LOG              pHelmIvP        iter=356,log=* 
+90.01115        APP_LOG              pHelmIvP        iter=357,log=* 
+90.26135        APP_LOG              pHelmIvP        iter=358,log=* 
+90.51168        APP_LOG              pHelmIvP        iter=359,log=* 
+90.76183        APP_LOG              pHelmIvP        iter=360,log=* 
+91.01244        APP_LOG              pHelmIvP        iter=361,log=* 
+91.26261        APP_LOG              pHelmIvP        iter=362,log=* 
+91.51287        APP_LOG              pHelmIvP        iter=363,log=* 
+91.76305        APP_LOG              pHelmIvP        iter=364,log=* 
+92.01334        APP_LOG              pHelmIvP        iter=365,log=* 
+92.26354        APP_LOG              pHelmIvP        iter=366,log=* 
+92.51379        APP_LOG              pHelmIvP        iter=367,log=* 
+92.76395        APP_LOG              pHelmIvP        iter=368,log=* 
+93.01434        APP_LOG              pHelmIvP        iter=369,log=* 
+93.26451        APP_LOG              pHelmIvP        iter=370,log=* 
+93.51478        APP_LOG              pHelmIvP        iter=371,log=* 
+93.76492        APP_LOG              pHelmIvP        iter=372,log=* 
+94.01573        APP_LOG              pHelmIvP        iter=373,log=* 
+94.26592        APP_LOG              pHelmIvP        iter=374,log=* 
+94.51617        APP_LOG              pHelmIvP        iter=375,log=* 
+94.76635        APP_LOG              pHelmIvP        iter=376,log=* 
+95.01671        APP_LOG              pHelmIvP        iter=377,log=* 
+95.26689        APP_LOG              pHelmIvP        iter=378,log=* 
+95.51734        APP_LOG              pHelmIvP        iter=379,log=* 
+95.76751        APP_LOG              pHelmIvP        iter=380,log=* 
+96.01784        APP_LOG              pHelmIvP        iter=381,log=* 
+96.26804        APP_LOG              pHelmIvP        iter=382,log=* 
+96.51830        APP_LOG              pHelmIvP        iter=383,log=* 
+96.76845        APP_LOG              pHelmIvP        iter=384,log=* 
+97.01885        APP_LOG              pHelmIvP        iter=385,log=* 
+97.26902        APP_LOG              pHelmIvP        iter=386,log=* 
+97.51927        APP_LOG              pHelmIvP        iter=387,log=* 
+97.76949        APP_LOG              pHelmIvP        iter=388,log=* 
+98.01976        APP_LOG              pHelmIvP        iter=389,log=* 
+98.26996        APP_LOG              pHelmIvP        iter=390,log=* 
+98.52021        APP_LOG              pHelmIvP        iter=391,log=* 
+98.77037        APP_LOG              pHelmIvP        iter=392,log=* 
+99.02075        APP_LOG              pHelmIvP        iter=393,log=* 
+99.27092        APP_LOG              pHelmIvP        iter=394,log=* 
+99.52119        APP_LOG              pHelmIvP        iter=395,log=* 
+99.77134        APP_LOG              pHelmIvP        iter=396,log=* 
+100.02163       APP_LOG              pHelmIvP        iter=397,log=* 
+100.27182       APP_LOG              pHelmIvP        iter=398,log=* 
+100.52208       APP_LOG              pHelmIvP        iter=399,log=* 
+100.77225       APP_LOG              pHelmIvP        iter=400,log=* 
+101.02262       APP_LOG              pHelmIvP        iter=401,log=* 
+101.27278       APP_LOG              pHelmIvP        iter=402,log=* 
+101.52304       APP_LOG              pHelmIvP        iter=403,log=* 
+101.77319       APP_LOG              pHelmIvP        iter=404,log=* 
+102.02348       APP_LOG              pHelmIvP        iter=405,log=* 
+102.27368       APP_LOG              pHelmIvP        iter=406,log=* 
+102.52395       APP_LOG              pHelmIvP        iter=407,log=* 
+102.77410       APP_LOG              pHelmIvP        iter=408,log=* 
+103.02453       APP_LOG              pHelmIvP        iter=409,log=* 
+103.27469       APP_LOG              pHelmIvP        iter=410,log=* 
+103.52494       APP_LOG              pHelmIvP        iter=411,log=* 
+103.77511       APP_LOG              pHelmIvP        iter=412,log=* 
+104.02539       APP_LOG              pHelmIvP        iter=413,log=* 
+104.27558       APP_LOG              pHelmIvP        iter=414,log=* 
+104.52584       APP_LOG              pHelmIvP        iter=415,log=* 
+104.77599       APP_LOG              pHelmIvP        iter=416,log=* 
+105.02637       APP_LOG              pHelmIvP        iter=417,log=* 
+105.27654       APP_LOG              pHelmIvP        iter=418,log=* 
+105.52680       APP_LOG              pHelmIvP        iter=419,log=* 
+105.77695       APP_LOG              pHelmIvP        iter=420,log=* 
+106.02730       APP_LOG              pHelmIvP        iter=421,log=* 
+106.27759       APP_LOG              pHelmIvP        iter=422,log=* 
+106.52786       APP_LOG              pHelmIvP        iter=423,log=* 
+106.77815       APP_LOG              pHelmIvP        iter=424,log=* 
+107.02854       APP_LOG              pHelmIvP        iter=425,log=* 
+107.27911       APP_LOG              pHelmIvP        iter=426,log=$ pHelmIvP says: pHelmIvP AllStop: NothingToDo!@# 
+107.27911       APP_LOG              pHelmIvP        iter=426,log=$ pHelmIvP says: pHelmIvP AllStop: NothingToDo!@# 
+107.53016       APP_LOG              pHelmIvP        iter=427,log=$ pHelmIvP says: pHelmIvP AllStop: NothingToDo!@# 
+107.78109       APP_LOG              pHelmIvP        iter=428,log=$ 
+108.03217       APP_LOG              pHelmIvP        iter=429,log=$ 
+108.28320       APP_LOG              pHelmIvP        iter=430,log=$ 
+108.53427       APP_LOG              pHelmIvP        iter=431,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# pHelmIvP says: pHelmIvP AllStop: clear!@# 
+108.53427       APP_LOG              pHelmIvP        iter=431,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# pHelmIvP says: pHelmIvP AllStop: clear!@# 
+108.78424       APP_LOG              pHelmIvP        iter=432,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+109.03525       APP_LOG              pHelmIvP        iter=433,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+109.28578       APP_LOG              pHelmIvP        iter=434,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+109.53648       APP_LOG              pHelmIvP        iter=435,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+109.78648       APP_LOG              pHelmIvP        iter=436,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+110.03748       APP_LOG              pHelmIvP        iter=437,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+110.28752       APP_LOG              pHelmIvP        iter=438,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+110.53798       APP_LOG              pHelmIvP        iter=439,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+110.78852       APP_LOG              pHelmIvP        iter=440,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+111.03956       APP_LOG              pHelmIvP        iter=441,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+111.29015       APP_LOG              pHelmIvP        iter=442,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+111.54094       APP_LOG              pHelmIvP        iter=443,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+111.79155       APP_LOG              pHelmIvP        iter=444,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+112.04233       APP_LOG              pHelmIvP        iter=445,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+112.29306       APP_LOG              pHelmIvP        iter=446,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+112.54379       APP_LOG              pHelmIvP        iter=447,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+112.79433       APP_LOG              pHelmIvP        iter=448,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+113.04514       APP_LOG              pHelmIvP        iter=449,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+113.29571       APP_LOG              pHelmIvP        iter=450,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+113.54638       APP_LOG              pHelmIvP        iter=451,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+113.79692       APP_LOG              pHelmIvP        iter=452,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+114.04744       APP_LOG              pHelmIvP        iter=453,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+114.29802       APP_LOG              pHelmIvP        iter=454,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+114.54879       APP_LOG              pHelmIvP        iter=455,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+114.79942       APP_LOG              pHelmIvP        iter=456,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+115.05045       APP_LOG              pHelmIvP        iter=457,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+115.30098       APP_LOG              pHelmIvP        iter=458,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+115.55197       APP_LOG              pHelmIvP        iter=459,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+115.80224       APP_LOG              pHelmIvP        iter=460,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+116.05246       APP_LOG              pHelmIvP        iter=461,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+116.30247       APP_LOG              pHelmIvP        iter=462,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+116.55297       APP_LOG              pHelmIvP        iter=463,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+116.80382       APP_LOG              pHelmIvP        iter=464,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+117.05463       APP_LOG              pHelmIvP        iter=465,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+117.30521       APP_LOG              pHelmIvP        iter=466,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+117.55547       APP_LOG              pHelmIvP        iter=467,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+117.80583       APP_LOG              pHelmIvP        iter=468,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+118.05637       APP_LOG              pHelmIvP        iter=469,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+118.30702       APP_LOG              pHelmIvP        iter=470,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+118.55800       APP_LOG              pHelmIvP        iter=471,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+118.80855       APP_LOG              pHelmIvP        iter=472,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+119.05976       APP_LOG              pHelmIvP        iter=473,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+119.31033       APP_LOG              pHelmIvP        iter=474,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+119.56080       APP_LOG              pHelmIvP        iter=475,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+119.81167       APP_LOG              pHelmIvP        iter=476,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+120.06234       APP_LOG              pHelmIvP        iter=477,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+120.31295       APP_LOG              pHelmIvP        iter=478,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+120.56391       APP_LOG              pHelmIvP        iter=479,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+120.81435       APP_LOG              pHelmIvP        iter=480,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+121.06484       APP_LOG              pHelmIvP        iter=481,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+121.31479       APP_LOG              pHelmIvP        iter=482,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+121.56526       APP_LOG              pHelmIvP        iter=483,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+121.81556       APP_LOG              pHelmIvP        iter=484,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+122.06615       APP_LOG              pHelmIvP        iter=485,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+122.31687       APP_LOG              pHelmIvP        iter=486,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+122.56762       APP_LOG              pHelmIvP        iter=487,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+122.81820       APP_LOG              pHelmIvP        iter=488,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+123.06905       APP_LOG              pHelmIvP        iter=489,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+123.31965       APP_LOG              pHelmIvP        iter=490,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+123.57032       APP_LOG              pHelmIvP        iter=491,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+123.82091       APP_LOG              pHelmIvP        iter=492,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+124.07164       APP_LOG              pHelmIvP        iter=493,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+124.32225       APP_LOG              pHelmIvP        iter=494,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+124.57294       APP_LOG              pHelmIvP        iter=495,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+124.82352       APP_LOG              pHelmIvP        iter=496,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+125.07462       APP_LOG              pHelmIvP        iter=497,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+125.32526       APP_LOG              pHelmIvP        iter=498,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+125.57592       APP_LOG              pHelmIvP        iter=499,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+125.82655       APP_LOG              pHelmIvP        iter=500,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+126.07725       APP_LOG              pHelmIvP        iter=501,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+126.32795       APP_LOG              pHelmIvP        iter=502,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+126.57866       APP_LOG              pHelmIvP        iter=503,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+126.82928       APP_LOG              pHelmIvP        iter=504,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+127.08036       APP_LOG              pHelmIvP        iter=505,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+127.33101       APP_LOG              pHelmIvP        iter=506,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+127.58172       APP_LOG              pHelmIvP        iter=507,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+127.83235       APP_LOG              pHelmIvP        iter=508,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+128.08331       APP_LOG              pHelmIvP        iter=509,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+128.33398       APP_LOG              pHelmIvP        iter=510,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+128.58470       APP_LOG              pHelmIvP        iter=511,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+128.83531       APP_LOG              pHelmIvP        iter=512,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+129.08643       APP_LOG              pHelmIvP        iter=513,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+129.33625       APP_LOG              pHelmIvP        iter=514,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+129.58705       APP_LOG              pHelmIvP        iter=515,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+129.83772       APP_LOG              pHelmIvP        iter=516,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+130.08848       APP_LOG              pHelmIvP        iter=517,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+130.33921       APP_LOG              pHelmIvP        iter=518,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+130.59001       APP_LOG              pHelmIvP        iter=519,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+130.84073       APP_LOG              pHelmIvP        iter=520,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+131.09173       APP_LOG              pHelmIvP        iter=521,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+131.34246       APP_LOG              pHelmIvP        iter=522,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+131.59313       APP_LOG              pHelmIvP        iter=523,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+131.84376       APP_LOG              pHelmIvP        iter=524,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+132.09453       APP_LOG              pHelmIvP        iter=525,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+132.34524       APP_LOG              pHelmIvP        iter=526,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+132.59599       APP_LOG              pHelmIvP        iter=527,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+132.84663       APP_LOG              pHelmIvP        iter=528,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+133.09779       APP_LOG              pHelmIvP        iter=529,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+133.34846       APP_LOG              pHelmIvP        iter=530,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+133.59920       APP_LOG              pHelmIvP        iter=531,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+133.84984       APP_LOG              pHelmIvP        iter=532,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+134.10059       APP_LOG              pHelmIvP        iter=533,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+134.35130       APP_LOG              pHelmIvP        iter=534,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+134.60207       APP_LOG              pHelmIvP        iter=535,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+134.85292       APP_LOG              pHelmIvP        iter=536,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+135.10433       APP_LOG              pHelmIvP        iter=537,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+135.35496       APP_LOG              pHelmIvP        iter=538,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+135.60570       APP_LOG              pHelmIvP        iter=539,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+135.85636       APP_LOG              pHelmIvP        iter=540,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+136.10720       APP_LOG              pHelmIvP        iter=541,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+136.35798       APP_LOG              pHelmIvP        iter=542,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+136.60868       APP_LOG              pHelmIvP        iter=543,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+136.85939       APP_LOG              pHelmIvP        iter=544,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+137.11027       APP_LOG              pHelmIvP        iter=545,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+137.36103       APP_LOG              pHelmIvP        iter=546,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+137.36103       APP_LOG              pHelmIvP        iter=546,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+137.61159       APP_LOG              pHelmIvP        iter=547,log=$Checking Param Collective: avdcol_!@#Checking Param Collective Done: Msg:[]!@#Total Behaviors now: 5!@#curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+137.86165       APP_LOG              pHelmIvP        iter=548,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+138.11251       APP_LOG              pHelmIvP        iter=549,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+138.36267       APP_LOG              pHelmIvP        iter=550,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+138.61365       APP_LOG              pHelmIvP        iter=551,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+138.86398       APP_LOG              pHelmIvP        iter=552,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+139.11458       APP_LOG              pHelmIvP        iter=553,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+139.36469       APP_LOG              pHelmIvP        iter=554,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+139.61561       APP_LOG              pHelmIvP        iter=555,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+139.86616       APP_LOG              pHelmIvP        iter=556,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+140.11712       APP_LOG              pHelmIvP        iter=557,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+140.36795       APP_LOG              pHelmIvP        iter=558,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+140.61816       APP_LOG              pHelmIvP        iter=559,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+140.86833       APP_LOG              pHelmIvP        iter=560,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+141.11867       APP_LOG              pHelmIvP        iter=561,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+141.36878       APP_LOG              pHelmIvP        iter=562,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+141.61978       APP_LOG              pHelmIvP        iter=563,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+141.86976       APP_LOG              pHelmIvP        iter=564,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+142.12072       APP_LOG              pHelmIvP        iter=565,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+142.37226       APP_LOG              pHelmIvP        iter=566,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+142.62222       APP_LOG              pHelmIvP        iter=567,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+142.87236       APP_LOG              pHelmIvP        iter=568,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+143.12288       APP_LOG              pHelmIvP        iter=569,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+143.37297       APP_LOG              pHelmIvP        iter=570,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+143.62341       APP_LOG              pHelmIvP        iter=571,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+143.87400       APP_LOG              pHelmIvP        iter=572,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+144.12495       APP_LOG              pHelmIvP        iter=573,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+144.37552       APP_LOG              pHelmIvP        iter=574,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+144.62600       APP_LOG              pHelmIvP        iter=575,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+144.87658       APP_LOG              pHelmIvP        iter=576,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+145.12722       APP_LOG              pHelmIvP        iter=577,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+145.37708       APP_LOG              pHelmIvP        iter=578,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+145.62741       APP_LOG              pHelmIvP        iter=579,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+145.87791       APP_LOG              pHelmIvP        iter=580,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+146.12853       APP_LOG              pHelmIvP        iter=581,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+146.37863       APP_LOG              pHelmIvP        iter=582,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+146.62904       APP_LOG              pHelmIvP        iter=583,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+146.87922       APP_LOG              pHelmIvP        iter=584,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+147.13063       APP_LOG              pHelmIvP        iter=585,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+147.38136       APP_LOG              pHelmIvP        iter=586,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+147.63325       APP_LOG              pHelmIvP        iter=587,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+147.88334       APP_LOG              pHelmIvP        iter=588,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+148.13357       APP_LOG              pHelmIvP        iter=589,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+148.38426       APP_LOG              pHelmIvP        iter=590,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+148.63470       APP_LOG              pHelmIvP        iter=591,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+148.88518       APP_LOG              pHelmIvP        iter=592,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+149.13644       APP_LOG              pHelmIvP        iter=593,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+149.38665       APP_LOG              pHelmIvP        iter=594,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+149.63733       APP_LOG              pHelmIvP        iter=595,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+149.88793       APP_LOG              pHelmIvP        iter=596,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+150.13836       APP_LOG              pHelmIvP        iter=597,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+150.38888       APP_LOG              pHelmIvP        iter=598,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+150.63947       APP_LOG              pHelmIvP        iter=599,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+150.88975       APP_LOG              pHelmIvP        iter=600,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+151.14129       APP_LOG              pHelmIvP        iter=601,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+151.39174       APP_LOG              pHelmIvP        iter=602,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+151.64203       APP_LOG              pHelmIvP        iter=603,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+151.89229       APP_LOG              pHelmIvP        iter=604,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+152.14276       APP_LOG              pHelmIvP        iter=605,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+152.39310       APP_LOG              pHelmIvP        iter=606,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+152.64327       APP_LOG              pHelmIvP        iter=607,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+152.89326       APP_LOG              pHelmIvP        iter=608,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+153.14397       APP_LOG              pHelmIvP        iter=609,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+153.39457       APP_LOG              pHelmIvP        iter=610,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+153.64535       APP_LOG              pHelmIvP        iter=611,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+153.89600       APP_LOG              pHelmIvP        iter=612,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+154.14670       APP_LOG              pHelmIvP        iter=613,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+154.39726       APP_LOG              pHelmIvP        iter=614,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+154.64811       APP_LOG              pHelmIvP        iter=615,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+154.89855       APP_LOG              pHelmIvP        iter=616,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+155.14924       APP_LOG              pHelmIvP        iter=617,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+155.39914       APP_LOG              pHelmIvP        iter=618,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+155.64990       APP_LOG              pHelmIvP        iter=619,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+155.90024       APP_LOG              pHelmIvP        iter=620,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+156.15187       APP_LOG              pHelmIvP        iter=621,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+156.40221       APP_LOG              pHelmIvP        iter=622,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+156.65393       APP_LOG              pHelmIvP        iter=623,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+156.90463       APP_LOG              pHelmIvP        iter=624,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+157.15577       APP_LOG              pHelmIvP        iter=625,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+157.40562       APP_LOG              pHelmIvP        iter=626,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+157.65612       APP_LOG              pHelmIvP        iter=627,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+157.90714       APP_LOG              pHelmIvP        iter=628,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+158.15775       APP_LOG              pHelmIvP        iter=629,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+158.40826       APP_LOG              pHelmIvP        iter=630,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+158.65911       APP_LOG              pHelmIvP        iter=631,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+158.90936       APP_LOG              pHelmIvP        iter=632,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+159.16067       APP_LOG              pHelmIvP        iter=633,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+159.41074       APP_LOG              pHelmIvP        iter=634,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+159.66114       APP_LOG              pHelmIvP        iter=635,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+159.91124       APP_LOG              pHelmIvP        iter=636,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+160.16204       APP_LOG              pHelmIvP        iter=637,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+160.41289       APP_LOG              pHelmIvP        iter=638,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+160.66399       APP_LOG              pHelmIvP        iter=639,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+160.91424       APP_LOG              pHelmIvP        iter=640,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+161.16558       APP_LOG              pHelmIvP        iter=641,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+161.41614       APP_LOG              pHelmIvP        iter=642,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+161.66721       APP_LOG              pHelmIvP        iter=643,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+161.91797       APP_LOG              pHelmIvP        iter=644,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+162.16837       APP_LOG              pHelmIvP        iter=645,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+162.41893       APP_LOG              pHelmIvP        iter=646,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+162.67016       APP_LOG              pHelmIvP        iter=647,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+162.92100       APP_LOG              pHelmIvP        iter=648,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+163.17294       APP_LOG              pHelmIvP        iter=649,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+163.42185       APP_LOG              pHelmIvP        iter=650,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+163.67257       APP_LOG              pHelmIvP        iter=651,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+163.92309       APP_LOG              pHelmIvP        iter=652,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+164.17370       APP_LOG              pHelmIvP        iter=653,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+164.42434       APP_LOG              pHelmIvP        iter=654,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+164.67504       APP_LOG              pHelmIvP        iter=655,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+164.92529       APP_LOG              pHelmIvP        iter=656,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+165.17568       APP_LOG              pHelmIvP        iter=657,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+165.42622       APP_LOG              pHelmIvP        iter=658,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+165.67731       APP_LOG              pHelmIvP        iter=659,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+165.92758       APP_LOG              pHelmIvP        iter=660,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+166.17805       APP_LOG              pHelmIvP        iter=661,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+166.42877       APP_LOG              pHelmIvP        iter=662,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+166.67938       APP_LOG              pHelmIvP        iter=663,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+166.92975       APP_LOG              pHelmIvP        iter=664,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+167.18025       APP_LOG              pHelmIvP        iter=665,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+167.43099       APP_LOG              pHelmIvP        iter=666,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+167.68201       APP_LOG              pHelmIvP        iter=667,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+167.93213       APP_LOG              pHelmIvP        iter=668,log=$Checking Param Collective: avdcol_!@#Checking Param Collective Done: Msg:[]!@#Total Behaviors now: 6!@#curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+168.18276       APP_LOG              pHelmIvP        iter=669,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+168.43281       APP_LOG              pHelmIvP        iter=670,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+168.68306       APP_LOG              pHelmIvP        iter=671,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+168.68306       APP_LOG              pHelmIvP        iter=671,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+168.93377       APP_LOG              pHelmIvP        iter=672,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+169.18430       APP_LOG              pHelmIvP        iter=673,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+169.43437       APP_LOG              pHelmIvP        iter=674,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+169.68511       APP_LOG              pHelmIvP        iter=675,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+169.93558       APP_LOG              pHelmIvP        iter=676,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+170.18594       APP_LOG              pHelmIvP        iter=677,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+170.43632       APP_LOG              pHelmIvP        iter=678,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+170.68679       APP_LOG              pHelmIvP        iter=679,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+170.93734       APP_LOG              pHelmIvP        iter=680,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+171.18784       APP_LOG              pHelmIvP        iter=681,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+171.43770       APP_LOG              pHelmIvP        iter=682,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+171.68826       APP_LOG              pHelmIvP        iter=683,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+171.93944       APP_LOG              pHelmIvP        iter=684,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+172.18989       APP_LOG              pHelmIvP        iter=685,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+172.44039       APP_LOG              pHelmIvP        iter=686,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+172.69124       APP_LOG              pHelmIvP        iter=687,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+172.94226       APP_LOG              pHelmIvP        iter=688,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+173.19335       APP_LOG              pHelmIvP        iter=689,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+173.44355       APP_LOG              pHelmIvP        iter=690,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+173.69435       APP_LOG              pHelmIvP        iter=691,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+173.94510       APP_LOG              pHelmIvP        iter=692,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+174.19548       APP_LOG              pHelmIvP        iter=693,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+174.44660       APP_LOG              pHelmIvP        iter=694,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+174.69730       APP_LOG              pHelmIvP        iter=695,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+174.94827       APP_LOG              pHelmIvP        iter=696,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+175.19870       APP_LOG              pHelmIvP        iter=697,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+175.44965       APP_LOG              pHelmIvP        iter=698,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+175.70030       APP_LOG              pHelmIvP        iter=699,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+175.95135       APP_LOG              pHelmIvP        iter=700,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+176.20161       APP_LOG              pHelmIvP        iter=701,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+176.45249       APP_LOG              pHelmIvP        iter=702,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+176.70315       APP_LOG              pHelmIvP        iter=703,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+176.95435       APP_LOG              pHelmIvP        iter=704,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+177.20498       APP_LOG              pHelmIvP        iter=705,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+177.45562       APP_LOG              pHelmIvP        iter=706,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+177.70635       APP_LOG              pHelmIvP        iter=707,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+177.95663       APP_LOG              pHelmIvP        iter=708,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+178.20682       APP_LOG              pHelmIvP        iter=709,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+178.45779       APP_LOG              pHelmIvP        iter=710,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+178.70852       APP_LOG              pHelmIvP        iter=711,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+178.95901       APP_LOG              pHelmIvP        iter=712,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+179.21007       APP_LOG              pHelmIvP        iter=713,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+179.46040       APP_LOG              pHelmIvP        iter=714,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+179.71052       APP_LOG              pHelmIvP        iter=715,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+179.96129       APP_LOG              pHelmIvP        iter=716,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+180.21210       APP_LOG              pHelmIvP        iter=717,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+180.46306       APP_LOG              pHelmIvP        iter=718,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+180.71327       APP_LOG              pHelmIvP        iter=719,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+180.96397       APP_LOG              pHelmIvP        iter=720,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+181.21482       APP_LOG              pHelmIvP        iter=721,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+181.46505       APP_LOG              pHelmIvP        iter=722,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+181.71584       APP_LOG              pHelmIvP        iter=723,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+181.96679       APP_LOG              pHelmIvP        iter=724,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+182.21719       APP_LOG              pHelmIvP        iter=725,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+182.46841       APP_LOG              pHelmIvP        iter=726,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+182.71873       APP_LOG              pHelmIvP        iter=727,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+182.96921       APP_LOG              pHelmIvP        iter=728,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+183.22033       APP_LOG              pHelmIvP        iter=729,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+183.47096       APP_LOG              pHelmIvP        iter=730,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+183.72166       APP_LOG              pHelmIvP        iter=731,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+183.97228       APP_LOG              pHelmIvP        iter=732,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+184.22315       APP_LOG              pHelmIvP        iter=733,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+184.47434       APP_LOG              pHelmIvP        iter=734,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+184.72515       APP_LOG              pHelmIvP        iter=735,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+184.97631       APP_LOG              pHelmIvP        iter=736,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+185.22745       APP_LOG              pHelmIvP        iter=737,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+185.47830       APP_LOG              pHelmIvP        iter=738,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+185.72919       APP_LOG              pHelmIvP        iter=739,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+185.97981       APP_LOG              pHelmIvP        iter=740,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+186.23048       APP_LOG              pHelmIvP        iter=741,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+186.48153       APP_LOG              pHelmIvP        iter=742,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+186.73210       APP_LOG              pHelmIvP        iter=743,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+186.98262       APP_LOG              pHelmIvP        iter=744,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+187.23328       APP_LOG              pHelmIvP        iter=745,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+187.48407       APP_LOG              pHelmIvP        iter=746,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+187.73481       APP_LOG              pHelmIvP        iter=747,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+187.98506       APP_LOG              pHelmIvP        iter=748,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+188.23545       APP_LOG              pHelmIvP        iter=749,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+188.48613       APP_LOG              pHelmIvP        iter=750,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+188.73666       APP_LOG              pHelmIvP        iter=751,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+188.98765       APP_LOG              pHelmIvP        iter=752,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+189.23864       APP_LOG              pHelmIvP        iter=753,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+189.48917       APP_LOG              pHelmIvP        iter=754,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+189.73988       APP_LOG              pHelmIvP        iter=755,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+189.99103       APP_LOG              pHelmIvP        iter=756,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+190.24113       APP_LOG              pHelmIvP        iter=757,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+190.49153       APP_LOG              pHelmIvP        iter=758,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+190.74212       APP_LOG              pHelmIvP        iter=759,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+190.99299       APP_LOG              pHelmIvP        iter=760,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+191.24323       APP_LOG              pHelmIvP        iter=761,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+191.49335       APP_LOG              pHelmIvP        iter=762,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+191.74338       APP_LOG              pHelmIvP        iter=763,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+191.99381       APP_LOG              pHelmIvP        iter=764,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+192.24437       APP_LOG              pHelmIvP        iter=765,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+192.49544       APP_LOG              pHelmIvP        iter=766,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+192.74588       APP_LOG              pHelmIvP        iter=767,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+192.99673       APP_LOG              pHelmIvP        iter=768,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+193.24758       APP_LOG              pHelmIvP        iter=769,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+193.49802       APP_LOG              pHelmIvP        iter=770,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+193.74806       APP_LOG              pHelmIvP        iter=771,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+193.99846       APP_LOG              pHelmIvP        iter=772,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+194.24942       APP_LOG              pHelmIvP        iter=773,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+194.49960       APP_LOG              pHelmIvP        iter=774,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+194.75017       APP_LOG              pHelmIvP        iter=775,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+195.00131       APP_LOG              pHelmIvP        iter=776,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+195.25291       APP_LOG              pHelmIvP        iter=777,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+195.50303       APP_LOG              pHelmIvP        iter=778,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+195.75345       APP_LOG              pHelmIvP        iter=779,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+196.00426       APP_LOG              pHelmIvP        iter=780,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+196.25440       APP_LOG              pHelmIvP        iter=781,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+196.50501       APP_LOG              pHelmIvP        iter=782,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+196.75577       APP_LOG              pHelmIvP        iter=783,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+197.00601       APP_LOG              pHelmIvP        iter=784,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+197.25655       APP_LOG              pHelmIvP        iter=785,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+197.50659       APP_LOG              pHelmIvP        iter=786,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+197.75730       APP_LOG              pHelmIvP        iter=787,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+198.00827       APP_LOG              pHelmIvP        iter=788,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+198.25841       APP_LOG              pHelmIvP        iter=789,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+198.50897       APP_LOG              pHelmIvP        iter=790,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+198.75923       APP_LOG              pHelmIvP        iter=791,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+199.00976       APP_LOG              pHelmIvP        iter=792,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+199.26087       APP_LOG              pHelmIvP        iter=793,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+199.51158       APP_LOG              pHelmIvP        iter=794,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+199.76216       APP_LOG              pHelmIvP        iter=795,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+200.01324       APP_LOG              pHelmIvP        iter=796,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+200.26411       APP_LOG              pHelmIvP        iter=797,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+200.51453       APP_LOG              pHelmIvP        iter=798,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+200.76545       APP_LOG              pHelmIvP        iter=799,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+201.01639       APP_LOG              pHelmIvP        iter=800,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+201.26744       APP_LOG              pHelmIvP        iter=801,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+201.51803       APP_LOG              pHelmIvP        iter=802,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+201.76849       APP_LOG              pHelmIvP        iter=803,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+202.01938       APP_LOG              pHelmIvP        iter=804,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+202.26950       APP_LOG              pHelmIvP        iter=805,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+202.51992       APP_LOG              pHelmIvP        iter=806,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+202.77035       APP_LOG              pHelmIvP        iter=807,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+203.02077       APP_LOG              pHelmIvP        iter=808,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+203.27155       APP_LOG              pHelmIvP        iter=809,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+203.52227       APP_LOG              pHelmIvP        iter=810,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+203.77243       APP_LOG              pHelmIvP        iter=811,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+204.02287       APP_LOG              pHelmIvP        iter=812,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+204.27380       APP_LOG              pHelmIvP        iter=813,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+204.52414       APP_LOG              pHelmIvP        iter=814,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+204.77668       APP_LOG              pHelmIvP        iter=815,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+205.02723       APP_LOG              pHelmIvP        iter=816,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+205.27745       APP_LOG              pHelmIvP        iter=817,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+205.52830       APP_LOG              pHelmIvP        iter=818,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+205.77852       APP_LOG              pHelmIvP        iter=819,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+206.02884       APP_LOG              pHelmIvP        iter=820,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+206.27984       APP_LOG              pHelmIvP        iter=821,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+206.53010       APP_LOG              pHelmIvP        iter=822,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+206.78041       APP_LOG              pHelmIvP        iter=823,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+207.03125       APP_LOG              pHelmIvP        iter=824,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+207.28159       APP_LOG              pHelmIvP        iter=825,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+207.53215       APP_LOG              pHelmIvP        iter=826,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+207.78248       APP_LOG              pHelmIvP        iter=827,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+208.03272       APP_LOG              pHelmIvP        iter=828,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+208.28353       APP_LOG              pHelmIvP        iter=829,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+208.53400       APP_LOG              pHelmIvP        iter=830,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+208.78410       APP_LOG              pHelmIvP        iter=831,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+209.03468       APP_LOG              pHelmIvP        iter=832,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+209.28529       APP_LOG              pHelmIvP        iter=833,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+209.53545       APP_LOG              pHelmIvP        iter=834,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+209.78618       APP_LOG              pHelmIvP        iter=835,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+210.03678       APP_LOG              pHelmIvP        iter=836,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+210.28680       APP_LOG              pHelmIvP        iter=837,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+210.53699       APP_LOG              pHelmIvP        iter=838,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+210.78721       APP_LOG              pHelmIvP        iter=839,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+211.03832       APP_LOG              pHelmIvP        iter=840,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+211.28924       APP_LOG              pHelmIvP        iter=841,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+211.53984       APP_LOG              pHelmIvP        iter=842,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+211.78984       APP_LOG              pHelmIvP        iter=843,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+212.04018       APP_LOG              pHelmIvP        iter=844,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+212.29072       APP_LOG              pHelmIvP        iter=845,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+212.54185       APP_LOG              pHelmIvP        iter=846,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+212.79207       APP_LOG              pHelmIvP        iter=847,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+213.04306       APP_LOG              pHelmIvP        iter=848,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+213.29377       APP_LOG              pHelmIvP        iter=849,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+213.54400       APP_LOG              pHelmIvP        iter=850,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+213.79412       APP_LOG              pHelmIvP        iter=851,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+214.04590       APP_LOG              pHelmIvP        iter=852,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+214.29498       APP_LOG              pHelmIvP        iter=853,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+214.54583       APP_LOG              pHelmIvP        iter=854,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+214.79604       APP_LOG              pHelmIvP        iter=855,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+215.04643       APP_LOG              pHelmIvP        iter=856,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+215.29739       APP_LOG              pHelmIvP        iter=857,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+215.54768       APP_LOG              pHelmIvP        iter=858,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+215.79844       APP_LOG              pHelmIvP        iter=859,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+216.04872       APP_LOG              pHelmIvP        iter=860,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+216.29896       APP_LOG              pHelmIvP        iter=861,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+216.55032       APP_LOG              pHelmIvP        iter=862,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+216.80113       APP_LOG              pHelmIvP        iter=863,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+217.05145       APP_LOG              pHelmIvP        iter=864,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+217.30252       APP_LOG              pHelmIvP        iter=865,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+217.55311       APP_LOG              pHelmIvP        iter=866,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+217.80394       APP_LOG              pHelmIvP        iter=867,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+218.05465       APP_LOG              pHelmIvP        iter=868,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+218.30540       APP_LOG              pHelmIvP        iter=869,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+218.55618       APP_LOG              pHelmIvP        iter=870,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+218.80694       APP_LOG              pHelmIvP        iter=871,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+219.05728       APP_LOG              pHelmIvP        iter=872,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+219.30828       APP_LOG              pHelmIvP        iter=873,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+219.55840       APP_LOG              pHelmIvP        iter=874,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+219.80903       APP_LOG              pHelmIvP        iter=875,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+220.05926       APP_LOG              pHelmIvP        iter=876,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+220.30989       APP_LOG              pHelmIvP        iter=877,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+220.56066       APP_LOG              pHelmIvP        iter=878,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+220.81106       APP_LOG              pHelmIvP        iter=879,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+221.06177       APP_LOG              pHelmIvP        iter=880,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+221.31272       APP_LOG              pHelmIvP        iter=881,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+221.56364       APP_LOG              pHelmIvP        iter=882,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+221.81431       APP_LOG              pHelmIvP        iter=883,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+222.06546       APP_LOG              pHelmIvP        iter=884,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+222.31578       APP_LOG              pHelmIvP        iter=885,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+222.56632       APP_LOG              pHelmIvP        iter=886,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+222.81711       APP_LOG              pHelmIvP        iter=887,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+223.06802       APP_LOG              pHelmIvP        iter=888,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+223.31842       APP_LOG              pHelmIvP        iter=889,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+223.56831       APP_LOG              pHelmIvP        iter=890,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+223.81911       APP_LOG              pHelmIvP        iter=891,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+224.06961       APP_LOG              pHelmIvP        iter=892,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+224.32106       APP_LOG              pHelmIvP        iter=893,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+224.57154       APP_LOG              pHelmIvP        iter=894,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+224.82225       APP_LOG              pHelmIvP        iter=895,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+225.07296       APP_LOG              pHelmIvP        iter=896,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+225.32352       APP_LOG              pHelmIvP        iter=897,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+225.57372       APP_LOG              pHelmIvP        iter=898,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+225.82431       APP_LOG              pHelmIvP        iter=899,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+226.07481       APP_LOG              pHelmIvP        iter=900,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+226.32517       APP_LOG              pHelmIvP        iter=901,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+226.57606       APP_LOG              pHelmIvP        iter=902,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+226.82685       APP_LOG              pHelmIvP        iter=903,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+227.07801       APP_LOG              pHelmIvP        iter=904,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+227.32827       APP_LOG              pHelmIvP        iter=905,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+227.57889       APP_LOG              pHelmIvP        iter=906,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+227.82917       APP_LOG              pHelmIvP        iter=907,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+228.07974       APP_LOG              pHelmIvP        iter=908,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+228.33039       APP_LOG              pHelmIvP        iter=909,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+228.58094       APP_LOG              pHelmIvP        iter=910,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+228.83146       APP_LOG              pHelmIvP        iter=911,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+229.08191       APP_LOG              pHelmIvP        iter=912,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+229.33219       APP_LOG              pHelmIvP        iter=913,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+229.58294       APP_LOG              pHelmIvP        iter=914,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+229.83301       APP_LOG              pHelmIvP        iter=915,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+230.08398       APP_LOG              pHelmIvP        iter=916,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+230.33432       APP_LOG              pHelmIvP        iter=917,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+230.58510       APP_LOG              pHelmIvP        iter=918,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+230.83509       APP_LOG              pHelmIvP        iter=919,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+231.08592       APP_LOG              pHelmIvP        iter=920,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+231.33684       APP_LOG              pHelmIvP        iter=921,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+231.58777       APP_LOG              pHelmIvP        iter=922,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+231.83786       APP_LOG              pHelmIvP        iter=923,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+232.08807       APP_LOG              pHelmIvP        iter=924,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+232.33818       APP_LOG              pHelmIvP        iter=925,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+232.58888       APP_LOG              pHelmIvP        iter=926,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+232.83937       APP_LOG              pHelmIvP        iter=927,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+233.09013       APP_LOG              pHelmIvP        iter=928,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+233.34116       APP_LOG              pHelmIvP        iter=929,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+233.59115       APP_LOG              pHelmIvP        iter=930,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+233.84256       APP_LOG              pHelmIvP        iter=931,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+234.09355       APP_LOG              pHelmIvP        iter=932,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+234.34427       APP_LOG              pHelmIvP        iter=933,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+234.59459       APP_LOG              pHelmIvP        iter=934,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+234.84461       APP_LOG              pHelmIvP        iter=935,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+235.09568       APP_LOG              pHelmIvP        iter=936,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+235.34694       APP_LOG              pHelmIvP        iter=937,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+235.59744       APP_LOG              pHelmIvP        iter=938,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+235.84752       APP_LOG              pHelmIvP        iter=939,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+236.09815       APP_LOG              pHelmIvP        iter=940,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+236.34830       APP_LOG              pHelmIvP        iter=941,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+236.59908       APP_LOG              pHelmIvP        iter=942,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+236.84990       APP_LOG              pHelmIvP        iter=943,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+237.10037       APP_LOG              pHelmIvP        iter=944,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+237.35075       APP_LOG              pHelmIvP        iter=945,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+237.60100       APP_LOG              pHelmIvP        iter=946,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+237.85126       APP_LOG              pHelmIvP        iter=947,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+238.10180       APP_LOG              pHelmIvP        iter=948,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+238.35251       APP_LOG              pHelmIvP        iter=949,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+238.60328       APP_LOG              pHelmIvP        iter=950,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+238.85347       APP_LOG              pHelmIvP        iter=951,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+239.10439       APP_LOG              pHelmIvP        iter=952,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+239.35535       APP_LOG              pHelmIvP        iter=953,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+239.60573       APP_LOG              pHelmIvP        iter=954,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+239.85615       APP_LOG              pHelmIvP        iter=955,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+240.10658       APP_LOG              pHelmIvP        iter=956,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+240.35754       APP_LOG              pHelmIvP        iter=957,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+240.60828       APP_LOG              pHelmIvP        iter=958,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+240.85829       APP_LOG              pHelmIvP        iter=959,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+241.10903       APP_LOG              pHelmIvP        iter=960,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+241.35958       APP_LOG              pHelmIvP        iter=961,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+241.61022       APP_LOG              pHelmIvP        iter=962,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+241.86099       APP_LOG              pHelmIvP        iter=963,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+242.11135       APP_LOG              pHelmIvP        iter=964,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+242.36216       APP_LOG              pHelmIvP        iter=965,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+242.61292       APP_LOG              pHelmIvP        iter=966,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+242.86322       APP_LOG              pHelmIvP        iter=967,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+243.11424       APP_LOG              pHelmIvP        iter=968,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+243.36462       APP_LOG              pHelmIvP        iter=969,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+243.61503       APP_LOG              pHelmIvP        iter=970,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+243.86547       APP_LOG              pHelmIvP        iter=971,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+244.11663       APP_LOG              pHelmIvP        iter=972,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+244.36669       APP_LOG              pHelmIvP        iter=973,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+244.61697       APP_LOG              pHelmIvP        iter=974,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+244.86755       APP_LOG              pHelmIvP        iter=975,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+245.11813       APP_LOG              pHelmIvP        iter=976,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+245.36846       APP_LOG              pHelmIvP        iter=977,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+245.61852       APP_LOG              pHelmIvP        iter=978,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+245.86898       APP_LOG              pHelmIvP        iter=979,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+246.11951       APP_LOG              pHelmIvP        iter=980,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+246.37031       APP_LOG              pHelmIvP        iter=981,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+246.62104       APP_LOG              pHelmIvP        iter=982,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+246.87148       APP_LOG              pHelmIvP        iter=983,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+247.12198       APP_LOG              pHelmIvP        iter=984,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+247.37263       APP_LOG              pHelmIvP        iter=985,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+247.62300       APP_LOG              pHelmIvP        iter=986,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+247.87379       APP_LOG              pHelmIvP        iter=987,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+248.12425       APP_LOG              pHelmIvP        iter=988,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+248.37497       APP_LOG              pHelmIvP        iter=989,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+248.62570       APP_LOG              pHelmIvP        iter=990,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+248.87654       APP_LOG              pHelmIvP        iter=991,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+249.12696       APP_LOG              pHelmIvP        iter=992,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+249.37735       APP_LOG              pHelmIvP        iter=993,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+249.62759       APP_LOG              pHelmIvP        iter=994,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+249.87802       APP_LOG              pHelmIvP        iter=995,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+250.12906       APP_LOG              pHelmIvP        iter=996,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+250.37970       APP_LOG              pHelmIvP        iter=997,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+250.63064       APP_LOG              pHelmIvP        iter=998,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+250.88100       APP_LOG              pHelmIvP        iter=999,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+251.13191       APP_LOG              pHelmIvP        iter=1000,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+251.38242       APP_LOG              pHelmIvP        iter=1001,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+251.63319       APP_LOG              pHelmIvP        iter=1002,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+251.88336       APP_LOG              pHelmIvP        iter=1003,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+252.13420       APP_LOG              pHelmIvP        iter=1004,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+252.38468       APP_LOG              pHelmIvP        iter=1005,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+252.63519       APP_LOG              pHelmIvP        iter=1006,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+252.88596       APP_LOG              pHelmIvP        iter=1007,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+253.13691       APP_LOG              pHelmIvP        iter=1008,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+253.38797       APP_LOG              pHelmIvP        iter=1009,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+253.63809       APP_LOG              pHelmIvP        iter=1010,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+253.88894       APP_LOG              pHelmIvP        iter=1011,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+254.13987       APP_LOG              pHelmIvP        iter=1012,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+254.39032       APP_LOG              pHelmIvP        iter=1013,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+254.64117       APP_LOG              pHelmIvP        iter=1014,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+254.89135       APP_LOG              pHelmIvP        iter=1015,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+255.14236       APP_LOG              pHelmIvP        iter=1016,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+255.39278       APP_LOG              pHelmIvP        iter=1017,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+255.64278       APP_LOG              pHelmIvP        iter=1018,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+255.89277       APP_LOG              pHelmIvP        iter=1019,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+256.14394       APP_LOG              pHelmIvP        iter=1020,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+256.39394       APP_LOG              pHelmIvP        iter=1021,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+256.64655       APP_LOG              pHelmIvP        iter=1022,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+256.89676       APP_LOG              pHelmIvP        iter=1023,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+257.14695       APP_LOG              pHelmIvP        iter=1024,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+257.39746       APP_LOG              pHelmIvP        iter=1025,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+257.64810       APP_LOG              pHelmIvP        iter=1026,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+257.90938       APP_LOG              pHelmIvP        iter=1027,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+258.15981       APP_LOG              pHelmIvP        iter=1028,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+258.41018       APP_LOG              pHelmIvP        iter=1029,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+258.66072       APP_LOG              pHelmIvP        iter=1030,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+258.91238       APP_LOG              pHelmIvP        iter=1031,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+259.16354       APP_LOG              pHelmIvP        iter=1032,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+259.41441       APP_LOG              pHelmIvP        iter=1033,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+259.66502       APP_LOG              pHelmIvP        iter=1034,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+259.91554       APP_LOG              pHelmIvP        iter=1035,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+260.16604       APP_LOG              pHelmIvP        iter=1036,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+260.41660       APP_LOG              pHelmIvP        iter=1037,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+260.66693       APP_LOG              pHelmIvP        iter=1038,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+260.91705       APP_LOG              pHelmIvP        iter=1039,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+261.16735       APP_LOG              pHelmIvP        iter=1040,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+261.41777       APP_LOG              pHelmIvP        iter=1041,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+261.66772       APP_LOG              pHelmIvP        iter=1042,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+261.91785       APP_LOG              pHelmIvP        iter=1043,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+262.16830       APP_LOG              pHelmIvP        iter=1044,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+262.41859       APP_LOG              pHelmIvP        iter=1045,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+262.66965       APP_LOG              pHelmIvP        iter=1046,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+262.92035       APP_LOG              pHelmIvP        iter=1047,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+263.17153       APP_LOG              pHelmIvP        iter=1048,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+263.42260       APP_LOG              pHelmIvP        iter=1049,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+263.67323       APP_LOG              pHelmIvP        iter=1050,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+263.92421       APP_LOG              pHelmIvP        iter=1051,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+264.17529       APP_LOG              pHelmIvP        iter=1052,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+264.42619       APP_LOG              pHelmIvP        iter=1053,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+264.67690       APP_LOG              pHelmIvP        iter=1054,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+264.92758       APP_LOG              pHelmIvP        iter=1055,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+265.17791       APP_LOG              pHelmIvP        iter=1056,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+265.42830       APP_LOG              pHelmIvP        iter=1057,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+265.67865       APP_LOG              pHelmIvP        iter=1058,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+265.92865       APP_LOG              pHelmIvP        iter=1059,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+266.17931       APP_LOG              pHelmIvP        iter=1060,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+266.42987       APP_LOG              pHelmIvP        iter=1061,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+266.68056       APP_LOG              pHelmIvP        iter=1062,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+266.93091       APP_LOG              pHelmIvP        iter=1063,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+267.18128       APP_LOG              pHelmIvP        iter=1064,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+267.43238       APP_LOG              pHelmIvP        iter=1065,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+267.68293       APP_LOG              pHelmIvP        iter=1066,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+267.93343       APP_LOG              pHelmIvP        iter=1067,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+268.18394       APP_LOG              pHelmIvP        iter=1068,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+268.43434       APP_LOG              pHelmIvP        iter=1069,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+268.68534       APP_LOG              pHelmIvP        iter=1070,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+268.93649       APP_LOG              pHelmIvP        iter=1071,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+269.18713       APP_LOG              pHelmIvP        iter=1072,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+269.43772       APP_LOG              pHelmIvP        iter=1073,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+269.68820       APP_LOG              pHelmIvP        iter=1074,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+269.93896       APP_LOG              pHelmIvP        iter=1075,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+270.19003       APP_LOG              pHelmIvP        iter=1076,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+270.44019       APP_LOG              pHelmIvP        iter=1077,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+270.69062       APP_LOG              pHelmIvP        iter=1078,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+270.94083       APP_LOG              pHelmIvP        iter=1079,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+271.19143       APP_LOG              pHelmIvP        iter=1080,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+271.44405       APP_LOG              pHelmIvP        iter=1081,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+271.44405       APP_LOG              pHelmIvP        iter=1081,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+271.69223       APP_LOG              pHelmIvP        iter=1082,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+271.94269       APP_LOG              pHelmIvP        iter=1083,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+272.19351       APP_LOG              pHelmIvP        iter=1084,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+272.44425       APP_LOG              pHelmIvP        iter=1085,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+272.69477       APP_LOG              pHelmIvP        iter=1086,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+272.94580       APP_LOG              pHelmIvP        iter=1087,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+273.19658       APP_LOG              pHelmIvP        iter=1088,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+273.44763       APP_LOG              pHelmIvP        iter=1089,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+273.69785       APP_LOG              pHelmIvP        iter=1090,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+273.94819       APP_LOG              pHelmIvP        iter=1091,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+274.19852       APP_LOG              pHelmIvP        iter=1092,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+274.44864       APP_LOG              pHelmIvP        iter=1093,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+274.69903       APP_LOG              pHelmIvP        iter=1094,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+274.94958       APP_LOG              pHelmIvP        iter=1095,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+275.20002       APP_LOG              pHelmIvP        iter=1096,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+275.45047       APP_LOG              pHelmIvP        iter=1097,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+275.70124       APP_LOG              pHelmIvP        iter=1098,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+275.95143       APP_LOG              pHelmIvP        iter=1099,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+276.20174       APP_LOG              pHelmIvP        iter=1100,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+276.45247       APP_LOG              pHelmIvP        iter=1101,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+276.70355       APP_LOG              pHelmIvP        iter=1102,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+276.95447       APP_LOG              pHelmIvP        iter=1103,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+277.20562       APP_LOG              pHelmIvP        iter=1104,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+277.45586       APP_LOG              pHelmIvP        iter=1105,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+277.70590       APP_LOG              pHelmIvP        iter=1106,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+277.95592       APP_LOG              pHelmIvP        iter=1107,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+278.20689       APP_LOG              pHelmIvP        iter=1108,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+278.45714       APP_LOG              pHelmIvP        iter=1109,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+278.70743       APP_LOG              pHelmIvP        iter=1110,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+278.95776       APP_LOG              pHelmIvP        iter=1111,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+279.20804       APP_LOG              pHelmIvP        iter=1112,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+279.45914       APP_LOG              pHelmIvP        iter=1113,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+279.70989       APP_LOG              pHelmIvP        iter=1114,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+279.96024       APP_LOG              pHelmIvP        iter=1115,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+280.21109       APP_LOG              pHelmIvP        iter=1116,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+280.46196       APP_LOG              pHelmIvP        iter=1117,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+280.71301       APP_LOG              pHelmIvP        iter=1118,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+280.96324       APP_LOG              pHelmIvP        iter=1119,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+281.21361       APP_LOG              pHelmIvP        iter=1120,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+281.46449       APP_LOG              pHelmIvP        iter=1121,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+281.71519       APP_LOG              pHelmIvP        iter=1122,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+281.96541       APP_LOG              pHelmIvP        iter=1123,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+282.21579       APP_LOG              pHelmIvP        iter=1124,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+282.46617       APP_LOG              pHelmIvP        iter=1125,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+282.71694       APP_LOG              pHelmIvP        iter=1126,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+282.96750       APP_LOG              pHelmIvP        iter=1127,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+283.21823       APP_LOG              pHelmIvP        iter=1128,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+283.46885       APP_LOG              pHelmIvP        iter=1129,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+283.71915       APP_LOG              pHelmIvP        iter=1130,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+283.96950       APP_LOG              pHelmIvP        iter=1131,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+284.22041       APP_LOG              pHelmIvP        iter=1132,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+284.47070       APP_LOG              pHelmIvP        iter=1133,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+284.72132       APP_LOG              pHelmIvP        iter=1134,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+284.97133       APP_LOG              pHelmIvP        iter=1135,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+285.22166       APP_LOG              pHelmIvP        iter=1136,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+285.47192       APP_LOG              pHelmIvP        iter=1137,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+285.72289       APP_LOG              pHelmIvP        iter=1138,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+285.97301       APP_LOG              pHelmIvP        iter=1139,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+286.22408       APP_LOG              pHelmIvP        iter=1140,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+286.47412       APP_LOG              pHelmIvP        iter=1141,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+286.72513       APP_LOG              pHelmIvP        iter=1142,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+286.97605       APP_LOG              pHelmIvP        iter=1143,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+287.22692       APP_LOG              pHelmIvP        iter=1144,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+287.47741       APP_LOG              pHelmIvP        iter=1145,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+287.72783       APP_LOG              pHelmIvP        iter=1146,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+287.97809       APP_LOG              pHelmIvP        iter=1147,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+288.22839       APP_LOG              pHelmIvP        iter=1148,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+288.47824       APP_LOG              pHelmIvP        iter=1149,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+288.72859       APP_LOG              pHelmIvP        iter=1150,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+288.97870       APP_LOG              pHelmIvP        iter=1151,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+289.22982       APP_LOG              pHelmIvP        iter=1152,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+289.48059       APP_LOG              pHelmIvP        iter=1153,log=$Checking Param Collective: avdcol_!@#Checking Param Collective Done: Msg:[]!@#Total Behaviors now: 7!@#curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+289.73148       APP_LOG              pHelmIvP        iter=1154,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+289.98174       APP_LOG              pHelmIvP        iter=1155,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+290.23214       APP_LOG              pHelmIvP        iter=1156,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+290.48291       APP_LOG              pHelmIvP        iter=1157,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+290.73389       APP_LOG              pHelmIvP        iter=1158,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+290.98444       APP_LOG              pHelmIvP        iter=1159,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+291.23501       APP_LOG              pHelmIvP        iter=1160,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+291.48559       APP_LOG              pHelmIvP        iter=1161,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+291.73566       APP_LOG              pHelmIvP        iter=1162,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+291.98594       APP_LOG              pHelmIvP        iter=1163,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+292.23636       APP_LOG              pHelmIvP        iter=1164,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+292.48697       APP_LOG              pHelmIvP        iter=1165,log=$curr_ix(a): 0!@#prev_ix(a): -1!@# curr_ix(b): 0!@# prev_ix(b): -1!@# 
+292.73780       APP_LOG              pHelmIvP        iter=1166,log=$ pHelmIvP says: pHelmIvP AllStop: NothingToDo!@# 
+292.98788       APP_LOG              pHelmIvP        iter=1167,log=$ pHelmIvP says: pHelmIvP AllStop: NothingToDo!@# 
+293.23827       APP_LOG              pHelmIvP        iter=1168,log=$ 
+293.48917       APP_LOG              pHelmIvP        iter=1169,log=$ 
+293.73995       APP_LOG              pHelmIvP        iter=1170,log=$ 
+293.99087       APP_LOG              pHelmIvP        iter=1171,log=$ 
+294.24125       APP_LOG              pHelmIvP        iter=1172,log=$ 
+294.49192       APP_LOG              pHelmIvP        iter=1173,log=$ 
+294.74276       APP_LOG              pHelmIvP        iter=1174,log=$ 
+294.99343       APP_LOG              pHelmIvP        iter=1175,log=$ 
+295.24459       APP_LOG              pHelmIvP        iter=1176,log=$ 
+295.49475       APP_LOG              pHelmIvP        iter=1177,log=$ 
+295.74494       APP_LOG              pHelmIvP        iter=1178,log=$ 
+295.99568       APP_LOG              pHelmIvP        iter=1179,log=$ 
+296.24660       APP_LOG              pHelmIvP        iter=1180,log=$ 
+296.49672       APP_LOG              pHelmIvP        iter=1181,log=$ 
+296.74777       APP_LOG              pHelmIvP        iter=1182,log=$ 
+296.99854       APP_LOG              pHelmIvP        iter=1183,log=$ 
+297.24932       APP_LOG              pHelmIvP        iter=1184,log=$ 
+297.49972       APP_LOG              pHelmIvP        iter=1185,log=$ 
+297.75092       APP_LOG              pHelmIvP        iter=1186,log=$ 
+298.00060       APP_LOG              pHelmIvP        iter=1187,log=$ 
+298.25163       APP_LOG              pHelmIvP        iter=1188,log=$ 
+298.50176       APP_LOG              pHelmIvP        iter=1189,log=$ 
+298.75246       APP_LOG              pHelmIvP        iter=1190,log=$ 
+299.00267       APP_LOG              pHelmIvP        iter=1191,log=$ 
+299.25341       APP_LOG              pHelmIvP        iter=1192,log=$ 
+299.50460       APP_LOG              pHelmIvP        iter=1193,log=$ 
+299.75485       APP_LOG              pHelmIvP        iter=1194,log=$ 
+300.00495       APP_LOG              pHelmIvP        iter=1195,log=$ 
+300.25528       APP_LOG              pHelmIvP        iter=1196,log=$ 
+300.50537       APP_LOG              pHelmIvP        iter=1197,log=$ 
+300.75651       APP_LOG              pHelmIvP        iter=1198,log=$ 
+301.00655       APP_LOG              pHelmIvP        iter=1199,log=$ 
+301.25751       APP_LOG              pHelmIvP        iter=1200,log=$ 
+301.50768       APP_LOG              pHelmIvP        iter=1201,log=$ 
+301.75767       APP_LOG              pHelmIvP        iter=1202,log=$ 
+302.00844       APP_LOG              pHelmIvP        iter=1203,log=$ 
+302.25920       APP_LOG              pHelmIvP        iter=1204,log=$ 
+302.50993       APP_LOG              pHelmIvP        iter=1205,log=$ 
+302.76071       APP_LOG              pHelmIvP        iter=1206,log=$ 
+303.01076       APP_LOG              pHelmIvP        iter=1207,log=$ 
+303.26154       APP_LOG              pHelmIvP        iter=1208,log=$ 
+303.51253       APP_LOG              pHelmIvP        iter=1209,log=$ 
+303.76332       APP_LOG              pHelmIvP        iter=1210,log=$ 
+304.01405       APP_LOG              pHelmIvP        iter=1211,log=$ 
+304.26516       APP_LOG              pHelmIvP        iter=1212,log=$ 
+304.51584       APP_LOG              pHelmIvP        iter=1213,log=$ 
+304.76722       APP_LOG              pHelmIvP        iter=1214,log=$ 
+305.01806       APP_LOG              pHelmIvP        iter=1215,log=$ 
+305.26888       APP_LOG              pHelmIvP        iter=1216,log=$ 
+305.51988       APP_LOG              pHelmIvP        iter=1217,log=$ 
+305.77033       APP_LOG              pHelmIvP        iter=1218,log=$ 
+306.02039       APP_LOG              pHelmIvP        iter=1219,log=$ 
+306.27159       APP_LOG              pHelmIvP        iter=1220,log=$ 
+306.52230       APP_LOG              pHelmIvP        iter=1221,log=$ 
+306.77318       APP_LOG              pHelmIvP        iter=1222,log=$ 
+307.02382       APP_LOG              pHelmIvP        iter=1223,log=$ 
+307.27454       APP_LOG              pHelmIvP        iter=1224,log=$ 
+307.52539       APP_LOG              pHelmIvP        iter=1225,log=$ 
+307.77644       APP_LOG              pHelmIvP        iter=1226,log=$ 
+308.02716       APP_LOG              pHelmIvP        iter=1227,log=$ 
+308.27793       APP_LOG              pHelmIvP        iter=1228,log=$ 
+308.52862       APP_LOG              pHelmIvP        iter=1229,log=$ 
+308.77945       APP_LOG              pHelmIvP        iter=1230,log=$ 
+309.03012       APP_LOG              pHelmIvP        iter=1231,log=$ 
+309.28086       APP_LOG              pHelmIvP        iter=1232,log=$ 
+309.53169       APP_LOG              pHelmIvP        iter=1233,log=$ 
+309.78255       APP_LOG              pHelmIvP        iter=1234,log=$ 
+310.03319       APP_LOG              pHelmIvP        iter=1235,log=$ 
+310.28409       APP_LOG              pHelmIvP        iter=1236,log=$ 
+310.53434       APP_LOG              pHelmIvP        iter=1237,log=$ 
+310.78544       APP_LOG              pHelmIvP        iter=1238,log=$ 
+311.03559       APP_LOG              pHelmIvP        iter=1239,log=$ 
+311.28675       APP_LOG              pHelmIvP        iter=1240,log=$ 
+311.53752       APP_LOG              pHelmIvP        iter=1241,log=$ 
+311.78775       APP_LOG              pHelmIvP        iter=1242,log=$ 
+312.03797       APP_LOG              pHelmIvP        iter=1243,log=$ 
+312.28821       APP_LOG              pHelmIvP        iter=1244,log=$ 
+312.53852       APP_LOG              pHelmIvP        iter=1245,log=$ 
+312.78901       APP_LOG              pHelmIvP        iter=1246,log=$ 
+313.03929       APP_LOG              pHelmIvP        iter=1247,log=$ 
+313.28988       APP_LOG              pHelmIvP        iter=1248,log=$ 
+313.54048       APP_LOG              pHelmIvP        iter=1249,log=$ 
+313.79057       APP_LOG              pHelmIvP        iter=1250,log=$ 
+314.04145       APP_LOG              pHelmIvP        iter=1251,log=$ 
+314.29231       APP_LOG              pHelmIvP        iter=1252,log=$ 
+314.54283       APP_LOG              pHelmIvP        iter=1253,log=$ 
+314.79338       APP_LOG              pHelmIvP        iter=1254,log=$ 
+315.04402       APP_LOG              pHelmIvP        iter=1255,log=$ 
+315.29497       APP_LOG              pHelmIvP        iter=1256,log=$ 
+315.54581       APP_LOG              pHelmIvP        iter=1257,log=$ 
+315.79657       APP_LOG              pHelmIvP        iter=1258,log=$ 
+316.04743       APP_LOG              pHelmIvP        iter=1259,log=$ 
+316.29826       APP_LOG              pHelmIvP        iter=1260,log=$ 
+316.54893       APP_LOG              pHelmIvP        iter=1261,log=$ 
+316.80006       APP_LOG              pHelmIvP        iter=1262,log=$ 
+317.05087       APP_LOG              pHelmIvP        iter=1263,log=$ 
+317.30185       APP_LOG              pHelmIvP        iter=1264,log=$ 
+317.55285       APP_LOG              pHelmIvP        iter=1265,log=$ 
+317.80349       APP_LOG              pHelmIvP        iter=1266,log=$ 
+318.05431       APP_LOG              pHelmIvP        iter=1267,log=$ 
+318.30498       APP_LOG              pHelmIvP        iter=1268,log=$ 
+318.55575       APP_LOG              pHelmIvP        iter=1269,log=$ 
+318.80652       APP_LOG              pHelmIvP        iter=1270,log=$ 
+319.05736       APP_LOG              pHelmIvP        iter=1271,log=$ 
+319.30814       APP_LOG              pHelmIvP        iter=1272,log=$ 
+319.55893       APP_LOG              pHelmIvP        iter=1273,log=$Checking Param Collective: avdcol_!@#Checking Param Collective Done: Msg:[]!@#Total Behaviors now: 8!@# 
+319.80985       APP_LOG              pHelmIvP        iter=1274,log=$ 
+320.06040       APP_LOG              pHelmIvP        iter=1275,log=$ 
+320.31060       APP_LOG              pHelmIvP        iter=1276,log=$ 
+320.56083       APP_LOG              pHelmIvP        iter=1277,log=$ 
+320.81112       APP_LOG              pHelmIvP        iter=1278,log=$ 
+321.06162       APP_LOG              pHelmIvP        iter=1279,log=$ 
+321.31208       APP_LOG              pHelmIvP        iter=1280,log=$ 
+321.56298       APP_LOG              pHelmIvP        iter=1281,log=$ 
+321.81305       APP_LOG              pHelmIvP        iter=1282,log=$ 
+322.06327       APP_LOG              pHelmIvP        iter=1283,log=$ 
+322.31380       APP_LOG              pHelmIvP        iter=1284,log=$ 
+322.56426       APP_LOG              pHelmIvP        iter=1285,log=$ 
+322.81443       APP_LOG              pHelmIvP        iter=1286,log=$ 
+323.06553       APP_LOG              pHelmIvP        iter=1287,log=$ 
+323.31595       APP_LOG              pHelmIvP        iter=1288,log=$ 
+323.56653       APP_LOG              pHelmIvP        iter=1289,log=$ 
+323.81712       APP_LOG              pHelmIvP        iter=1290,log=$ 
+324.06820       APP_LOG              pHelmIvP        iter=1291,log=$ 
+324.31836       APP_LOG              pHelmIvP        iter=1292,log=$ 
+324.56879       APP_LOG              pHelmIvP        iter=1293,log=$ 
+324.56879       APP_LOG              pHelmIvP        iter=1293,log=$ 
+324.81905       APP_LOG              pHelmIvP        iter=1294,log=$ 
+325.06967       APP_LOG              pHelmIvP        iter=1295,log=$ 
+325.31989       APP_LOG              pHelmIvP        iter=1296,log=$ 
+325.57063       APP_LOG              pHelmIvP        iter=1297,log=$ 
+325.82098       APP_LOG              pHelmIvP        iter=1298,log=$ 
+326.07148       APP_LOG              pHelmIvP        iter=1299,log=$ 
+326.32171       APP_LOG              pHelmIvP        iter=1300,log=$ 
+326.57199       APP_LOG              pHelmIvP        iter=1301,log=$ 
+326.82215       APP_LOG              pHelmIvP        iter=1302,log=$ 
+327.07292       APP_LOG              pHelmIvP        iter=1303,log=$ 
+327.32335       APP_LOG              pHelmIvP        iter=1304,log=$ 
+327.57412       APP_LOG              pHelmIvP        iter=1305,log=$ 
+327.82427       APP_LOG              pHelmIvP        iter=1306,log=$ 
+328.07506       APP_LOG              pHelmIvP        iter=1307,log=$ 
+328.32569       APP_LOG              pHelmIvP        iter=1308,log=$ 
+328.57627       APP_LOG              pHelmIvP        iter=1309,log=$ 
+328.82652       APP_LOG              pHelmIvP        iter=1310,log=$ 
+329.07716       APP_LOG              pHelmIvP        iter=1311,log=$ 
+329.32794       APP_LOG              pHelmIvP        iter=1312,log=$ 
+329.57780       APP_LOG              pHelmIvP        iter=1313,log=$ 
+329.82817       APP_LOG              pHelmIvP        iter=1314,log=$ 
+330.07850       APP_LOG              pHelmIvP        iter=1315,log=$ 
+330.32869       APP_LOG              pHelmIvP        iter=1316,log=$ 
+330.57903       APP_LOG              pHelmIvP        iter=1317,log=$ 
+330.82917       APP_LOG              pHelmIvP        iter=1318,log=$ 
+331.07944       APP_LOG              pHelmIvP        iter=1319,log=$ 
+331.32976       APP_LOG              pHelmIvP        iter=1320,log=$ 
+331.58024       APP_LOG              pHelmIvP        iter=1321,log=$ 
+331.83044       APP_LOG              pHelmIvP        iter=1322,log=$ 
+332.08082       APP_LOG              pHelmIvP        iter=1323,log=$ 
+332.33112       APP_LOG              pHelmIvP        iter=1324,log=$ 
+332.58151       APP_LOG              pHelmIvP        iter=1325,log=$ 
+332.83164       APP_LOG              pHelmIvP        iter=1326,log=$ 
+333.08197       APP_LOG              pHelmIvP        iter=1327,log=$ 
+333.33195       APP_LOG              pHelmIvP        iter=1328,log=$ 
+333.58270       APP_LOG              pHelmIvP        iter=1329,log=$ 
+333.83281       APP_LOG              pHelmIvP        iter=1330,log=$ 
+334.08309       APP_LOG              pHelmIvP        iter=1331,log=$ 
+334.33327       APP_LOG              pHelmIvP        iter=1332,log=$ 
+334.58359       APP_LOG              pHelmIvP        iter=1333,log=$ 
+334.83371       APP_LOG              pHelmIvP        iter=1334,log=$ 
+335.08401       APP_LOG              pHelmIvP        iter=1335,log=$ 
+335.33425       APP_LOG              pHelmIvP        iter=1336,log=$ 
+335.58478       APP_LOG              pHelmIvP        iter=1337,log=$ 
+335.83489       APP_LOG              pHelmIvP        iter=1338,log=$ 
+336.08514       APP_LOG              pHelmIvP        iter=1339,log=$ 
+336.33543       APP_LOG              pHelmIvP        iter=1340,log=$ 
+336.58568       APP_LOG              pHelmIvP        iter=1341,log=$ 
+336.83587       APP_LOG              pHelmIvP        iter=1342,log=$ 
+337.08624       APP_LOG              pHelmIvP        iter=1343,log=$ 
+337.33665       APP_LOG              pHelmIvP        iter=1344,log=$ 
+337.58724       APP_LOG              pHelmIvP        iter=1345,log=$ 
+337.83757       APP_LOG              pHelmIvP        iter=1346,log=$ 
+338.08802       APP_LOG              pHelmIvP        iter=1347,log=$ 
+338.33837       APP_LOG              pHelmIvP        iter=1348,log=$ 
+338.58874       APP_LOG              pHelmIvP        iter=1349,log=$ 
+338.83924       APP_LOG              pHelmIvP        iter=1350,log=$ 
+339.08958       APP_LOG              pHelmIvP        iter=1351,log=$ 
+339.33978       APP_LOG              pHelmIvP        iter=1352,log=$ 
+339.59077       APP_LOG              pHelmIvP        iter=1353,log=$ 
+339.84087       APP_LOG              pHelmIvP        iter=1354,log=$ 
+340.09115       APP_LOG              pHelmIvP        iter=1355,log=$ 
+340.34216       APP_LOG              pHelmIvP        iter=1356,log=$ 
+340.59322       APP_LOG              pHelmIvP        iter=1357,log=$ 
+340.84327       APP_LOG              pHelmIvP        iter=1358,log=$ 
+341.09361       APP_LOG              pHelmIvP        iter=1359,log=$ 
+341.34406       APP_LOG              pHelmIvP        iter=1360,log=$ 
+341.59485       APP_LOG              pHelmIvP        iter=1361,log=$ 
+341.84531       APP_LOG              pHelmIvP        iter=1362,log=$ 
+342.09585       APP_LOG              pHelmIvP        iter=1363,log=$ 
+342.34600       APP_LOG              pHelmIvP        iter=1364,log=$ 
+342.59676       APP_LOG              pHelmIvP        iter=1365,log=$ 
+342.84700       APP_LOG              pHelmIvP        iter=1366,log=* pHelmIvP says: pHelmIvP AllStop: ManualOverride!@# 
+343.09726       APP_LOG              pHelmIvP        iter=1367,log=* 
+343.34744       APP_LOG              pHelmIvP        iter=1368,log=* 
+343.59788       APP_LOG              pHelmIvP        iter=1369,log=* 
+343.84807       APP_LOG              pHelmIvP        iter=1370,log=* 
+344.09833       APP_LOG              pHelmIvP        iter=1371,log=* 
+344.34850       APP_LOG              pHelmIvP        iter=1372,log=* 
+344.59879       APP_LOG              pHelmIvP        iter=1373,log=* 
+344.84898       APP_LOG              pHelmIvP        iter=1374,log=* 
+345.09926       APP_LOG              pHelmIvP        iter=1375,log=* 
+345.34945       APP_LOG              pHelmIvP        iter=1376,log=* 
+345.59991       APP_LOG              pHelmIvP        iter=1377,log=* 
+345.85004       APP_LOG              pHelmIvP        iter=1378,log=* 
+346.10033       APP_LOG              pHelmIvP        iter=1379,log=* 
+346.35053       APP_LOG              pHelmIvP        iter=1380,log=* 
+346.60081       APP_LOG              pHelmIvP        iter=1381,log=* 
+346.85099       APP_LOG              pHelmIvP        iter=1382,log=* 
+347.10127       APP_LOG              pHelmIvP        iter=1383,log=* 
+347.35147       APP_LOG              pHelmIvP        iter=1384,log=* 
+347.60191       APP_LOG              pHelmIvP        iter=1385,log=* 
+347.85205       APP_LOG              pHelmIvP        iter=1386,log=* 
+348.10235       APP_LOG              pHelmIvP        iter=1387,log=* 
+348.35256       APP_LOG              pHelmIvP        iter=1388,log=* 
+348.60284       APP_LOG              pHelmIvP        iter=1389,log=* 
+348.85299       APP_LOG              pHelmIvP        iter=1390,log=* 
+349.10377       APP_LOG              pHelmIvP        iter=1391,log=* 
+349.35395       APP_LOG              pHelmIvP        iter=1392,log=* 
+349.60442       APP_LOG              pHelmIvP        iter=1393,log=* 
+349.85458       APP_LOG              pHelmIvP        iter=1394,log=* 
+350.10486       APP_LOG              pHelmIvP        iter=1395,log=* 
+350.35523       APP_LOG              pHelmIvP        iter=1396,log=* 
+350.60552       APP_LOG              pHelmIvP        iter=1397,log=* 
+350.85567       APP_LOG              pHelmIvP        iter=1398,log=* 
+351.10598       APP_LOG              pHelmIvP        iter=1399,log=* 
+351.35625       APP_LOG              pHelmIvP        iter=1400,log=* 
+351.60671       APP_LOG              pHelmIvP        iter=1401,log=* 
+351.85684       APP_LOG              pHelmIvP        iter=1402,log=* 
+352.10717       APP_LOG              pHelmIvP        iter=1403,log=* 
+352.35739       APP_LOG              pHelmIvP        iter=1404,log=* 
+352.60765       APP_LOG              pHelmIvP        iter=1405,log=* 
+352.85783       APP_LOG              pHelmIvP        iter=1406,log=* 
+353.10816       APP_LOG              pHelmIvP        iter=1407,log=* 
+353.35835       APP_LOG              pHelmIvP        iter=1408,log=* 
+353.60880       APP_LOG              pHelmIvP        iter=1409,log=* 
+353.85894       APP_LOG              pHelmIvP        iter=1410,log=* 
+354.10923       APP_LOG              pHelmIvP        iter=1411,log=* 
+354.35943       APP_LOG              pHelmIvP        iter=1412,log=* 
+354.60968       APP_LOG              pHelmIvP        iter=1413,log=* 
+354.85987       APP_LOG              pHelmIvP        iter=1414,log=* 
+355.11016       APP_LOG              pHelmIvP        iter=1415,log=* 
+355.36037       APP_LOG              pHelmIvP        iter=1416,log=* 
+355.61081       APP_LOG              pHelmIvP        iter=1417,log=* 
+355.86096       APP_LOG              pHelmIvP        iter=1418,log=* 
+356.11124       APP_LOG              pHelmIvP        iter=1419,log=* 
+356.36143       APP_LOG              pHelmIvP        iter=1420,log=* 
+356.61175       APP_LOG              pHelmIvP        iter=1421,log=* 
+356.86193       APP_LOG              pHelmIvP        iter=1422,log=* 
+357.11222       APP_LOG              pHelmIvP        iter=1423,log=* 
+357.36241       APP_LOG              pHelmIvP        iter=1424,log=* 
+357.61286       APP_LOG              pHelmIvP        iter=1425,log=* 
+357.86300       APP_LOG              pHelmIvP        iter=1426,log=* 
+358.11348       APP_LOG              pHelmIvP        iter=1427,log=* 
+358.36370       APP_LOG              pHelmIvP        iter=1428,log=* 
+358.61398       APP_LOG              pHelmIvP        iter=1429,log=* 
+358.86418       APP_LOG              pHelmIvP        iter=1430,log=* 
+359.11446       APP_LOG              pHelmIvP        iter=1431,log=* 
+359.36467       APP_LOG              pHelmIvP        iter=1432,log=* 
+359.61512       APP_LOG              pHelmIvP        iter=1433,log=* 
+359.86525       APP_LOG              pHelmIvP        iter=1434,log=* 
+360.11557       APP_LOG              pHelmIvP        iter=1435,log=* 
+360.36581       APP_LOG              pHelmIvP        iter=1436,log=* 
+360.61609       APP_LOG              pHelmIvP        iter=1437,log=* 
+360.86624       APP_LOG              pHelmIvP        iter=1438,log=* 
+361.11653       APP_LOG              pHelmIvP        iter=1439,log=* 
+361.36673       APP_LOG              pHelmIvP        iter=1440,log=* 
+361.61719       APP_LOG              pHelmIvP        iter=1441,log=* 
+361.86738       APP_LOG              pHelmIvP        iter=1442,log=* 
+362.11765       APP_LOG              pHelmIvP        iter=1443,log=* 
+362.36786       APP_LOG              pHelmIvP        iter=1444,log=* 
+362.61814       APP_LOG              pHelmIvP        iter=1445,log=* 
+362.86831       APP_LOG              pHelmIvP        iter=1446,log=* 
+363.11860       APP_LOG              pHelmIvP        iter=1447,log=* 
+363.36878       APP_LOG              pHelmIvP        iter=1448,log=* 
+363.61924       APP_LOG              pHelmIvP        iter=1449,log=* 
+363.86940       APP_LOG              pHelmIvP        iter=1450,log=* 
+364.11966       APP_LOG              pHelmIvP        iter=1451,log=* 
+364.37010       APP_LOG              pHelmIvP        iter=1452,log=* 
+364.62113       APP_LOG              pHelmIvP        iter=1453,log=* 
+364.87133       APP_LOG              pHelmIvP        iter=1454,log=* 
+365.12159       APP_LOG              pHelmIvP        iter=1455,log=* 
+365.37178       APP_LOG              pHelmIvP        iter=1456,log=* 
+365.62223       APP_LOG              pHelmIvP        iter=1457,log=* 
+365.87237       APP_LOG              pHelmIvP        iter=1458,log=* 
+366.12267       APP_LOG              pHelmIvP        iter=1459,log=* 
+366.37286       APP_LOG              pHelmIvP        iter=1460,log=* 
+366.62314       APP_LOG              pHelmIvP        iter=1461,log=* 
+366.87331       APP_LOG              pHelmIvP        iter=1462,log=* 
+367.12358       APP_LOG              pHelmIvP        iter=1463,log=* 
+367.37380       APP_LOG              pHelmIvP        iter=1464,log=* 
+367.62423       APP_LOG              pHelmIvP        iter=1465,log=* 
+367.87441       APP_LOG              pHelmIvP        iter=1466,log=* 
+368.12468       APP_LOG              pHelmIvP        iter=1467,log=* 
+368.37489       APP_LOG              pHelmIvP        iter=1468,log=* 
+368.62516       APP_LOG              pHelmIvP        iter=1469,log=* 
+368.87532       APP_LOG              pHelmIvP        iter=1470,log=* 
+369.12562       APP_LOG              pHelmIvP        iter=1471,log=* 
+369.37580       APP_LOG              pHelmIvP        iter=1472,log=* 
+369.62624       APP_LOG              pHelmIvP        iter=1473,log=* 
+369.87638       APP_LOG              pHelmIvP        iter=1474,log=* 
+370.12666       APP_LOG              pHelmIvP        iter=1475,log=* 
+370.37687       APP_LOG              pHelmIvP        iter=1476,log=* 
+370.62723       APP_LOG              pHelmIvP        iter=1477,log=* 
+370.87742       APP_LOG              pHelmIvP        iter=1478,log=* 
+371.12770       APP_LOG              pHelmIvP        iter=1479,log=* 
+371.37791       APP_LOG              pHelmIvP        iter=1480,log=* 
+371.62836       APP_LOG              pHelmIvP        iter=1481,log=* 
+371.87852       APP_LOG              pHelmIvP        iter=1482,log=* 
+372.12882       APP_LOG              pHelmIvP        iter=1483,log=* 
+372.37902       APP_LOG              pHelmIvP        iter=1484,log=* 
+372.62929       APP_LOG              pHelmIvP        iter=1485,log=* 
+372.87944       APP_LOG              pHelmIvP        iter=1486,log=* 
+373.12973       APP_LOG              pHelmIvP        iter=1487,log=* 
+373.37994       APP_LOG              pHelmIvP        iter=1488,log=* 
+373.63038       APP_LOG              pHelmIvP        iter=1489,log=* 
+373.88086       APP_LOG              pHelmIvP        iter=1490,log=* 
+374.13113       APP_LOG              pHelmIvP        iter=1491,log=* 
+374.38135       APP_LOG              pHelmIvP        iter=1492,log=* 
+374.63165       APP_LOG              pHelmIvP        iter=1493,log=* 
+374.88180       APP_LOG              pHelmIvP        iter=1494,log=* 
+375.13210       APP_LOG              pHelmIvP        iter=1495,log=* 
+375.38228       APP_LOG              pHelmIvP        iter=1496,log=* 
+375.63293       APP_LOG              pHelmIvP        iter=1497,log=* 
+375.88310       APP_LOG              pHelmIvP        iter=1498,log=* 
+376.13365       APP_LOG              pHelmIvP        iter=1499,log=* 
+376.38388       APP_LOG              pHelmIvP        iter=1500,log=* 
+376.63414       APP_LOG              pHelmIvP        iter=1501,log=* 
+376.88432       APP_LOG              pHelmIvP        iter=1502,log=* 
+377.13459       APP_LOG              pHelmIvP        iter=1503,log=* 
+377.38478       APP_LOG              pHelmIvP        iter=1504,log=* 
+377.63536       APP_LOG              pHelmIvP        iter=1505,log=* 
+377.88547       APP_LOG              pHelmIvP        iter=1506,log=* 
+378.13577       APP_LOG              pHelmIvP        iter=1507,log=* 
+378.38596       APP_LOG              pHelmIvP        iter=1508,log=* 
+378.63624       APP_LOG              pHelmIvP        iter=1509,log=* 
+378.88642       APP_LOG              pHelmIvP        iter=1510,log=* 
+379.13668       APP_LOG              pHelmIvP        iter=1511,log=* 
+379.38699       APP_LOG              pHelmIvP        iter=1512,log=* 
+379.63741       APP_LOG              pHelmIvP        iter=1513,log=* 
+379.88759       APP_LOG              pHelmIvP        iter=1514,log=* 
+380.13786       APP_LOG              pHelmIvP        iter=1515,log=* 
+380.38807       APP_LOG              pHelmIvP        iter=1516,log=* 
+380.63835       APP_LOG              pHelmIvP        iter=1517,log=* 
+380.88850       APP_LOG              pHelmIvP        iter=1518,log=* 
+381.13907       APP_LOG              pHelmIvP        iter=1519,log=* 
+381.38925       APP_LOG              pHelmIvP        iter=1520,log=* 
+381.63972       APP_LOG              pHelmIvP        iter=1521,log=* 
+381.88991       APP_LOG              pHelmIvP        iter=1522,log=* 
+382.14025       APP_LOG              pHelmIvP        iter=1523,log=* 
+382.39050       APP_LOG              pHelmIvP        iter=1524,log=* 
+382.64100       APP_LOG              pHelmIvP        iter=1525,log=* 
+382.89121       APP_LOG              pHelmIvP        iter=1526,log=* 
+383.14295       APP_LOG              pHelmIvP        iter=1527,log=* 
+383.39316       APP_LOG              pHelmIvP        iter=1528,log=* 
+383.64361       APP_LOG              pHelmIvP        iter=1529,log=* 
+383.89377       APP_LOG              pHelmIvP        iter=1530,log=* 
+384.14405       APP_LOG              pHelmIvP        iter=1531,log=* 
+384.39425       APP_LOG              pHelmIvP        iter=1532,log=* 
+384.64452       APP_LOG              pHelmIvP        iter=1533,log=* 
+384.89470       APP_LOG              pHelmIvP        iter=1534,log=* 
+385.14497       APP_LOG              pHelmIvP        iter=1535,log=* 
+385.39516       APP_LOG              pHelmIvP        iter=1536,log=* 
+385.64560       APP_LOG              pHelmIvP        iter=1537,log=* 
+385.89581       APP_LOG              pHelmIvP        iter=1538,log=* 
+386.14607       APP_LOG              pHelmIvP        iter=1539,log=* 
+386.39628       APP_LOG              pHelmIvP        iter=1540,log=* 
+386.64656       APP_LOG              pHelmIvP        iter=1541,log=* 
+386.89673       APP_LOG              pHelmIvP        iter=1542,log=* 
+387.14701       APP_LOG              pHelmIvP        iter=1543,log=* 
+387.39715       APP_LOG              pHelmIvP        iter=1544,log=* 
+387.64760       APP_LOG              pHelmIvP        iter=1545,log=* 
+387.89776       APP_LOG              pHelmIvP        iter=1546,log=* 
+388.14803       APP_LOG              pHelmIvP        iter=1547,log=* 
+388.39824       APP_LOG              pHelmIvP        iter=1548,log=* 
+388.64850       APP_LOG              pHelmIvP        iter=1549,log=* 
+388.89870       APP_LOG              pHelmIvP        iter=1550,log=* 
+389.15004       APP_LOG              pHelmIvP        iter=1551,log=* 
+389.40023       APP_LOG              pHelmIvP        iter=1552,log=* 
+389.65068       APP_LOG              pHelmIvP        iter=1553,log=* 
+389.90084       APP_LOG              pHelmIvP        iter=1554,log=* 
+390.15112       APP_LOG              pHelmIvP        iter=1555,log=* 
+390.40131       APP_LOG              pHelmIvP        iter=1556,log=* 
+390.65159       APP_LOG              pHelmIvP        iter=1557,log=* 
+390.90177       APP_LOG              pHelmIvP        iter=1558,log=* 
+391.15204       APP_LOG              pHelmIvP        iter=1559,log=* 
+391.40223       APP_LOG              pHelmIvP        iter=1560,log=* 
+391.65267       APP_LOG              pHelmIvP        iter=1561,log=* 
+391.90285       APP_LOG              pHelmIvP        iter=1562,log=* 
+392.15312       APP_LOG              pHelmIvP        iter=1563,log=* 
+392.40330       APP_LOG              pHelmIvP        iter=1564,log=* 
+392.65358       APP_LOG              pHelmIvP        iter=1565,log=* 
+392.90376       APP_LOG              pHelmIvP        iter=1566,log=* 
+393.15423       APP_LOG              pHelmIvP        iter=1567,log=* 
+393.40442       APP_LOG              pHelmIvP        iter=1568,log=* 
+393.65487       APP_LOG              pHelmIvP        iter=1569,log=* 
+393.90502       APP_LOG              pHelmIvP        iter=1570,log=* 
+394.15530       APP_LOG              pHelmIvP        iter=1571,log=* 
+394.40551       APP_LOG              pHelmIvP        iter=1572,log=* 
+394.65572       APP_LOG              pHelmIvP        iter=1573,log=* 
+394.90592       APP_LOG              pHelmIvP        iter=1574,log=* 
+395.15618       APP_LOG              pHelmIvP        iter=1575,log=* 
+395.40637       APP_LOG              pHelmIvP        iter=1576,log=* 
+395.65683       APP_LOG              pHelmIvP        iter=1577,log=* 
+395.90699       APP_LOG              pHelmIvP        iter=1578,log=* 
+396.15729       APP_LOG              pHelmIvP        iter=1579,log=* 
+396.40748       APP_LOG              pHelmIvP        iter=1580,log=* 
+396.65775       APP_LOG              pHelmIvP        iter=1581,log=* 
+396.90793       APP_LOG              pHelmIvP        iter=1582,log=* 
+397.15820       APP_LOG              pHelmIvP        iter=1583,log=* 
+397.40840       APP_LOG              pHelmIvP        iter=1584,log=* 
+397.65883       APP_LOG              pHelmIvP        iter=1585,log=* 
+397.90901       APP_LOG              pHelmIvP        iter=1586,log=* 
+398.15928       APP_LOG              pHelmIvP        iter=1587,log=* 
+398.40948       APP_LOG              pHelmIvP        iter=1588,log=* 
+398.65976       APP_LOG              pHelmIvP        iter=1589,log=* 
+398.90994       APP_LOG              pHelmIvP        iter=1590,log=* 
+399.16079       APP_LOG              pHelmIvP        iter=1591,log=* 
+399.41097       APP_LOG              pHelmIvP        iter=1592,log=* 
+399.66142       APP_LOG              pHelmIvP        iter=1593,log=* 
+399.91158       APP_LOG              pHelmIvP        iter=1594,log=* 
+400.16186       APP_LOG              pHelmIvP        iter=1595,log=* 
+400.41207       APP_LOG              pHelmIvP        iter=1596,log=* 
+400.66233       APP_LOG              pHelmIvP        iter=1597,log=* 
+400.91252       APP_LOG              pHelmIvP        iter=1598,log=* 
+401.16278       APP_LOG              pHelmIvP        iter=1599,log=* 
+401.41296       APP_LOG              pHelmIvP        iter=1600,log=* 
+401.66341       APP_LOG              pHelmIvP        iter=1601,log=* 
+401.91356       APP_LOG              pHelmIvP        iter=1602,log=* 
+402.16386       APP_LOG              pHelmIvP        iter=1603,log=* 
+402.41406       APP_LOG              pHelmIvP        iter=1604,log=* 
+402.66434       APP_LOG              pHelmIvP        iter=1605,log=* 
+402.91497       APP_LOG              pHelmIvP        iter=1606,log=* 
+403.16524       APP_LOG              pHelmIvP        iter=1607,log=* 
+403.41544       APP_LOG              pHelmIvP        iter=1608,log=* 
+403.66587       APP_LOG              pHelmIvP        iter=1609,log=* 
+403.91609       APP_LOG              pHelmIvP        iter=1610,log=* 
+404.16635       APP_LOG              pHelmIvP        iter=1611,log=* 
+404.41655       APP_LOG              pHelmIvP        iter=1612,log=* 
+404.66682       APP_LOG              pHelmIvP        iter=1613,log=* 
+404.91700       APP_LOG              pHelmIvP        iter=1614,log=* 
+405.16730       APP_LOG              pHelmIvP        iter=1615,log=* 
+405.41750       APP_LOG              pHelmIvP        iter=1616,log=* 
+405.66795       APP_LOG              pHelmIvP        iter=1617,log=* 
+405.91811       APP_LOG              pHelmIvP        iter=1618,log=* 
+406.16839       APP_LOG              pHelmIvP        iter=1619,log=* 
+406.41859       APP_LOG              pHelmIvP        iter=1620,log=* 
+406.66891       APP_LOG              pHelmIvP        iter=1621,log=* 
+406.91912       APP_LOG              pHelmIvP        iter=1622,log=* 
+407.16938       APP_LOG              pHelmIvP        iter=1623,log=* 
+407.41956       APP_LOG              pHelmIvP        iter=1624,log=* 
+407.67002       APP_LOG              pHelmIvP        iter=1625,log=* 
+407.92018       APP_LOG              pHelmIvP        iter=1626,log=* 
+408.17049       APP_LOG              pHelmIvP        iter=1627,log=* 
+408.42068       APP_LOG              pHelmIvP        iter=1628,log=* 
+408.67095       APP_LOG              pHelmIvP        iter=1629,log=* 
+408.92146       APP_LOG              pHelmIvP        iter=1630,log=* 
+409.17172       APP_LOG              pHelmIvP        iter=1631,log=* 
+409.42203       APP_LOG              pHelmIvP        iter=1632,log=* 
+409.67247       APP_LOG              pHelmIvP        iter=1633,log=* 
+409.92265       APP_LOG              pHelmIvP        iter=1634,log=* 
+410.17293       APP_LOG              pHelmIvP        iter=1635,log=* 
+410.42313       APP_LOG              pHelmIvP        iter=1636,log=* 
+410.67341       APP_LOG              pHelmIvP        iter=1637,log=* 
+410.92359       APP_LOG              pHelmIvP        iter=1638,log=* 
+411.17388       APP_LOG              pHelmIvP        iter=1639,log=* 
+411.42405       APP_LOG              pHelmIvP        iter=1640,log=* 
+411.67451       APP_LOG              pHelmIvP        iter=1641,log=* 
+411.92467       APP_LOG              pHelmIvP        iter=1642,log=* 
+412.17494       APP_LOG              pHelmIvP        iter=1643,log=* 
+412.42515       APP_LOG              pHelmIvP        iter=1644,log=* 
+412.67541       APP_LOG              pHelmIvP        iter=1645,log=* 
+412.92561       APP_LOG              pHelmIvP        iter=1646,log=* 
+413.17586       APP_LOG              pHelmIvP        iter=1647,log=* 
+413.42605       APP_LOG              pHelmIvP        iter=1648,log=* 
+413.67646       APP_LOG              pHelmIvP        iter=1649,log=* 
+413.92661       APP_LOG              pHelmIvP        iter=1650,log=* 
+414.17695       APP_LOG              pHelmIvP        iter=1651,log=* 
+414.42714       APP_LOG              pHelmIvP        iter=1652,log=* 
+414.67741       APP_LOG              pHelmIvP        iter=1653,log=* 
+414.92804       APP_LOG              pHelmIvP        iter=1654,log=* 
+415.17830       APP_LOG              pHelmIvP        iter=1655,log=* 
+415.42852       APP_LOG              pHelmIvP        iter=1656,log=* 
+415.67896       APP_LOG              pHelmIvP        iter=1657,log=* 
+415.92914       APP_LOG              pHelmIvP        iter=1658,log=* 
+416.17942       APP_LOG              pHelmIvP        iter=1659,log=* 
+416.42959       APP_LOG              pHelmIvP        iter=1660,log=* 
+416.67988       APP_LOG              pHelmIvP        iter=1661,log=* 
+416.93005       APP_LOG              pHelmIvP        iter=1662,log=* 
+417.18034       APP_LOG              pHelmIvP        iter=1663,log=* 
+417.43055       APP_LOG              pHelmIvP        iter=1664,log=* 
+417.68100       APP_LOG              pHelmIvP        iter=1665,log=* 
+417.93129       APP_LOG              pHelmIvP        iter=1666,log=* 
+418.18156       APP_LOG              pHelmIvP        iter=1667,log=* 
+418.43177       APP_LOG              pHelmIvP        iter=1668,log=* 
+418.68203       APP_LOG              pHelmIvP        iter=1669,log=* 
+418.93225       APP_LOG              pHelmIvP        iter=1670,log=* 
+419.18251       APP_LOG              pHelmIvP        iter=1671,log=* 
+419.43269       APP_LOG              pHelmIvP        iter=1672,log=* 
+419.68315       APP_LOG              pHelmIvP        iter=1673,log=* 
+419.93330       APP_LOG              pHelmIvP        iter=1674,log=* 
+420.18359       APP_LOG              pHelmIvP        iter=1675,log=* 
+420.43378       APP_LOG              pHelmIvP        iter=1676,log=* 
+420.68406       APP_LOG              pHelmIvP        iter=1677,log=* 
+420.93424       APP_LOG              pHelmIvP        iter=1678,log=* 
+421.18451       APP_LOG              pHelmIvP        iter=1679,log=* 
+421.43471       APP_LOG              pHelmIvP        iter=1680,log=* 
+421.68515       APP_LOG              pHelmIvP        iter=1681,log=* 
+421.93533       APP_LOG              pHelmIvP        iter=1682,log=* 
+422.18560       APP_LOG              pHelmIvP        iter=1683,log=* 
+422.43608       APP_LOG              pHelmIvP        iter=1684,log=* 
+422.68636       APP_LOG              pHelmIvP        iter=1685,log=* 
+422.93655       APP_LOG              pHelmIvP        iter=1686,log=* 
+423.18684       APP_LOG              pHelmIvP        iter=1687,log=* 
+423.43702       APP_LOG              pHelmIvP        iter=1688,log=* 
+423.68749       APP_LOG              pHelmIvP        iter=1689,log=* 
+423.93766       APP_LOG              pHelmIvP        iter=1690,log=* 
+424.18796       APP_LOG              pHelmIvP        iter=1691,log=* 
+424.43822       APP_LOG              pHelmIvP        iter=1692,log=* 
+424.68848       APP_LOG              pHelmIvP        iter=1693,log=* 
+424.93871       APP_LOG              pHelmIvP        iter=1694,log=* 
+425.18897       APP_LOG              pHelmIvP        iter=1695,log=* 
+425.43917       APP_LOG              pHelmIvP        iter=1696,log=* 
+425.68964       APP_LOG              pHelmIvP        iter=1697,log=* 
+425.93980       APP_LOG              pHelmIvP        iter=1698,log=* 
+426.19011       APP_LOG              pHelmIvP        iter=1699,log=* 
+426.44030       APP_LOG              pHelmIvP        iter=1700,log=* 
+426.69058       APP_LOG              pHelmIvP        iter=1701,log=* 
+426.94076       APP_LOG              pHelmIvP        iter=1702,log=* 
+427.19102       APP_LOG              pHelmIvP        iter=1703,log=* 
+427.44123       APP_LOG              pHelmIvP        iter=1704,log=* 
+427.69167       APP_LOG              pHelmIvP        iter=1705,log=* 
+427.94276       APP_LOG              pHelmIvP        iter=1706,log=* 
+428.19305       APP_LOG              pHelmIvP        iter=1707,log=* 
+428.44325       APP_LOG              pHelmIvP        iter=1708,log=* 
+428.69352       APP_LOG              pHelmIvP        iter=1709,log=* 
+428.94370       APP_LOG              pHelmIvP        iter=1710,log=* 
+429.19398       APP_LOG              pHelmIvP        iter=1711,log=* 
+429.44416       APP_LOG              pHelmIvP        iter=1712,log=* 
+429.69461       APP_LOG              pHelmIvP        iter=1713,log=* 
+429.94476       APP_LOG              pHelmIvP        iter=1714,log=* 
+430.19505       APP_LOG              pHelmIvP        iter=1715,log=* 
+430.44527       APP_LOG              pHelmIvP        iter=1716,log=* 
+430.69554       APP_LOG              pHelmIvP        iter=1717,log=* 
+430.94573       APP_LOG              pHelmIvP        iter=1718,log=* 
+431.19601       APP_LOG              pHelmIvP        iter=1719,log=* 
+431.44621       APP_LOG              pHelmIvP        iter=1720,log=* 
+431.69664       APP_LOG              pHelmIvP        iter=1721,log=* 
+431.94678       APP_LOG              pHelmIvP        iter=1722,log=* 
+432.19710       APP_LOG              pHelmIvP        iter=1723,log=* 
+432.44729       APP_LOG              pHelmIvP        iter=1724,log=* 
+432.69757       APP_LOG              pHelmIvP        iter=1725,log=* 
+432.94773       APP_LOG              pHelmIvP        iter=1726,log=* 
+433.19802       APP_LOG              pHelmIvP        iter=1727,log=* 
+433.44822       APP_LOG              pHelmIvP        iter=1728,log=* 
+433.69866       APP_LOG              pHelmIvP        iter=1729,log=* 
+433.94883       APP_LOG              pHelmIvP        iter=1730,log=* 
+434.19912       APP_LOG              pHelmIvP        iter=1731,log=* 
+434.44933       APP_LOG              pHelmIvP        iter=1732,log=* 
+434.69960       APP_LOG              pHelmIvP        iter=1733,log=* 
+434.94986       APP_LOG              pHelmIvP        iter=1734,log=* 
+435.20017       APP_LOG              pHelmIvP        iter=1735,log=* 
+435.45036       APP_LOG              pHelmIvP        iter=1736,log=* 
+435.70082       APP_LOG              pHelmIvP        iter=1737,log=* 
+435.95095       APP_LOG              pHelmIvP        iter=1738,log=* 
+436.20126       APP_LOG              pHelmIvP        iter=1739,log=* 
+436.45148       APP_LOG              pHelmIvP        iter=1740,log=* 
+436.70220       APP_LOG              pHelmIvP        iter=1741,log=* 
+436.95238       APP_LOG              pHelmIvP        iter=1742,log=* 
+437.20266       APP_LOG              pHelmIvP        iter=1743,log=* 
+437.45286       APP_LOG              pHelmIvP        iter=1744,log=* 
+437.70330       APP_LOG              pHelmIvP        iter=1745,log=* 
+437.95343       APP_LOG              pHelmIvP        iter=1746,log=* 
+438.20378       APP_LOG              pHelmIvP        iter=1747,log=* 
+438.45398       APP_LOG              pHelmIvP        iter=1748,log=* 
+438.70428       APP_LOG              pHelmIvP        iter=1749,log=* 
+438.95447       APP_LOG              pHelmIvP        iter=1750,log=* 
+439.20479       APP_LOG              pHelmIvP        iter=1751,log=* 
+439.45512       APP_LOG              pHelmIvP        iter=1752,log=* 
+439.70563       APP_LOG              pHelmIvP        iter=1753,log=* 
+439.95584       APP_LOG              pHelmIvP        iter=1754,log=* 
+440.20616       APP_LOG              pHelmIvP        iter=1755,log=* 
+440.45637       APP_LOG              pHelmIvP        iter=1756,log=* 
+440.70664       APP_LOG              pHelmIvP        iter=1757,log=* 
+440.95679       APP_LOG              pHelmIvP        iter=1758,log=* 
+441.20711       APP_LOG              pHelmIvP        iter=1759,log=* 
+441.45729       APP_LOG              pHelmIvP        iter=1760,log=* 
+441.70775       APP_LOG              pHelmIvP        iter=1761,log=* 
+441.95788       APP_LOG              pHelmIvP        iter=1762,log=* 
+442.20889       APP_LOG              pHelmIvP        iter=1763,log=* 
+442.45912       APP_LOG              pHelmIvP        iter=1764,log=* 
+442.70938       APP_LOG              pHelmIvP        iter=1765,log=* 
+442.95955       APP_LOG              pHelmIvP        iter=1766,log=* 
+443.20983       APP_LOG              pHelmIvP        iter=1767,log=* 
+443.46003       APP_LOG              pHelmIvP        iter=1768,log=* 
+443.71046       APP_LOG              pHelmIvP        iter=1769,log=* 
+443.96057       APP_LOG              pHelmIvP        iter=1770,log=* 
+444.21087       APP_LOG              pHelmIvP        iter=1771,log=* 
+444.46107       APP_LOG              pHelmIvP        iter=1772,log=* 
+444.71136       APP_LOG              pHelmIvP        iter=1773,log=* 
+444.96151       APP_LOG              pHelmIvP        iter=1774,log=* 
+445.21180       APP_LOG              pHelmIvP        iter=1775,log=* 
+445.46200       APP_LOG              pHelmIvP        iter=1776,log=* 
+445.71242       APP_LOG              pHelmIvP        iter=1777,log=* 
+445.96278       APP_LOG              pHelmIvP        iter=1778,log=* 
+446.21309       APP_LOG              pHelmIvP        iter=1779,log=* 
+446.46331       APP_LOG              pHelmIvP        iter=1780,log=* 
+446.71356       APP_LOG              pHelmIvP        iter=1781,log=* 
+446.96372       APP_LOG              pHelmIvP        iter=1782,log=* 
+447.21402       APP_LOG              pHelmIvP        iter=1783,log=* 
+447.46420       APP_LOG              pHelmIvP        iter=1784,log=* 
+447.71464       APP_LOG              pHelmIvP        iter=1785,log=* 
+447.96478       APP_LOG              pHelmIvP        iter=1786,log=* 
+448.21507       APP_LOG              pHelmIvP        iter=1787,log=* 
+448.46528       APP_LOG              pHelmIvP        iter=1788,log=* 
+448.71553       APP_LOG              pHelmIvP        iter=1789,log=* 
+448.96571       APP_LOG              pHelmIvP        iter=1790,log=* 
+449.21599       APP_LOG              pHelmIvP        iter=1791,log=* 
+449.46617       APP_LOG              pHelmIvP        iter=1792,log=* 
+449.71660       APP_LOG              pHelmIvP        iter=1793,log=* 
+449.96674       APP_LOG              pHelmIvP        iter=1794,log=* 
+450.21717       APP_LOG              pHelmIvP        iter=1795,log=* 
+450.46780       APP_LOG              pHelmIvP        iter=1796,log=* 
+450.71807       APP_LOG              pHelmIvP        iter=1797,log=* 
+450.96822       APP_LOG              pHelmIvP        iter=1798,log=* 
+451.21850       APP_LOG              pHelmIvP        iter=1799,log=* 
+451.46870       APP_LOG              pHelmIvP        iter=1800,log=* 
+451.71913       APP_LOG              pHelmIvP        iter=1801,log=* 
+451.96932       APP_LOG              pHelmIvP        iter=1802,log=* 
+452.21960       APP_LOG              pHelmIvP        iter=1803,log=* 
+452.46980       APP_LOG              pHelmIvP        iter=1804,log=* 
+452.72006       APP_LOG              pHelmIvP        iter=1805,log=* 
+452.97024       APP_LOG              pHelmIvP        iter=1806,log=* 
+453.22053       APP_LOG              pHelmIvP        iter=1807,log=* 
+453.47074       APP_LOG              pHelmIvP        iter=1808,log=* 
+453.72122       APP_LOG              pHelmIvP        iter=1809,log=* 
+453.97135       APP_LOG              pHelmIvP        iter=1810,log=* 
+454.22165       APP_LOG              pHelmIvP        iter=1811,log=* 
+454.47185       APP_LOG              pHelmIvP        iter=1812,log=* 
+454.72211       APP_LOG              pHelmIvP        iter=1813,log=* 
+454.97229       APP_LOG              pHelmIvP        iter=1814,log=* 
+455.22257       APP_LOG              pHelmIvP        iter=1815,log=* 
+455.47276       APP_LOG              pHelmIvP        iter=1816,log=* 
+455.72360       APP_LOG              pHelmIvP        iter=1817,log=* 
+455.97374       APP_LOG              pHelmIvP        iter=1818,log=* 
+456.22403       APP_LOG              pHelmIvP        iter=1819,log=* 
+456.47422       APP_LOG              pHelmIvP        iter=1820,log=* 
+456.72449       APP_LOG              pHelmIvP        iter=1821,log=* 
+456.97464       APP_LOG              pHelmIvP        iter=1822,log=* 
+457.22494       APP_LOG              pHelmIvP        iter=1823,log=* 
+457.47513       APP_LOG              pHelmIvP        iter=1824,log=* 
+457.72556       APP_LOG              pHelmIvP        iter=1825,log=* 
+457.97573       APP_LOG              pHelmIvP        iter=1826,log=* 
+458.22601       APP_LOG              pHelmIvP        iter=1827,log=* 
+458.47623       APP_LOG              pHelmIvP        iter=1828,log=* 
+458.72656       APP_LOG              pHelmIvP        iter=1829,log=* 
+458.97687       APP_LOG              pHelmIvP        iter=1830,log=* 
+459.22721       APP_LOG              pHelmIvP        iter=1831,log=* 
+459.47740       APP_LOG              pHelmIvP        iter=1832,log=* 
+459.72785       APP_LOG              pHelmIvP        iter=1833,log=* 
+459.97799       APP_LOG              pHelmIvP        iter=1834,log=* 
+460.22829       APP_LOG              pHelmIvP        iter=1835,log=* 
+460.47850       APP_LOG              pHelmIvP        iter=1836,log=* 
+460.72876       APP_LOG              pHelmIvP        iter=1837,log=* 
+460.97895       APP_LOG              pHelmIvP        iter=1838,log=* 
+461.22923       APP_LOG              pHelmIvP        iter=1839,log=* 
+461.47943       APP_LOG              pHelmIvP        iter=1840,log=* 
+461.72986       APP_LOG              pHelmIvP        iter=1841,log=* 
+461.98000       APP_LOG              pHelmIvP        iter=1842,log=* 
+462.23034       APP_LOG              pHelmIvP        iter=1843,log=* 
+462.48055       APP_LOG              pHelmIvP        iter=1844,log=* 
+462.73087       APP_LOG              pHelmIvP        iter=1845,log=* 
+462.98105       APP_LOG              pHelmIvP        iter=1846,log=* 
+463.23134       APP_LOG              pHelmIvP        iter=1847,log=* 
+463.48149       APP_LOG              pHelmIvP        iter=1848,log=* 
+463.73194       APP_LOG              pHelmIvP        iter=1849,log=* 
+463.98210       APP_LOG              pHelmIvP        iter=1850,log=* 
+464.23249       APP_LOG              pHelmIvP        iter=1851,log=* 
+464.48268       APP_LOG              pHelmIvP        iter=1852,log=* 
+464.73295       APP_LOG              pHelmIvP        iter=1853,log=* 
+464.98355       APP_LOG              pHelmIvP        iter=1854,log=* 
+465.23393       APP_LOG              pHelmIvP        iter=1855,log=* 
+465.48408       APP_LOG              pHelmIvP        iter=1856,log=* 
+465.73453       APP_LOG              pHelmIvP        iter=1857,log=* 
+465.98467       APP_LOG              pHelmIvP        iter=1858,log=* 
+466.23499       APP_LOG              pHelmIvP        iter=1859,log=* 
+466.48518       APP_LOG              pHelmIvP        iter=1860,log=* 
+466.73544       APP_LOG              pHelmIvP        iter=1861,log=* 
+466.98568       APP_LOG              pHelmIvP        iter=1862,log=* 
+467.23597       APP_LOG              pHelmIvP        iter=1863,log=* 
+467.48615       APP_LOG              pHelmIvP        iter=1864,log=* 
+467.73660       APP_LOG              pHelmIvP        iter=1865,log=* 
+467.98677       APP_LOG              pHelmIvP        iter=1866,log=* 
+468.23713       APP_LOG              pHelmIvP        iter=1867,log=* 
+468.48733       APP_LOG              pHelmIvP        iter=1868,log=* 
+468.73762       APP_LOG              pHelmIvP        iter=1869,log=* 
+468.98773       APP_LOG              pHelmIvP        iter=1870,log=* 
+469.23820       APP_LOG              pHelmIvP        iter=1871,log=* 
+469.48838       APP_LOG              pHelmIvP        iter=1872,log=* 
+469.73882       APP_LOG              pHelmIvP        iter=1873,log=* 
+469.98900       APP_LOG              pHelmIvP        iter=1874,log=* 
+470.23930       APP_LOG              pHelmIvP        iter=1875,log=* 
+470.48947       APP_LOG              pHelmIvP        iter=1876,log=* 
+470.73980       APP_LOG              pHelmIvP        iter=1877,log=* 
+470.99000       APP_LOG              pHelmIvP        iter=1878,log=* 
+471.24030       APP_LOG              pHelmIvP        iter=1879,log=* 
+471.49045       APP_LOG              pHelmIvP        iter=1880,log=* 
+471.74091       APP_LOG              pHelmIvP        iter=1881,log=* 
+471.99107       APP_LOG              pHelmIvP        iter=1882,log=* 
+472.24139       APP_LOG              pHelmIvP        iter=1883,log=* 
+472.49158       APP_LOG              pHelmIvP        iter=1884,log=* 
+472.74184       APP_LOG              pHelmIvP        iter=1885,log=* 
+472.99205       APP_LOG              pHelmIvP        iter=1886,log=* 
+473.24232       APP_LOG              pHelmIvP        iter=1887,log=* 
+473.49248       APP_LOG              pHelmIvP        iter=1888,log=* 
+473.74292       APP_LOG              pHelmIvP        iter=1889,log=* 
+473.99310       APP_LOG              pHelmIvP        iter=1890,log=* 
+474.24341       APP_LOG              pHelmIvP        iter=1891,log=* 
+474.49358       APP_LOG              pHelmIvP        iter=1892,log=* 
+474.74388       APP_LOG              pHelmIvP        iter=1893,log=* 
+474.99406       APP_LOG              pHelmIvP        iter=1894,log=* 
+475.24437       APP_LOG              pHelmIvP        iter=1895,log=* 
+475.49456       APP_LOG              pHelmIvP        iter=1896,log=* 
+475.74502       APP_LOG              pHelmIvP        iter=1897,log=* 
+475.99518       APP_LOG              pHelmIvP        iter=1898,log=* 
+476.24549       APP_LOG              pHelmIvP        iter=1899,log=* 
+476.49567       APP_LOG              pHelmIvP        iter=1900,log=* 
+476.74593       APP_LOG              pHelmIvP        iter=1901,log=* 
+476.99611       APP_LOG              pHelmIvP        iter=1902,log=* 
+477.24685       APP_LOG              pHelmIvP        iter=1903,log=* 
+477.49714       APP_LOG              pHelmIvP        iter=1904,log=* 
+477.74765       APP_LOG              pHelmIvP        iter=1905,log=* 
+477.99782       APP_LOG              pHelmIvP        iter=1906,log=* 
+478.24814       APP_LOG              pHelmIvP        iter=1907,log=* 
+478.49833       APP_LOG              pHelmIvP        iter=1908,log=* 
+478.74860       APP_LOG              pHelmIvP        iter=1909,log=* 
+478.99882       APP_LOG              pHelmIvP        iter=1910,log=* 
+479.24912       APP_LOG              pHelmIvP        iter=1911,log=* 
+479.49927       APP_LOG              pHelmIvP        iter=1912,log=* 
+479.74971       APP_LOG              pHelmIvP        iter=1913,log=* 
+479.99987       APP_LOG              pHelmIvP        iter=1914,log=* 
+480.25021       APP_LOG              pHelmIvP        iter=1915,log=* 
+480.50037       APP_LOG              pHelmIvP        iter=1916,log=* 
+480.75070       APP_LOG              pHelmIvP        iter=1917,log=* 
+481.00088       APP_LOG              pHelmIvP        iter=1918,log=* 
+481.25117       APP_LOG              pHelmIvP        iter=1919,log=* 
+481.50134       APP_LOG              pHelmIvP        iter=1920,log=* 
+481.75178       APP_LOG              pHelmIvP        iter=1921,log=* 
+482.00196       APP_LOG              pHelmIvP        iter=1922,log=* 
+482.25226       APP_LOG              pHelmIvP        iter=1923,log=* 
+482.50246       APP_LOG              pHelmIvP        iter=1924,log=* 
+482.75272       APP_LOG              pHelmIvP        iter=1925,log=* 
+483.00289       APP_LOG              pHelmIvP        iter=1926,log=* 
+483.25319       APP_LOG              pHelmIvP        iter=1927,log=* 
+483.50335       APP_LOG              pHelmIvP        iter=1928,log=* 
+483.75380       APP_LOG              pHelmIvP        iter=1929,log=* 
+484.00396       APP_LOG              pHelmIvP        iter=1930,log=* 
+484.25429       APP_LOG              pHelmIvP        iter=1931,log=* 
+484.50448       APP_LOG              pHelmIvP        iter=1932,log=* 
+484.75472       APP_LOG              pHelmIvP        iter=1933,log=* 
+485.00492       APP_LOG              pHelmIvP        iter=1934,log=* 
+485.25519       APP_LOG              pHelmIvP        iter=1935,log=* 
+485.50537       APP_LOG              pHelmIvP        iter=1936,log=* 
+485.76502       APP_LOG              pHelmIvP        iter=1937,log=* 
+486.01519       APP_LOG              pHelmIvP        iter=1938,log=* 
+486.26555       APP_LOG              pHelmIvP        iter=1939,log=* 
+486.51573       APP_LOG              pHelmIvP        iter=1940,log=* 
+486.76601       APP_LOG              pHelmIvP        iter=1941,log=* 
+487.01618       APP_LOG              pHelmIvP        iter=1942,log=* 
+487.26648       APP_LOG              pHelmIvP        iter=1943,log=* 
+487.51665       APP_LOG              pHelmIvP        iter=1944,log=* 
+487.76712       APP_LOG              pHelmIvP        iter=1945,log=* 
+488.01731       APP_LOG              pHelmIvP        iter=1946,log=* 
+488.26759       APP_LOG              pHelmIvP        iter=1947,log=* 
+488.51784       APP_LOG              pHelmIvP        iter=1948,log=* 
+488.76811       APP_LOG              pHelmIvP        iter=1949,log=* 
+489.01829       APP_LOG              pHelmIvP        iter=1950,log=* 
+489.26860       APP_LOG              pHelmIvP        iter=1951,log=* 
+489.51903       APP_LOG              pHelmIvP        iter=1952,log=* 
+489.76951       APP_LOG              pHelmIvP        iter=1953,log=* 
+490.01967       APP_LOG              pHelmIvP        iter=1954,log=* 
+490.26997       APP_LOG              pHelmIvP        iter=1955,log=* 
+490.52016       APP_LOG              pHelmIvP        iter=1956,log=* 
+490.77041       APP_LOG              pHelmIvP        iter=1957,log=* 
+491.02063       APP_LOG              pHelmIvP        iter=1958,log=* 
+491.27090       APP_LOG              pHelmIvP        iter=1959,log=* 
+491.52107       APP_LOG              pHelmIvP        iter=1960,log=* 
+491.77151       APP_LOG              pHelmIvP        iter=1961,log=* 
+492.02168       APP_LOG              pHelmIvP        iter=1962,log=* 
+492.27199       APP_LOG              pHelmIvP        iter=1963,log=* 
+492.52215       APP_LOG              pHelmIvP        iter=1964,log=* 
+492.77242       APP_LOG              pHelmIvP        iter=1965,log=* 
+493.02260       APP_LOG              pHelmIvP        iter=1966,log=* 
+493.27290       APP_LOG              pHelmIvP        iter=1967,log=* 
+493.52308       APP_LOG              pHelmIvP        iter=1968,log=* 
+493.77351       APP_LOG              pHelmIvP        iter=1969,log=* 
+494.02369       APP_LOG              pHelmIvP        iter=1970,log=* 
+494.27398       APP_LOG              pHelmIvP        iter=1971,log=* 
+494.52417       APP_LOG              pHelmIvP        iter=1972,log=* 
+494.77443       APP_LOG              pHelmIvP        iter=1973,log=* 
+495.02461       APP_LOG              pHelmIvP        iter=1974,log=* 
+495.27487       APP_LOG              pHelmIvP        iter=1975,log=* 
+495.52519       APP_LOG              pHelmIvP        iter=1976,log=* 
+495.77565       APP_LOG              pHelmIvP        iter=1977,log=* 
+496.02581       APP_LOG              pHelmIvP        iter=1978,log=* 
+496.27611       APP_LOG              pHelmIvP        iter=1979,log=* 
+496.52629       APP_LOG              pHelmIvP        iter=1980,log=* 
+496.77655       APP_LOG              pHelmIvP        iter=1981,log=* 
+497.02689       APP_LOG              pHelmIvP        iter=1982,log=* 
+497.27722       APP_LOG              pHelmIvP        iter=1983,log=* 
+497.52739       APP_LOG              pHelmIvP        iter=1984,log=* 
+497.77784       APP_LOG              pHelmIvP        iter=1985,log=* 
+498.02800       APP_LOG              pHelmIvP        iter=1986,log=* 
+498.27831       APP_LOG              pHelmIvP        iter=1987,log=* 
+498.52846       APP_LOG              pHelmIvP        iter=1988,log=* 
+498.77875       APP_LOG              pHelmIvP        iter=1989,log=* 
+499.02893       APP_LOG              pHelmIvP        iter=1990,log=* 
+499.27923       APP_LOG              pHelmIvP        iter=1991,log=* 
+499.52941       APP_LOG              pHelmIvP        iter=1992,log=* 
+499.77986       APP_LOG              pHelmIvP        iter=1993,log=* 
+500.03005       APP_LOG              pHelmIvP        iter=1994,log=* 
+500.28041       APP_LOG              pHelmIvP        iter=1995,log=* 
+500.53060       APP_LOG              pHelmIvP        iter=1996,log=* 
+500.78086       APP_LOG              pHelmIvP        iter=1997,log=* 
+501.03103       APP_LOG              pHelmIvP        iter=1998,log=* 
+501.28178       APP_LOG              pHelmIvP        iter=1999,log=* 
+501.53215       APP_LOG              pHelmIvP        iter=2000,log=* 
+501.78275       APP_LOG              pHelmIvP        iter=2001,log=* 
+502.03292       APP_LOG              pHelmIvP        iter=2002,log=* 
+502.28323       APP_LOG              pHelmIvP        iter=2003,log=* 
+502.53341       APP_LOG              pHelmIvP        iter=2004,log=* 
+502.78366       APP_LOG              pHelmIvP        iter=2005,log=* 
+503.03387       APP_LOG              pHelmIvP        iter=2006,log=* 
+503.28416       APP_LOG              pHelmIvP        iter=2007,log=* 
+503.53434       APP_LOG              pHelmIvP        iter=2008,log=* 
+503.78477       APP_LOG              pHelmIvP        iter=2009,log=* 
+504.03493       APP_LOG              pHelmIvP        iter=2010,log=* 
+504.28525       APP_LOG              pHelmIvP        iter=2011,log=* 
+504.53540       APP_LOG              pHelmIvP        iter=2012,log=* 
+504.78569       APP_LOG              pHelmIvP        iter=2013,log=* 
+505.03586       APP_LOG              pHelmIvP        iter=2014,log=* 
+505.28619       APP_LOG              pHelmIvP        iter=2015,log=* 
+505.53637       APP_LOG              pHelmIvP        iter=2016,log=* 
+505.78680       APP_LOG              pHelmIvP        iter=2017,log=* 
+506.03699       APP_LOG              pHelmIvP        iter=2018,log=* 
+506.28728       APP_LOG              pHelmIvP        iter=2019,log=* 
+506.53746       APP_LOG              pHelmIvP        iter=2020,log=* 
+506.78772       APP_LOG              pHelmIvP        iter=2021,log=* 
+507.03790       APP_LOG              pHelmIvP        iter=2022,log=* 
+507.28822       APP_LOG              pHelmIvP        iter=2023,log=* 
+507.53837       APP_LOG              pHelmIvP        iter=2024,log=* 
+507.78883       APP_LOG              pHelmIvP        iter=2025,log=* 
+508.03899       APP_LOG              pHelmIvP        iter=2026,log=* 
+508.28930       APP_LOG              pHelmIvP        iter=2027,log=* 
+508.53946       APP_LOG              pHelmIvP        iter=2028,log=* 
+508.78972       APP_LOG              pHelmIvP        iter=2029,log=* 
+509.03993       APP_LOG              pHelmIvP        iter=2030,log=* 
+509.29024       APP_LOG              pHelmIvP        iter=2031,log=* 

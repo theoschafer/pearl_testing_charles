@@ -1,0 +1,519 @@
+3.01783         CONTACTS_RECAP       pContactMgrV20   
+4.01817         CONTACTS_RECAP       pContactMgrV20   
+4.01817         CONTACTS_RECAP       pContactMgrV20   
+5.01843         CONTACTS_RECAP       pContactMgrV20   
+6.01884         CONTACTS_RECAP       pContactMgrV20   
+7.01914         CONTACTS_RECAP       pContactMgrV20   
+8.01948         CONTACTS_RECAP       pContactMgrV20   
+9.01976         CONTACTS_RECAP       pContactMgrV20   
+10.02012        CONTACTS_RECAP       pContactMgrV20   
+11.02040        CONTACTS_RECAP       pContactMgrV20   
+11.02040        CONTACTS_RECAP       pContactMgrV20   
+12.02110        CONTACTS_RECAP       pContactMgrV20   
+12.02110        CONTACTS_RECAP       pContactMgrV20   
+13.02143        CONTACTS_RECAP       pContactMgrV20   
+14.02205        CONTACTS_RECAP       pContactMgrV20   
+15.02261        CONTACTS_RECAP       pContactMgrV20   
+15.02261        CONTACTS_RECAP       pContactMgrV20   
+16.02434        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.54,age=1.03 
+16.02434        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.54,age=1.03 
+17.02622        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.30,age=2.03 
+18.02779        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.17,age=3.04 
+19.02881        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=105.79,age=4.04 
+20.03023        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=105.61,age=5.04 
+21.03162        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=105.55,age=6.04 
+22.03309        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=105.44,age=7.04 
+23.03451        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=105.26,age=8.04 
+24.03595        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=105.20,age=9.04 
+25.03738        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=105.09,age=10.05 
+26.03920        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=105.04,age=11.05 
+27.04062        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.93,age=12.05 
+28.04205        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.75,age=13.05 
+29.04342        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.57,age=14.05 
+30.04482        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.57,age=15.05 
+31.04620        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.65,age=16.05 
+32.04769        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.59,age=17.06 
+33.04908        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.54,age=18.06 
+34.05051        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.49,age=19.06 
+35.05188        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.57,age=20.06 
+36.05333        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.52,age=21.06 
+37.05475        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.47,age=22.06 
+38.05625        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.42,age=23.06 
+39.05779        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.24,age=24.07 
+40.05958        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.19,age=25.07 
+41.06105        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.19,age=26.07 
+42.06265        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.32,age=27.07 
+43.06411        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.59,age=28.07 
+44.06615        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.85,age=29.07 
+44.06615        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.85,age=29.07 
+45.06655        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=105.70,age=30.07 
+46.06887        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=107.07,age=0.77 
+47.06929        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=107.70,age=1.77 
+48.07074        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=108.28,age=2.77 
+49.07217        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=108.73,age=3.77 
+50.07369        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=109.04,age=4.77 
+51.07513        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=109.44,age=5.77 
+52.07677        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=109.70,age=6.77 
+53.07840        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=109.97,age=7.78 
+54.07983        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=110.23,age=8.78 
+55.08126        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=110.50,age=9.78 
+56.08274        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=110.86,age=10.78 
+57.08415        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=111.04,age=11.78 
+58.08560        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=111.35,age=12.78 
+59.08697        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=111.59,age=13.79 
+60.08842        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=111.69,age=14.79 
+61.08979        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=111.65,age=15.79 
+62.09130        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=111.89,age=16.79 
+63.09272        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=112.04,age=17.79 
+64.09417        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=111.81,age=18.79 
+65.09555        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=111.91,age=19.79 
+66.09698        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=112.08,age=20.80 
+67.09841        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=112.17,age=21.80 
+68.09991        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=112.34,age=22.80 
+69.10132        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=112.58,age=23.80 
+70.10276        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=113.01,age=24.80 
+71.10414        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=113.46,age=25.80 
+72.10558        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=114.03,age=26.80 
+73.10703        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=114.34,age=27.81 
+74.10846        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=114.90,age=28.81 
+75.10990        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=115.41,age=29.81 
+76.11139        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=116.05,age=30.81 
+77.11340        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=116.48,age=1.51 # vname=predictionabe_1,range=104.68,age=0.48 
+78.11383        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=117.06,age=2.51 # vname=predictionabe_1,range=105.26,age=1.48 
+79.11418        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=117.30,age=3.51 # vname=predictionabe_1,range=105.49,age=2.48 
+80.11458        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=117.81,age=4.51 # vname=predictionabe_1,range=105.98,age=3.49 
+81.11494        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=118.38,age=5.51 # vname=predictionabe_1,range=106.52,age=4.49 
+82.11555        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=118.89,age=6.51 # vname=predictionabe_1,range=107.02,age=5.49 
+83.11588        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=119.39,age=7.51 # vname=predictionabe_1,range=107.51,age=6.49 
+84.11630        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=120.03,age=8.51 # vname=predictionabe_1,range=108.14,age=7.49 
+85.11667        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=120.73,age=9.51 # vname=predictionabe_1,range=108.82,age=8.49 
+86.11801        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=121.69,age=10.51 # vname=predictionabe_1,range=109.76,age=9.49 
+87.11799        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=122.21,age=11.52 # vname=predictionabe_1,range=110.26,age=10.49 
+88.11836        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=122.85,age=12.52 # vname=predictionabe_1,range=110.89,age=11.49 
+89.11867        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=123.30,age=13.52 # vname=predictionabe_1,range=111.34,age=12.49 
+90.11907        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=123.56,age=14.52 # vname=predictionabe_1,range=111.60,age=13.49 
+91.11943        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.07,age=15.52 # vname=predictionabe_1,range=112.13,age=14.49 
+92.11988        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.39,age=16.52 # vname=predictionabe_1,range=112.44,age=15.49 
+93.12029        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.78,age=17.52 # vname=predictionabe_1,range=112.84,age=16.49 
+94.12072        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.85,age=18.52 # vname=predictionabe_1,range=112.92,age=17.49 
+95.12167        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.59,age=19.52 # vname=predictionabe_1,range=112.66,age=18.49 
+96.12208        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.46,age=20.52 # vname=predictionabe_1,range=112.52,age=19.49 
+97.12253        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.65,age=21.52 # vname=predictionabe_1,range=112.71,age=20.49 
+98.12295        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.78,age=22.52 # vname=predictionabe_1,range=112.81,age=21.49 
+99.12333        CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.84,age=23.52 # vname=predictionabe_1,range=112.86,age=22.49 
+100.12375       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.90,age=24.52 # vname=predictionabe_1,range=112.91,age=23.49 
+101.12409       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.90,age=25.52 # vname=predictionabe_1,range=112.91,age=24.49 
+102.12466       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.96,age=26.52 # vname=predictionabe_1,range=112.96,age=25.50 
+103.12499       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=125.02,age=27.52 # vname=predictionabe_1,range=113.02,age=26.50 
+104.12540       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.96,age=28.52 # vname=predictionabe_1,range=112.94,age=27.50 
+105.12572       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.83,age=29.52 # vname=predictionabe_1,range=112.81,age=28.50 
+106.12607       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=124.76,age=30.52 # vname=predictionabe_1,range=112.73,age=29.50 
+107.12655       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=138.33,age=1.22 # vname=predictionabe_1,range=189.23,age=0.46 
+107.12655       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=138.33,age=1.22 # vname=predictionabe_1,range=189.23,age=0.46 
+108.12695       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=138.07,age=2.22 # vname=predictionabe_1,range=188.99,age=1.46 
+108.12695       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=138.07,age=2.22 # vname=predictionabe_1,range=188.99,age=1.46 
+109.12736       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=137.57,age=3.23 # vname=predictionabe_1,range=188.45,age=2.46 
+110.12784       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=137.25,age=4.23 # vname=predictionabe_1,range=188.12,age=3.46 
+111.12824       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=136.80,age=5.23 # vname=predictionabe_1,range=187.67,age=4.46 
+112.12867       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=136.54,age=6.23 # vname=predictionabe_1,range=187.43,age=5.46 
+113.12899       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=136.35,age=7.23 # vname=predictionabe_1,range=187.22,age=6.46 
+114.12944       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=136.22,age=8.23 # vname=predictionabe_1,range=187.10,age=7.46 
+115.12985       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=136.03,age=9.23 # vname=predictionabe_1,range=186.89,age=8.46 
+116.13097       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=135.84,age=10.23 # vname=predictionabe_1,range=186.68,age=9.46 
+117.13147       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=135.65,age=11.23 # vname=predictionabe_1,range=186.48,age=10.46 
+118.13190       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=135.46,age=12.23 # vname=predictionabe_1,range=186.27,age=11.46 
+119.13221       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=135.02,age=13.23 # vname=predictionabe_1,range=185.82,age=12.46 
+120.13260       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=134.57,age=14.23 # vname=predictionabe_1,range=185.37,age=13.46 
+121.13291       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=134.12,age=15.23 # vname=predictionabe_1,range=184.92,age=14.46 
+122.13337       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=134.18,age=16.23 # vname=predictionabe_1,range=185.00,age=15.46 
+123.13370       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=133.80,age=17.23 # vname=predictionabe_1,range=184.59,age=16.46 
+124.13408       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=133.67,age=18.23 # vname=predictionabe_1,range=184.47,age=17.46 
+125.13443       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=133.54,age=19.23 # vname=predictionabe_1,range=184.34,age=18.46 
+126.13499       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=133.35,age=20.23 # vname=predictionabe_1,range=184.14,age=19.46 
+127.13540       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=133.29,age=21.23 # vname=predictionabe_1,range=184.05,age=20.46 
+128.13604       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=132.84,age=22.23 # vname=predictionabe_1,range=183.60,age=21.47 
+129.13675       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=132.60,age=23.23 # vname=predictionabe_1,range=183.30,age=22.47 
+130.13743       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=132.23,age=24.24 # vname=predictionabe_1,range=182.89,age=23.47 
+131.13783       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=131.82,age=25.24 # vname=predictionabe_1,range=182.34,age=24.47 
+132.13847       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=131.52,age=26.24 # vname=predictionabe_1,range=181.96,age=25.47 
+133.13899       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=131.34,age=27.24 # vname=predictionabe_1,range=181.75,age=26.47 
+134.13938       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=131.17,age=28.24 # vname=predictionabe_1,range=181.50,age=27.47 
+135.13971       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=130.75,age=29.24 # vname=predictionabe_1,range=181.00,age=28.47 
+136.14008       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=130.20,age=30.24 # vname=predictionabe_1,range=180.38,age=29.47 
+137.14088       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=122.19,age=0.93 # vname=predictionabe_1,range=76.27,age=0.43 
+137.14088       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=122.19,age=0.93 # vname=predictionabe_1,range=76.27,age=0.43 
+138.14126       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=121.48,age=1.93 # vname=predictionabe_1,range=75.62,age=1.43 
+139.14161       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=120.78,age=2.93 # vname=predictionabe_1,range=74.96,age=2.43 
+140.14208       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=120.14,age=3.93 # vname=predictionabe_1,range=74.42,age=3.43 
+141.14255       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=119.38,age=4.93 # vname=predictionabe_1,range=73.78,age=4.43 
+142.14303       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=118.80,age=5.93 # vname=predictionabe_1,range=73.24,age=5.43 
+143.14340       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=118.10,age=6.93 # vname=predictionabe_1,range=72.59,age=6.43 
+144.14383       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=117.58,age=7.93 # vname=predictionabe_1,range=72.03,age=7.43 
+145.14420       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=117.45,age=8.93 # vname=predictionabe_1,range=71.93,age=8.43 
+146.14495       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=116.93,age=9.93 # vname=predictionabe_1,range=71.37,age=9.43 
+147.14561       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=116.80,age=10.93 # vname=predictionabe_1,range=71.27,age=10.43 
+148.14608       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=116.47,age=11.93 # vname=predictionabe_1,range=70.94,age=11.43 
+149.14648       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=115.83,age=12.93 # vname=predictionabe_1,range=70.28,age=12.43 
+150.14751       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=115.37,age=13.93 # vname=predictionabe_1,range=69.84,age=13.43 
+151.14834       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=114.67,age=14.94 # vname=predictionabe_1,range=69.20,age=14.44 
+152.14900       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=113.78,age=15.94 # vname=predictionabe_1,range=68.46,age=15.44 
+153.14935       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=112.82,age=16.94 # vname=predictionabe_1,range=67.61,age=16.44 
+154.15003       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=111.74,age=17.94 # vname=predictionabe_1,range=66.66,age=17.44 
+155.15085       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=110.98,age=18.94 # vname=predictionabe_1,range=66.04,age=18.44 
+156.15179       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=110.40,age=19.94 # vname=predictionabe_1,range=65.51,age=19.44 
+157.15278       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=109.83,age=20.94 # vname=predictionabe_1,range=64.97,age=20.44 
+158.15319       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=109.18,age=21.94 # vname=predictionabe_1,range=64.32,age=21.44 
+159.15354       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=108.72,age=22.94 # vname=predictionabe_1,range=63.89,age=22.44 
+160.15399       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=107.95,age=23.94 # vname=predictionabe_1,range=63.13,age=23.44 
+161.15443       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=107.55,age=24.94 # vname=predictionabe_1,range=62.68,age=24.44 
+162.15660       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.90,age=25.94 # vname=predictionabe_1,range=62.02,age=25.44 
+163.15596       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.25,age=26.94 # vname=predictionabe_1,range=61.37,age=26.44 
+164.15637       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=105.42,age=27.94 # vname=predictionabe_1,range=60.64,age=27.44 
+165.15676       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.64,age=28.94 # vname=predictionabe_1,range=59.88,age=28.44 
+166.15718       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.06,age=29.94 # vname=predictionabe_1,range=59.35,age=29.44 
+167.15822       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=103.11,age=30.95 # vname=predictionabe_1,range=58.53,age=30.45 
+168.15894       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=75.19,age=1.64 # vname=predictionabe_1,range=40.41,age=0.40 
+168.15894       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=75.19,age=1.64 # vname=predictionabe_1,range=40.41,age=0.40 
+169.15934       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=74.51,age=2.64 # vname=predictionabe_1,range=39.70,age=1.40 
+170.15996       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=73.61,age=3.64 # vname=predictionabe_1,range=38.81,age=2.40 
+171.16067       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=72.92,age=4.64 # vname=predictionabe_1,range=38.09,age=3.40 
+172.16112       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=72.05,age=5.64 # vname=predictionabe_1,range=37.29,age=4.40 
+173.16180       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=71.22,age=6.64 # vname=predictionabe_1,range=36.36,age=5.40 
+174.16223       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=70.21,age=7.64 # vname=predictionabe_1,range=35.34,age=6.40 
+175.16260       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=69.50,age=8.64 # vname=predictionabe_1,range=34.54,age=7.40 
+176.16296       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=68.92,age=9.64 # vname=predictionabe_1,range=33.88,age=8.40 
+177.16343       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=68.23,age=10.64 # vname=predictionabe_1,range=33.16,age=9.41 
+178.16389       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.65,age=11.64 # vname=predictionabe_1,range=32.50,age=10.41 
+179.16423       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.42,age=12.64 # vname=predictionabe_1,range=32.24,age=11.41 
+180.16515       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.17,age=13.64 # vname=predictionabe_1,range=31.89,age=12.41 
+181.16553       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.79,age=14.64 # vname=predictionabe_1,range=31.34,age=13.41 
+182.16593       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.30,age=15.64 # vname=predictionabe_1,range=30.59,age=14.41 
+183.16671       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.28,age=16.64 # vname=predictionabe_1,range=30.45,age=15.41 
+184.16718       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.04,age=17.64 # vname=predictionabe_1,range=30.06,age=16.41 
+185.16801       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.24,age=18.65 # vname=predictionabe_1,range=30.13,age=17.41 
+186.16842       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.12,age=19.65 # vname=predictionabe_1,range=29.89,age=18.41 
+187.16880       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=65.79,age=20.65 # vname=predictionabe_1,range=29.40,age=19.41 
+188.16929       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=65.34,age=21.65 # vname=predictionabe_1,range=28.85,age=20.41 
+189.16972       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=65.01,age=22.65 # vname=predictionabe_1,range=28.52,age=21.41 
+190.17032       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=64.57,age=23.65 # vname=predictionabe_1,range=28.12,age=22.41 
+191.17110       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=64.13,age=24.65 # vname=predictionabe_1,range=27.72,age=23.41 
+192.17247       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=63.47,age=25.65 # vname=predictionabe_1,range=27.02,age=24.41 
+193.17285       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=62.59,age=26.65 # vname=predictionabe_1,range=26.17,age=25.41 
+194.17339       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=61.93,age=27.65 # vname=predictionabe_1,range=25.52,age=26.42 
+195.17378       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=61.27,age=28.65 # vname=predictionabe_1,range=24.81,age=27.42 
+196.17417       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=61.16,age=29.65 # vname=predictionabe_1,range=24.69,age=28.42 
+197.17454       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=61.16,age=30.65 # vname=predictionabe_1,range=24.63,age=29.42 
+198.17535       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=32.04,age=1.35 # vname=predictionabe_1,range=10.71,age=0.37 
+199.17576       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=32.23,age=2.35 # vname=predictionabe_1,range=11.10,age=1.37 
+200.17624       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=32.04,age=3.35 # vname=predictionabe_1,range=11.23,age=2.37 
+201.17679       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=32.14,age=4.35 # vname=predictionabe_1,range=11.69,age=3.37 
+202.17775       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=32.25,age=5.36 # vname=predictionabe_1,range=12.15,age=4.37 
+203.17839       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=32.22,age=6.36 # vname=predictionabe_1,range=12.45,age=5.37 
+204.17877       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=32.39,age=7.36 # vname=predictionabe_1,range=13.14,age=6.37 
+205.17943       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=32.58,age=8.36 # vname=predictionabe_1,range=13.82,age=7.37 
+206.17983       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=32.63,age=9.36 # vname=predictionabe_1,range=14.36,age=8.37 
+207.18077       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=32.63,age=10.36 # vname=predictionabe_1,range=14.66,age=9.37 
+208.18116       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=32.69,age=11.36 # vname=predictionabe_1,range=15.19,age=10.37 
+209.18148       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=32.54,age=12.36 # vname=predictionabe_1,range=15.65,age=11.37 
+210.18213       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=31.93,age=13.36 # vname=predictionabe_1,range=15.67,age=12.37 
+211.18251       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=31.71,age=14.36 # vname=predictionabe_1,range=15.92,age=13.37 
+212.18391       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=31.12,age=15.36 # vname=predictionabe_1,range=16.29,age=14.38 
+213.18432       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.77,age=16.36 # vname=predictionabe_1,range=16.75,age=15.38 
+214.18598       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.17,age=17.36 # vname=predictionabe_1,range=16.86,age=16.38 
+215.18632       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=29.91,age=18.36 # vname=predictionabe_1,range=17.25,age=17.38 
+216.18716       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=29.48,age=19.36 # vname=predictionabe_1,range=17.52,age=18.38 
+217.18757       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=29.17,age=20.37 # vname=predictionabe_1,range=18.03,age=19.38 
+218.18818       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=28.70,age=21.37 # vname=predictionabe_1,range=18.44,age=20.38 
+219.18852       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=28.41,age=22.37 # vname=predictionabe_1,range=18.98,age=21.38 
+220.18896       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=28.08,age=23.37 # vname=predictionabe_1,range=19.63,age=22.38 
+221.18938       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=27.87,age=24.37 # vname=predictionabe_1,range=20.08,age=23.38 
+222.18984       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=27.45,age=25.37 # vname=predictionabe_1,range=20.54,age=24.38 
+223.19023       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=27.43,age=26.37 # vname=predictionabe_1,range=21.10,age=25.38 
+224.19063       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=27.43,age=27.37 # vname=predictionabe_1,range=21.66,age=26.38 
+225.19098       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=27.31,age=28.37 # vname=predictionabe_1,range=22.00,age=27.38 
+226.19140       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=27.54,age=29.37 # vname=predictionabe_1,range=22.55,age=28.38 
+227.19173       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=27.68,age=30.37 # vname=predictionabe_1,range=22.77,age=29.38 
+228.19225       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=23.74,age=1.07 # vname=predictionabe_1,range=51.62,age=0.33 
+229.19258       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=23.87,age=2.07 # vname=predictionabe_1,range=51.91,age=1.33 
+230.19300       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=24.10,age=3.07 # vname=predictionabe_1,range=52.18,age=2.33 
+231.19334       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=24.12,age=4.07 # vname=predictionabe_1,range=52.33,age=3.33 
+232.19377       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=24.26,age=5.07 # vname=predictionabe_1,range=52.62,age=4.33 
+233.19411       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=24.41,age=6.07 # vname=predictionabe_1,range=52.90,age=5.33 
+234.19455       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=24.67,age=7.07 # vname=predictionabe_1,range=53.33,age=6.33 
+235.19493       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=24.98,age=8.07 # vname=predictionabe_1,range=53.90,age=7.33 
+236.19533       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=24.97,age=9.07 # vname=predictionabe_1,range=54.23,age=8.33 
+237.19577       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=25.31,age=10.07 # vname=predictionabe_1,range=54.81,age=9.33 
+238.19630       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=25.91,age=11.07 # vname=predictionabe_1,range=55.67,age=10.33 
+239.19668       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=26.27,age=12.07 # vname=predictionabe_1,range=56.25,age=11.33 
+240.19716       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=26.84,age=13.07 # vname=predictionabe_1,range=56.95,age=12.33 
+241.19760       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=27.42,age=14.08 # vname=predictionabe_1,range=57.48,age=13.33 
+242.20197       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=27.93,age=15.08 # vname=predictionabe_1,range=58.03,age=14.34 
+243.20243       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=28.70,age=16.08 # vname=predictionabe_1,range=58.85,age=15.34 
+244.20291       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=29.41,age=17.08 # vname=predictionabe_1,range=59.51,age=16.34 
+245.20328       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=29.74,age=18.08 # vname=predictionabe_1,range=59.94,age=17.34 
+246.20372       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.06,age=19.08 # vname=predictionabe_1,range=60.37,age=18.34 
+247.20422       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.21,age=20.08 # vname=predictionabe_1,range=60.68,age=19.34 
+248.20468       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.36,age=21.08 # vname=predictionabe_1,range=60.99,age=20.34 
+249.20512       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.38,age=22.08 # vname=predictionabe_1,range=61.17,age=21.34 
+250.20553       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.67,age=23.08 # vname=predictionabe_1,range=61.63,age=22.34 
+251.20651       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=31.02,age=24.08 # vname=predictionabe_1,range=62.06,age=23.34 
+252.20691       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=31.24,age=25.08 # vname=predictionabe_1,range=62.36,age=24.34 
+253.20734       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=31.41,age=26.09 # vname=predictionabe_1,range=62.68,age=25.34 
+254.20892       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=31.73,age=27.09 # vname=predictionabe_1,range=63.14,age=26.34 
+255.21016       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=31.95,age=28.09 # vname=predictionabe_1,range=63.44,age=27.34 
+256.20968       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=32.14,age=29.09 # vname=predictionabe_1,range=63.76,age=28.34 
+257.21006       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=32.88,age=30.09 # vname=predictionabe_1,range=64.63,age=29.34 
+258.21074       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=59.87,age=0.79 # vname=predictionabe_1,range=86.45,age=0.28 
+259.21130       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=60.42,age=1.79 # vname=predictionabe_1,range=86.99,age=1.28 
+259.21130       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=60.42,age=1.79 # vname=predictionabe_1,range=86.99,age=1.28 
+260.21291       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=61.24,age=2.79 # vname=predictionabe_1,range=87.79,age=2.28 
+261.21233       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=61.94,age=3.79 # vname=predictionabe_1,range=88.50,age=3.28 
+262.21290       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=62.12,age=4.79 # vname=predictionabe_1,range=88.72,age=4.28 
+263.21330       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=62.83,age=5.79 # vname=predictionabe_1,range=89.43,age=5.28 
+264.21378       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=63.39,age=6.79 # vname=predictionabe_1,range=90.00,age=6.28 
+265.21415       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=63.99,age=7.79 # vname=predictionabe_1,range=90.62,age=7.28 
+266.21459       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=64.58,age=8.79 # vname=predictionabe_1,range=91.24,age=8.28 
+267.21498       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=64.99,age=9.79 # vname=predictionabe_1,range=91.72,age=9.28 
+268.21546       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=65.48,age=10.79 # vname=predictionabe_1,range=92.25,age=10.28 
+269.21584       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=65.84,age=11.79 # vname=predictionabe_1,range=92.65,age=11.28 
+270.21629       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.24,age=12.79 # vname=predictionabe_1,range=93.09,age=12.28 
+271.21681       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.88,age=13.79 # vname=predictionabe_1,range=93.77,age=13.28 
+271.21681       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.88,age=13.79 # vname=predictionabe_1,range=93.77,age=13.28 
+272.21769       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.35,age=14.80 # vname=predictionabe_1,range=94.26,age=14.28 
+273.21811       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.99,age=15.80 # vname=predictionabe_1,range=94.93,age=15.28 
+274.21857       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=68.70,age=16.80 # vname=predictionabe_1,range=95.64,age=16.28 
+275.21896       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=69.41,age=17.80 # vname=predictionabe_1,range=96.35,age=17.28 
+276.21942       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=70.16,age=18.80 # vname=predictionabe_1,range=97.11,age=18.28 
+277.22003       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=71.04,age=19.80 # vname=predictionabe_1,range=98.01,age=19.28 
+278.22096       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=71.62,age=20.80 # vname=predictionabe_1,range=98.58,age=20.29 
+279.22157       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=72.06,age=21.80 # vname=predictionabe_1,range=99.03,age=21.29 
+280.22202       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=72.61,age=22.80 # vname=predictionabe_1,range=99.62,age=22.29 
+281.22245       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=73.23,age=23.80 # vname=predictionabe_1,range=100.25,age=23.29 
+282.22341       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=73.48,age=24.80 # vname=predictionabe_1,range=100.54,age=24.29 
+283.22468       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=74.14,age=25.80 # vname=predictionabe_1,range=101.22,age=25.29 
+284.22513       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=74.54,age=26.80 # vname=predictionabe_1,range=101.64,age=26.29 
+285.22549       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=74.94,age=27.80 # vname=predictionabe_1,range=102.06,age=27.29 
+286.22585       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=75.51,age=28.80 # vname=predictionabe_1,range=102.64,age=28.29 
+287.22628       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=75.60,age=29.80 # vname=predictionabe_1,range=102.75,age=29.29 
+288.22681       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=102.35,age=0.49 # vname=predictionabe_1,range=102.88,age=30.29 
+289.22733       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=102.80,age=1.49 # vname=predictionabe_1,range=71.32,age=0.23 
+290.22778       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=103.12,age=2.50 # vname=predictionabe_1,range=71.59,age=1.23 
+291.22825       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=103.70,age=3.50 # vname=predictionabe_1,range=71.94,age=2.23 
+292.22869       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.34,age=4.50 # vname=predictionabe_1,range=72.47,age=3.23 
+293.22924       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=104.79,age=5.50 # vname=predictionabe_1,range=72.78,age=4.23 
+294.22970       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=105.43,age=6.50 # vname=predictionabe_1,range=73.31,age=5.23 
+295.23012       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=105.75,age=7.50 # vname=predictionabe_1,range=73.58,age=6.23 
+296.23064       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.08,age=8.50 # vname=predictionabe_1,range=73.85,age=7.23 
+297.23405       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.33,age=9.50 # vname=predictionabe_1,range=73.94,age=8.24 
+298.23453       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.53,age=10.50 # vname=predictionabe_1,range=74.16,age=9.24 
+299.23489       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.59,age=11.50 # vname=predictionabe_1,range=74.34,age=10.24 
+300.23537       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.72,age=12.50 # vname=predictionabe_1,range=74.69,age=11.24 
+301.23585       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=107.04,age=13.50 # vname=predictionabe_1,range=74.95,age=12.24 
+302.23640       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=107.23,age=14.50 # vname=predictionabe_1,range=75.18,age=13.24 
+303.23678       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.98,age=15.50 # vname=predictionabe_1,range=75.08,age=14.24 
+304.23724       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.72,age=16.51 # vname=predictionabe_1,range=74.99,age=15.24 
+305.23831       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.46,age=17.51 # vname=predictionabe_1,range=74.89,age=16.24 
+306.23878       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.20,age=18.51 # vname=predictionabe_1,range=74.80,age=17.24 
+307.23936       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.27,age=19.51 # vname=predictionabe_1,range=74.97,age=18.24 
+308.23997       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.33,age=20.51 # vname=predictionabe_1,range=75.15,age=19.24 
+309.24040       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.46,age=21.51 # vname=predictionabe_1,range=75.19,age=20.24 
+310.24086       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.46,age=22.51 # vname=predictionabe_1,range=75.19,age=21.24 
+311.24120       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.66,age=23.51 # vname=predictionabe_1,range=75.41,age=22.24 
+312.24183       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=106.98,age=24.51 # vname=predictionabe_1,range=75.68,age=23.24 
+313.24217       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=107.11,age=25.51 # vname=predictionabe_1,range=75.73,age=24.24 
+314.24301       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=107.43,age=26.51 # vname=predictionabe_1,range=76.00,age=25.24 
+315.24353       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=107.63,age=27.51 # vname=predictionabe_1,range=76.22,age=26.24 
+316.24395       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=107.82,age=28.51 # vname=predictionabe_1,range=76.44,age=27.25 
+317.24429       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=107.95,age=29.51 # vname=predictionabe_1,range=76.49,age=28.25 
+318.24472       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=108.21,age=30.51 # vname=predictionabe_1,range=76.88,age=29.25 
+319.24527       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.18,age=1.21 # vname=predictionabe_1,range=77.05,age=30.25 
+320.24585       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.34,age=2.21 # vname=predictionabe_1,range=77.28,age=31.25 
+321.24618       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.37,age=3.21 # vname=predictionabe_1,range=77.45,age=32.25 
+322.24665       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.53,age=4.21 # vname=predictionabe_1,range=77.67,age=33.25 
+323.24860       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.50,age=5.22 # vname=predictionabe_1,range=77.50,age=34.25 
+324.24823       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.53,age=6.22 
+324.24823       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.53,age=6.22 
+325.24864       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.18,age=7.22 
+326.25012       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.18,age=8.22 
+327.25151       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.18,age=9.22 
+328.25339       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.04,age=10.22 
+329.25364       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.04,age=11.22 
+330.25516       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.91,age=12.22 
+331.25662       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.91,age=13.22 
+332.25837       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.93,age=14.23 
+333.25991       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.93,age=15.23 
+334.26140       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.96,age=16.23 
+335.26277       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.12,age=17.23 
+336.26423       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.26,age=18.23 
+337.26564       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.42,age=19.23 
+338.26717       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.69,age=20.24 
+339.26856       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.69,age=21.24 
+340.27007       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.85,age=22.24 
+341.27234       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.85,age=23.24 
+342.27281       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.88,age=24.24 
+343.27422       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=67.88,age=25.24 
+344.27568       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=68.02,age=26.24 
+345.27714       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=68.02,age=27.25 
+346.27865       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=68.15,age=28.25 
+347.28002       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=68.32,age=29.25 
+348.28151       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=68.32,age=30.25 
+349.28290       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=68.35,age=31.25 
+350.28450       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=66.07,age=1.95 
+351.28595       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=65.93,age=2.95 
+352.28745       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=65.79,age=3.96 
+353.28887       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=65.52,age=4.96 
+354.29037       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=65.25,age=5.96 
+355.29177       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=64.55,age=6.96 
+356.29318       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=63.83,age=7.96 
+357.29460       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=63.12,age=8.96 
+358.29608       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=62.42,age=9.96 
+359.29752       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=61.99,age=10.97 
+360.29905       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=61.41,age=11.97 
+361.30045       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=60.84,age=12.97 
+362.30192       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=60.13,age=13.97 
+363.30333       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=59.42,age=14.97 
+364.30483       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=58.86,age=15.97 
+365.30623       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=58.58,age=16.97 
+366.30774       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=58.16,age=17.98 
+367.30919       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=57.47,age=18.98 
+368.31065       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=56.91,age=19.98 
+369.31203       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=56.50,age=20.98 
+370.31390       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=55.82,age=21.98 
+371.31436       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=55.28,age=22.98 
+372.31589       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=54.75,age=23.98 
+373.31738       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=54.22,age=24.99 
+374.31904       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=53.69,age=25.99 
+375.32051       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=53.18,age=26.99 
+376.32222       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=53.06,age=27.99 
+377.32301       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=52.70,age=28.99 
+378.32451       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=52.44,age=29.99 
+379.32599       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=51.87,age=0.68 
+380.32746       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=51.50,age=1.69 
+381.32884       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=51.11,age=2.69 
+382.33036       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=50.61,age=3.69 
+383.33177       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=50.25,age=4.69 
+384.33326       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=49.76,age=5.69 
+385.34384       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=49.25,age=6.70 
+386.34537       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=48.76,age=7.70 
+387.34678       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=48.42,age=8.71 
+388.34829       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=47.94,age=9.71 
+389.34961       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=47.51,age=10.71 
+390.35107       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=47.14,age=11.71 
+391.35246       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=47.04,age=12.71 
+392.35391       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=46.76,age=13.71 
+393.35560       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=46.26,age=14.71 
+394.35713       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=45.81,age=15.72 
+395.35854       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=45.32,age=16.72 
+396.36004       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=45.19,age=17.72 
+397.36147       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=44.67,age=18.72 
+398.36295       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=44.25,age=19.72 
+399.36448       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=44.22,age=20.72 
+400.36595       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=43.80,age=21.72 
+401.36737       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=43.60,age=22.73 
+402.36887       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=43.38,age=23.73 
+403.37032       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=43.04,age=24.73 
+404.37211       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=42.65,age=25.73 
+405.37351       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=42.33,age=26.73 
+406.37499       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=41.90,age=27.73 
+407.37641       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=41.66,age=28.73 
+408.37788       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=41.30,age=29.74 
+409.37933       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=38.85,age=0.44 
+410.38084       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=38.57,age=1.44 
+411.38224       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=38.16,age=2.44 
+412.38371       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=38.02,age=3.44 
+413.38509       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=37.83,age=4.44 
+414.38653       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=37.76,age=5.44 
+415.38794       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=37.50,age=6.45 
+416.38956       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=37.44,age=7.45 
+417.39096       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=37.38,age=8.45 
+418.39241       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=37.09,age=9.45 
+419.39378       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=36.78,age=10.45 
+420.39520       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=36.68,age=11.45 
+421.39663       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=36.66,age=12.45 
+422.39817       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=36.33,age=13.46 
+423.39958       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=36.12,age=14.46 
+424.40113       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=35.81,age=15.46 
+425.40258       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=35.41,age=16.46 
+426.40401       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=35.26,age=17.46 
+427.40540       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=34.99,age=18.46 
+428.40690       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=34.60,age=19.47 
+429.40846       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=34.42,age=20.47 
+430.40995       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=34.35,age=21.47 
+431.41156       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=34.19,age=22.47 
+432.41319       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=34.07,age=23.47 
+433.41474       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=33.95,age=24.47 
+434.41624       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=34.07,age=25.47 
+435.41763       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=33.98,age=26.48 
+436.41914       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=33.90,age=27.48 
+437.42062       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=33.84,age=28.48 
+438.42216       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=33.67,age=29.48 
+439.42441       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=31.72,age=0.18 
+440.42586       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=31.85,age=1.18 
+441.42755       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=31.46,age=2.19 
+442.42909       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=31.31,age=3.19 
+443.43051       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=31.41,age=4.19 
+444.43199       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.43,age=5.19 
+445.43441       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.16,age=6.19 
+446.43486       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.21,age=7.19 
+447.43686       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.12,age=8.19 
+448.43752       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.60,age=9.20 
+449.43891       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.64,age=10.20 
+450.44044       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.64,age=11.20 
+451.44184       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.64,age=12.20 
+452.44335       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.59,age=13.20 
+453.44477       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=30.21,age=14.20 
+454.44661       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=29.99,age=15.20 
+455.44710       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=29.49,age=16.21 
+456.44863       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=28.65,age=17.21 
+457.45039       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=27.86,age=18.21 
+458.45186       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=27.25,age=19.21 
+459.45325       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=26.41,age=20.21 
+460.45475       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=25.79,age=21.21 
+461.45610       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=25.13,age=22.21 
+462.45777       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=24.59,age=23.22 
+463.45918       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=24.20,age=24.22 
+464.46069       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=23.59,age=25.22 
+465.46211       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=23.07,age=26.22 
+466.46362       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=22.74,age=27.22 
+467.46501       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=22.06,age=28.22 
+468.46648       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=21.49,age=29.22 
+469.46820       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=21.79,age=-0.08 
+470.46964       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=21.22,age=0.92 
+471.47106       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=20.86,age=1.92 
+472.47251       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=20.39,age=2.92 
+473.47392       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=20.10,age=3.92 
+474.47540       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=19.46,age=4.92 
+475.47681       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=18.61,age=5.93 
+476.47828       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=17.92,age=6.93 
+477.47967       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=17.27,age=7.93 
+478.48119       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=16.84,age=8.93 
+479.48263       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=16.23,age=9.93 
+480.48413       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=16.00,age=10.93 
+481.48554       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=15.40,age=11.93 
+482.48724       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=14.81,age=12.94 
+483.48862       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=14.42,age=13.94 
+484.49012       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=14.05,age=14.94 
+485.49149       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=13.70,age=15.94 
+486.49294       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=13.38,age=16.94 
+487.49432       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=13.06,age=17.94 
+488.49583       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=12.94,age=18.94 
+489.49726       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=12.68,age=19.95 
+490.49875       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=12.63,age=20.95 
+491.50013       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=12.09,age=21.95 
+492.50161       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=11.48,age=22.95 
+493.50301       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=10.96,age=23.95 
+494.50446       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=10.54,age=24.95 
+495.50579       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=10.04,age=25.95 
+496.50729       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=9.50,age=26.96 
+497.50868       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=9.29,age=27.96 
+498.51021       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=9.26,age=28.96 
+499.51164       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=9.53,age=29.96 
+500.51312       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=8.91,age=0.66 
+501.51496       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=8.91,age=1.66 
+502.51644       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=9.00,age=2.66 
+503.51792       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=8.91,age=3.67 
+504.51937       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=8.68,age=4.67 
+505.52115       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=8.54,age=5.67 
+506.52276       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=8.50,age=6.67 
+507.52416       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=8.36,age=7.67 
+508.52580       CONTACTS_RECAP       pContactMgrV20  vname=abe,range=8.33,age=8.67 

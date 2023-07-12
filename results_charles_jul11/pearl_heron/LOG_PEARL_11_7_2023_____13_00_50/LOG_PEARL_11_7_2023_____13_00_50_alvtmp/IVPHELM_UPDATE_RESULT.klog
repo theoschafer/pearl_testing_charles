@@ -1,0 +1,12 @@
+132.02782       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictionabe_1,var=CONTACT_INFO,time=131.17,result=duplicate,val=name=predictionabe_1 # contact=predictionabe_1 
+149.31801       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictionabe_1,var=CONTACT_INFO,time=148.46,result=name_mismatch,val=name=predictionabe_0 # contact=predictionabe_0 
+149.31816       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictionabe_0,var=CONTACT_INFO,time=148.46,result=success,val=name=predictionabe_0 # contact=predictionabe_0 
+149.31816       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictionabe_0,var=CONTACT_INFO,time=148.46,result=success,val=name=predictionabe_0 # contact=predictionabe_0 
+157.34240       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictionabe_1,var=CONTACT_INFO,time=156.47,result=name_mismatch,val=name=abe # contact=abe 
+157.34242       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictionabe_0,var=CONTACT_INFO,time=156.47,result=name_mismatch,val=name=abe # contact=abe 
+157.34242       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=156.47,result=success,val=name=abe # contact=abe 
+157.34242       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=156.47,result=success,val=name=abe # contact=abe 
+157.34242       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=156.47,result=success,val=name=abe # contact=abe 
+157.34242       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=156.47,result=success,val=name=abe # contact=abe 
+157.34242       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=156.47,result=success,val=name=abe # contact=abe 
+343.52142       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=342.67,result=success,val=name=abe # contact=abe 

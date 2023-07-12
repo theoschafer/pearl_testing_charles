@@ -1,0 +1,26 @@
+0.96244         MOOS_DEBUG           pPearlPID       ** NEW CONTROLLER GAINS ARE ** 
+0.96247         MOOS_DEBUG           pPearlPID       YAW_PID_KP             = 0.400 
+0.96248         MOOS_DEBUG           pPearlPID       YAW_PID_KD             = 4.000 
+0.96249         MOOS_DEBUG           pPearlPID       YAW_PID_KI             = 0.040 
+0.96249         MOOS_DEBUG           pPearlPID       YAW_PID_INTEGRAL_LIMIT = 0.070 
+0.96251         MOOS_DEBUG           pPearlPID       MAXRUDDER              = 100.000 
+0.96442         MOOS_DEBUG           pPearlPID       SPEED_PID_KP           = 1.000 
+0.96444         MOOS_DEBUG           pPearlPID       SPEED_PID_KD           = 0.000 
+0.96445         MOOS_DEBUG           pPearlPID       SPEED_PID_KI           = 0.000 
+0.96445         MOOS_DEBUG           pPearlPID       SPEED_PID_INTEGRAL_LIMIT = 0.070 
+0.96446         MOOS_DEBUG           pPearlPID       MAXTHRUST              = 100.000 
+0.96548         MOOS_DEBUG           pPearlPID       Paused Due To Tardy HELM Input: THRUST=0 
+1.86742         MOOS_DEBUG           pPearlPID       pPearlPID Control Is On 
+1.86747         MOOS_DEBUG           pPearlPID       pPearlPID Control Is Off 
+1.86747         MOOS_DEBUG           pPearlPID       pPearlPID Control Is Off 
+2.03679         MOOS_DEBUG           pHelmIvP        pHelmIvP AllStop: ManualOverride 
+2.03679         MOOS_DEBUG           pHelmIvP        pHelmIvP AllStop: ManualOverride 
+2.03679         MOOS_DEBUG           pHelmIvP        pHelmIvP AllStop: ManualOverride 
+2.03679         MOOS_DEBUG           pHelmIvP        pHelmIvP AllStop: ManualOverride 
+16.05935        MOOS_DEBUG           pHelmIvP        pHelmIvP AllStop: clear 
+16.09641        MOOS_DEBUG           pPearlPID       pPearlPID Control Is On 
+16.09641        MOOS_DEBUG           pPearlPID       pPearlPID Control Is On 
+16.09641        MOOS_DEBUG           pPearlPID       pPearlPID Control Is On 
+16.09641        MOOS_DEBUG           pPearlPID       pPearlPID Control Is On 
+375.97335       MOOS_DEBUG           pHelmIvP        pHelmIvP AllStop: ManualOverride 
+376.03131       MOOS_DEBUG           pPearlPID       pPearlPID Control Is Off 

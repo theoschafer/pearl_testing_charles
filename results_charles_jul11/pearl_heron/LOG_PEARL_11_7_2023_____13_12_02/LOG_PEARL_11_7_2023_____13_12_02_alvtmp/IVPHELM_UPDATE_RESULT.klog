@@ -1,0 +1,11 @@
+137.37024       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictionabe_1,var=CONTACT_INFO,time=136.46,result=success,val=name=predictionabe_1 # contact=predictionabe_1 
+137.61903       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictionabe_1,var=CONTACT_INFO,time=136.71,result=duplicate,val=name=predictionabe_1 # contact=predictionabe_1 
+167.69772       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictionabe_1,var=CONTACT_INFO,time=166.78,result=name_mismatch,val=name=abe # contact=abe 
+167.69774       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=166.78,result=success,val=name=abe # contact=abe 
+167.69774       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=166.78,result=success,val=name=abe # contact=abe 
+167.69774       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=166.78,result=success,val=name=abe # contact=abe 
+167.69774       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=166.78,result=success,val=name=abe # contact=abe 
+289.23604       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictionabe_1,var=CONTACT_INFO,time=288.32,result=success,val=name=predictionabe_1 # contact=predictionabe_1 
+319.31080       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictionabe_1,var=CONTACT_INFO,time=318.40,result=name_mismatch,val=name=abe # contact=abe 
+319.31082       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=318.40,result=success,val=name=abe # contact=abe 
+319.31082       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=318.40,result=success,val=name=abe # contact=abe 

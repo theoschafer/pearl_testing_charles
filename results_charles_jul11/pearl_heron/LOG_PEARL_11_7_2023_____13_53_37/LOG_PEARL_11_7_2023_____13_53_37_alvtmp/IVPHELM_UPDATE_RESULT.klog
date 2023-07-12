@@ -1,0 +1,4 @@
+250.51183       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=249.65,result=success,val=name=abe # contact=abe 
+250.76113       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=249.90,result=duplicate,val=name=abe # contact=abe 
+250.76113       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=249.90,result=duplicate,val=name=abe # contact=abe 
+250.76113       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_abe,var=CONTACT_INFO,time=249.90,result=duplicate,val=name=abe # contact=abe 

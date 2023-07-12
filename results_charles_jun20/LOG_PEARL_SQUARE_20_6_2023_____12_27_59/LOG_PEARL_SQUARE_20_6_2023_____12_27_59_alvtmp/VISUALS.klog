@@ -1,0 +1,14 @@
+16.05871        VIEW_SEGLIST         pHelmIvP:1:waypt_square pts={-70,-40:-70,-70:-30,-70:-30,-40},label=pearl_waypt_square,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=5,edge_size=1 
+16.05874        VIEW_POINT           pHelmIvP:1:waypt_square x=-70,y=-40,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+16.05876        VIEW_POINT           pHelmIvP:1:waypt_square x=0,y=0,active=false,label=pearl's track-point 
+16.05871        VIEW_SEGLIST         pHelmIvP:1:waypt_square pts={-70,-40:-70,-70:-30,-70:-30,-40},label=pearl_waypt_square,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=5,edge_size=1 
+16.05876        VIEW_POINT           pHelmIvP:1:waypt_square x=0,y=0,active=false,label=pearl's track-point 
+16.30774        VIEW_POINT           pHelmIvP:2:waypt_square x=-70,y=-70,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+16.05871        VIEW_SEGLIST         pHelmIvP:1:waypt_square pts={-70,-40:-70,-70:-30,-70:-30,-40},label=pearl_waypt_square,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=5,edge_size=1 
+16.30774        VIEW_POINT           pHelmIvP:2:waypt_square x=-70,y=-70,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+75.20784        VIEW_POINT           pHelmIvP:237:waypt_square x=-30,y=-70,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+212.30240       VIEW_POINT           pHelmIvP:784:waypt_square x=-30,y=-40,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+296.26318       VIEW_POINT           pHelmIvP:1119:waypt_square x=-70,y=-40,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+16.05871        VIEW_SEGLIST         pHelmIvP:1:waypt_square pts={-70,-40:-70,-70:-30,-70:-30,-40},label=pearl_waypt_square,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=5,edge_size=1 
+296.26318       VIEW_POINT           pHelmIvP:1119:waypt_square x=-70,y=-40,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+367.20358       VIEW_POINT           pHelmIvP:1402:waypt_square x=-70,y=-70,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 

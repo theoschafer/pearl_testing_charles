@@ -1,0 +1,23 @@
+0.88158         MOOS_DEBUG           pHelmIvP        pHelmIvP AllStop: ManualOverride 
+1.40885         MOOS_DEBUG           pMarinePID      ** NEW CONTROLLER GAINS ARE ** 
+1.40890         MOOS_DEBUG           pMarinePID      YAW_PID_KP             = 0.900 
+1.40892         MOOS_DEBUG           pMarinePID      YAW_PID_KD             = 0.600 
+1.40893         MOOS_DEBUG           pMarinePID      YAW_PID_KI             = 0.300 
+1.40895         MOOS_DEBUG           pMarinePID      YAW_PID_INTEGRAL_LIMIT = 0.300 
+1.40897         MOOS_DEBUG           pMarinePID      MAXRUDDER              = 100.000 
+1.42497         MOOS_DEBUG           pMarinePID      SPEED_PID_KP           = 1.000 
+1.42500         MOOS_DEBUG           pMarinePID      SPEED_PID_KD           = 0.000 
+1.42502         MOOS_DEBUG           pMarinePID      SPEED_PID_KI           = 0.000 
+1.42504         MOOS_DEBUG           pMarinePID      SPEED_PID_INTEGRAL_LIMIT = 0.070 
+1.42506         MOOS_DEBUG           pMarinePID      MAXTHRUST              = 100.000 
+1.42948         MOOS_DEBUG           pMarinePID      Paused Due To Tardy NAV Input: THRUST=0 
+1.42948         MOOS_DEBUG           pMarinePID      Paused Due To Tardy NAV Input: THRUST=0 
+1.42948         MOOS_DEBUG           pMarinePID      Paused Due To Tardy NAV Input: THRUST=0 
+3.53911         MOOS_DEBUG           pMarinePID      Paused Due To Tardy HELM Input: THRUST=0 
+3.53911         MOOS_DEBUG           pMarinePID      Paused Due To Tardy HELM Input: THRUST=0 
+3.53911         MOOS_DEBUG           pMarinePID      Paused Due To Tardy HELM Input: THRUST=0 
+3.53911         MOOS_DEBUG           pMarinePID      Paused Due To Tardy HELM Input: THRUST=0 
+96.00723        MOOS_DEBUG           pMarinePID      pMarinePID Control Is On 
+96.08534        MOOS_DEBUG           pHelmIvP        pHelmIvP AllStop: clear 
+96.08534        MOOS_DEBUG           pHelmIvP        pHelmIvP AllStop: clear 
+96.08534        MOOS_DEBUG           pHelmIvP        pHelmIvP AllStop: clear 

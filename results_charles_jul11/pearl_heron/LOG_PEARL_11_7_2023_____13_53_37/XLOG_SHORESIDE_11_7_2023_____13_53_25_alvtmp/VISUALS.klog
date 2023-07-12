@@ -1,0 +1,241 @@
+50.54528        VIEW_SEGLIST         pyIMM_Bu        pts={74.52,-67.76:79.8483385163862,-70.51840690522542:85.17667703277242,-73.27681381045083:90.50501554915863,-76.03522071567625}, label=pred initialabe 
+79.57275        VIEW_SEGLIST         pyIMM_Bu        pts={78.56,-69.23:84.3027055662934,-70.96819814142775:90.04541113258679,-72.7063962828555:95.78811669888019,-74.44459442428324}, label=pred initialabe 
+109.60675       VIEW_SEGLIST         pyIMM_Bu        pts=}, label=pred kfabe 
+109.60675       VIEW_SEGLIST         pyIMM_Bu        pts=}, label=pred kfabe 
+140.64462       VIEW_SEGLIST         pyIMM_Bu        pts=}, label=pred kfabe 
+170.68443       VIEW_SEGLIST         pyIMM_Bu        pts=}, label=pred kfabe 
+191.42869       VIEW_POINT           pHelmIvP:1:loiter x=0,y=0,active=false,label=abe_waypoint 
+191.42874       VIEW_POLYGON         pHelmIvP:1:loiter pts={-5,-29:-11,-35:-11,-45:-5,-51:5,-51:11,-45:11,-35:5,-29},active=false,label=abe_loiter 
+191.42944       VIEW_SEGLIST         pHelmIvP:1:travel pts={20,20},label=abe_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+191.42948       VIEW_POINT           pHelmIvP:1:travel x=20,y=20,active=true,label=abe's next waypoint,label_color=aqua,vertex_color=yellow,vertex_size=5 
+191.42952       VIEW_POINT           pHelmIvP:1:travel x=20,y=20,active=false,label=abe's track-point,label_color=yellow,vertex_color=yellow,vertex_size=4 
+191.61223       VIEW_POINT           pHelmIvP:1:loiter x=0,y=0,active=false,label=pearl_waypoint 
+191.61249       VIEW_SEGLIST         pHelmIvP:1:travel pts={100,40},label=pearl_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+200.73323       VIEW_SEGLIST         pyIMM_Bu        pts=}, label=pred kfabe 
+230.78481       VIEW_SEGLIST         pyIMM_Bu        pts=}, label=pred kfabe 
+261.84448       VIEW_SEGLIST         pyIMM_Bu        pts=}, label=pred kfabe 
+262.06271       VIEW_SEGLIST         pHelmIvP:282:avdcol_abe pts={-2.5,-12.8:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+262.31237       VIEW_SEGLIST         pHelmIvP:283:avdcol_abe pts={-2.1,-12.8:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+264.56898       VIEW_SEGLIST         pHelmIvP:292:avdcol_abe pts={-0.9,-12.9:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+265.32130       VIEW_SEGLIST         pHelmIvP:295:avdcol_abe pts={-0.3,-13.1:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+269.32994       VIEW_SEGLIST         pHelmIvP:311:avdcol_abe pts={1.6,-13.9:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+270.33215       VIEW_SEGLIST         pHelmIvP:315:avdcol_abe pts={1.8,-14.4:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+271.34730       VIEW_SEGLIST         pHelmIvP:319:avdcol_abe pts={2.1,-14.8:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+272.33570       VIEW_SEGLIST         pHelmIvP:323:avdcol_abe pts={2.6,-15.2:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+273.34387       VIEW_SEGLIST         pHelmIvP:327:avdcol_abe pts={3.2,-15.2:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+274.34145       VIEW_SEGLIST         pHelmIvP:331:avdcol_abe pts={3.6,-15.4:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+275.34527       VIEW_SEGLIST         pHelmIvP:335:avdcol_abe pts={4.4,-15.8:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+276.34623       VIEW_SEGLIST         pHelmIvP:339:avdcol_abe pts={5.1,-16.2:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+277.34884       VIEW_SEGLIST         pHelmIvP:343:avdcol_abe pts={5.6,-16.2:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+279.35144       VIEW_SEGLIST         pHelmIvP:351:avdcol_abe pts={6.5,-15.8:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+280.35281       VIEW_SEGLIST         pHelmIvP:355:avdcol_abe pts={7,-16.2:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+281.35585       VIEW_SEGLIST         pHelmIvP:359:avdcol_abe pts={7.4,-16.2:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+282.36046       VIEW_SEGLIST         pHelmIvP:363:avdcol_abe pts={8.1,-16.4:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+283.36045       VIEW_SEGLIST         pHelmIvP:367:avdcol_abe pts={8.5,-16.8:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+284.36375       VIEW_SEGLIST         pHelmIvP:371:avdcol_abe pts={9,-17:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+285.36681       VIEW_SEGLIST         pHelmIvP:375:avdcol_abe pts={9.4,-17.2:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+286.36875       VIEW_SEGLIST         pHelmIvP:379:avdcol_abe pts={9.8,-17.8:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+287.37004       VIEW_SEGLIST         pHelmIvP:383:avdcol_abe pts={10.4,-18:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+288.37221       VIEW_SEGLIST         pHelmIvP:387:avdcol_abe pts={10.8,-18.3:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+289.37453       VIEW_SEGLIST         pHelmIvP:391:avdcol_abe pts={11.2,-18.7:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+290.37760       VIEW_SEGLIST         pHelmIvP:395:avdcol_abe pts={11.7,-19.1:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+291.38113       VIEW_SEGLIST         pHelmIvP:399:avdcol_abe pts={12.3,-19.5:59.5,-27.5},label=pearlavdcol_abe,msg=giveway:stern 
+291.63177       VIEW_SEGLIST         pHelmIvP:400:avdcol_abe pts={12.3,-19.5:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+291.90232       VIEW_SEGLIST         pyIMM_Bu        pts=}, label=pred kfabe 
+292.38342       VIEW_SEGLIST         pHelmIvP:403:avdcol_abe pts={12.8,-19.7:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+293.38445       VIEW_SEGLIST         pHelmIvP:407:avdcol_abe pts={13.2,-19.5:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+294.38657       VIEW_SEGLIST         pHelmIvP:411:avdcol_abe pts={13.9,-19.3:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+295.38885       VIEW_SEGLIST         pHelmIvP:415:avdcol_abe pts={14.6,-19.2:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+296.39197       VIEW_SEGLIST         pHelmIvP:419:avdcol_abe pts={15.2,-19.2:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+297.39470       VIEW_SEGLIST         pHelmIvP:423:avdcol_abe pts={15.7,-19.2:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+298.39730       VIEW_SEGLIST         pHelmIvP:427:avdcol_abe pts={16.1,-19.2:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+299.39957       VIEW_SEGLIST         pHelmIvP:431:avdcol_abe pts={16.5,-19.2:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+300.40193       VIEW_SEGLIST         pHelmIvP:435:avdcol_abe pts={17.1,-19.4:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+301.40452       VIEW_SEGLIST         pHelmIvP:439:avdcol_abe pts={17.5,-19.6:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+302.40830       VIEW_SEGLIST         pHelmIvP:443:avdcol_abe pts={18.2,-19.6:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+303.41042       VIEW_SEGLIST         pHelmIvP:447:avdcol_abe pts={18.7,-19.8:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+304.41373       VIEW_SEGLIST         pHelmIvP:451:avdcol_abe pts={19.3,-19.7:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+305.41589       VIEW_SEGLIST         pHelmIvP:455:avdcol_abe pts={19.6,-19.3:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+306.41700       VIEW_SEGLIST         pHelmIvP:459:avdcol_abe pts={20,-19.1:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+307.41883       VIEW_SEGLIST         pHelmIvP:463:avdcol_abe pts={20.5,-19.1:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+308.42286       VIEW_SEGLIST         pHelmIvP:467:avdcol_abe pts={21.1,-19.1:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+309.42206       VIEW_SEGLIST         pHelmIvP:471:avdcol_abe pts={21.6,-19:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+310.43130       VIEW_SEGLIST         pHelmIvP:475:avdcol_abe pts={22.2,-19:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+311.42512       VIEW_SEGLIST         pHelmIvP:479:avdcol_abe pts={22.7,-19:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+312.42792       VIEW_SEGLIST         pHelmIvP:483:avdcol_abe pts={23.3,-19.2:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+313.43056       VIEW_SEGLIST         pHelmIvP:487:avdcol_abe pts={23.7,-19.4:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+314.43246       VIEW_SEGLIST         pHelmIvP:491:avdcol_abe pts={24.2,-19.6:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+315.43515       VIEW_SEGLIST         pHelmIvP:495:avdcol_abe pts={24.8,-19.8:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+316.43760       VIEW_SEGLIST         pHelmIvP:499:avdcol_abe pts={25.2,-19.8:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+317.43932       VIEW_SEGLIST         pHelmIvP:503:avdcol_abe pts={25.7,-19.8:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+318.44249       VIEW_SEGLIST         pHelmIvP:507:avdcol_abe pts={26.1,-19.8:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+319.44415       VIEW_SEGLIST         pHelmIvP:511:avdcol_abe pts={26.8,-19.8:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+320.44932       VIEW_SEGLIST         pHelmIvP:515:avdcol_abe pts={27.4,-19.9:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+321.45257       VIEW_SEGLIST         pHelmIvP:519:avdcol_abe pts={28.1,-19.9:38.1,-5.9},label=pearlavdcol_abe,msg=giveway:stern 
+321.69847       VIEW_SEGLIST         pHelmIvP:520:avdcol_abe pts={28.1,-19.9:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+321.96708       VIEW_SEGLIST         pyIMM_Bu        pts=}, label=pred kfabe 
+322.44909       VIEW_SEGLIST         pHelmIvP:523:avdcol_abe pts={28.9,-19.9:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+323.45219       VIEW_SEGLIST         pHelmIvP:527:avdcol_abe pts={29.3,-19.9:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+324.45419       VIEW_SEGLIST         pHelmIvP:531:avdcol_abe pts={29.7,-20.1:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+325.45736       VIEW_SEGLIST         pHelmIvP:535:avdcol_abe pts={30.4,-20.1:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+325.99678       VIEW_POINT           pHelmIvP:538:travel x=20,y=20,active=false,label=abe's next waypoint,label_color=aqua,vertex_color=yellow,vertex_size=5 
+326.24781       VIEW_SEGLIST         pHelmIvP:539:travel pts={20,20},active=false,label=abe_travel 
+326.24804       VIEW_POLYGON         pHelmIvP:539:station-keep radial:: x=20.6,y=7.7,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-out,radius=10.0 
+326.24808       VIEW_POLYGON         pHelmIvP:539:station-keep radial:: x=20.6,y=7.7,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 
+326.46124       VIEW_SEGLIST         pHelmIvP:539:avdcol_abe pts={30.8,-19.8:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+327.24943       VIEW_POLYGON         pHelmIvP:543:station-keep radial:: x=20.5,y=7.7,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-out,radius=10.0 
+327.24949       VIEW_POLYGON         pHelmIvP:543:station-keep radial:: x=20.5,y=7.7,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 
+327.21360       VIEW_SEGLIST         pHelmIvP:542:avdcol_abe pts={31.4,-19.6:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+328.46917       VIEW_SEGLIST         pHelmIvP:547:avdcol_abe pts={31.9,-19.6:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+329.46884       VIEW_SEGLIST         pHelmIvP:551:avdcol_abe pts={32.5,-19.4:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+330.22258       VIEW_SEGLIST         pHelmIvP:554:avdcol_abe pts={32.9,-19.4:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+331.22447       VIEW_SEGLIST         pHelmIvP:558:avdcol_abe pts={33.3,-19.3:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+331.76294       VIEW_POLYGON         pHelmIvP:561:station-keep radial:: x=20.5,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-out,radius=10.0 
+331.76321       VIEW_POLYGON         pHelmIvP:561:station-keep radial:: x=20.5,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 
+332.76602       VIEW_POLYGON         pHelmIvP:565:station-keep radial:: x=20.6,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-out,radius=10.0 
+332.76626       VIEW_POLYGON         pHelmIvP:565:station-keep radial:: x=20.6,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 
+332.47741       VIEW_SEGLIST         pHelmIvP:563:avdcol_abe pts={34,-19.3:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+333.48159       VIEW_SEGLIST         pHelmIvP:567:avdcol_abe pts={34.2,-19.3:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+334.48259       VIEW_SEGLIST         pHelmIvP:571:avdcol_abe pts={34.7,-19.1:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+335.23469       VIEW_SEGLIST         pHelmIvP:574:avdcol_abe pts={35.2,-18.9:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+336.48730       VIEW_SEGLIST         pHelmIvP:579:avdcol_abe pts={35.8,-18.8:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+337.24001       VIEW_SEGLIST         pHelmIvP:582:avdcol_abe pts={36.3,-18.6:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+338.49361       VIEW_SEGLIST         pHelmIvP:587:avdcol_abe pts={36.7,-18.4:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+339.49494       VIEW_SEGLIST         pHelmIvP:591:avdcol_abe pts={37.2,-18.1:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+340.49849       VIEW_SEGLIST         pHelmIvP:595:avdcol_abe pts={37.4,-17.9:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+341.25397       VIEW_SEGLIST         pHelmIvP:598:avdcol_abe pts={37.7,-17.5:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+342.25358       VIEW_SEGLIST         pHelmIvP:602:avdcol_abe pts={38.1,-17.2:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+343.50533       VIEW_SEGLIST         pHelmIvP:607:avdcol_abe pts={38.7,-17:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+344.25745       VIEW_SEGLIST         pHelmIvP:610:avdcol_abe pts={39.4,-16.8:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+345.26084       VIEW_SEGLIST         pHelmIvP:614:avdcol_abe pts={39.9,-16.5:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+346.51340       VIEW_SEGLIST         pHelmIvP:619:avdcol_abe pts={40.5,-16.3:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+347.26354       VIEW_SEGLIST         pHelmIvP:622:avdcol_abe pts={40.9,-16.3:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+348.26804       VIEW_SEGLIST         pHelmIvP:626:avdcol_abe pts={41.3,-16.1:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+349.26826       VIEW_SEGLIST         pHelmIvP:630:avdcol_abe pts={41.7,-16:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+350.27231       VIEW_SEGLIST         pHelmIvP:634:avdcol_abe pts={42,-15.8:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+351.27624       VIEW_SEGLIST         pHelmIvP:638:avdcol_abe pts={42.6,-15.4:20.9,7.8},label=pearlavdcol_abe,msg=cpa 
+351.77655       VIEW_SEGLIST         pHelmIvP:640:avdcol_abe pts={42.6,-15.4:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+352.03798       VIEW_SEGLIST         pyIMM_Bu        pts=}, label=pred kfabe 
+352.27890       VIEW_SEGLIST         pHelmIvP:642:avdcol_abe pts={43.1,-15.2:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+353.28178       VIEW_SEGLIST         pHelmIvP:646:avdcol_abe pts={43.6,-15.1:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+354.28417       VIEW_SEGLIST         pHelmIvP:650:avdcol_abe pts={44,-14.9:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+355.28426       VIEW_SEGLIST         pHelmIvP:654:avdcol_abe pts={44.3,-14.5:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+356.28571       VIEW_SEGLIST         pHelmIvP:658:avdcol_abe pts={44.7,-14.2:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+357.28791       VIEW_SEGLIST         pHelmIvP:662:avdcol_abe pts={45.1,-14:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+358.29050       VIEW_SEGLIST         pHelmIvP:666:avdcol_abe pts={45.5,-13.8:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+359.29240       VIEW_SEGLIST         pHelmIvP:670:avdcol_abe pts={45.9,-13.8:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+360.29493       VIEW_SEGLIST         pHelmIvP:674:avdcol_abe pts={46.3,-13.7:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+361.29666       VIEW_SEGLIST         pHelmIvP:678:avdcol_abe pts={46.9,-13.5:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+362.29952       VIEW_SEGLIST         pHelmIvP:682:avdcol_abe pts={47.4,-13.7:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+363.30204       VIEW_SEGLIST         pHelmIvP:686:avdcol_abe pts={47.8,-13.5:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+364.30482       VIEW_SEGLIST         pHelmIvP:690:avdcol_abe pts={48.4,-13.3:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+365.30730       VIEW_SEGLIST         pHelmIvP:694:avdcol_abe pts={49,-13:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+366.31183       VIEW_SEGLIST         pHelmIvP:698:avdcol_abe pts={48.8,-12.4:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+368.31777       VIEW_SEGLIST         pHelmIvP:706:avdcol_abe pts={49.7,-11:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+369.31758       VIEW_SEGLIST         pHelmIvP:710:avdcol_abe pts={50.1,-10.4:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+370.32157       VIEW_SEGLIST         pHelmIvP:714:avdcol_abe pts={50.5,-10.1:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+371.32185       VIEW_SEGLIST         pHelmIvP:718:avdcol_abe pts={51,-9.9:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+372.32466       VIEW_SEGLIST         pHelmIvP:722:avdcol_abe pts={51.2,-9.5:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+373.32853       VIEW_SEGLIST         pHelmIvP:726:avdcol_abe pts={51.8,-9.3:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+375.33356       VIEW_SEGLIST         pHelmIvP:734:avdcol_abe pts={52.9,-9:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+376.33599       VIEW_SEGLIST         pHelmIvP:738:avdcol_abe pts={53.6,-8.8:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+377.33903       VIEW_SEGLIST         pHelmIvP:742:avdcol_abe pts={54,-8.7:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+378.34178       VIEW_SEGLIST         pHelmIvP:746:avdcol_abe pts={54.4,-8.5:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+379.34410       VIEW_SEGLIST         pHelmIvP:750:avdcol_abe pts={55,-8.3:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+380.34652       VIEW_SEGLIST         pHelmIvP:754:avdcol_abe pts={55.3,-7.9:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+381.34848       VIEW_SEGLIST         pHelmIvP:758:avdcol_abe pts={55.7,-8:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+382.35341       VIEW_SEGLIST         pHelmIvP:762:avdcol_abe pts={56,-7.8:20.8,8.2},label=pearlavdcol_abe,msg=cpa 
+382.60095       VIEW_SEGLIST         pHelmIvP:763:avdcol_abe pts={56,-7.8:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+383.35236       VIEW_SEGLIST         pHelmIvP:766:avdcol_abe pts={56.2,-7.4:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+384.35490       VIEW_SEGLIST         pHelmIvP:770:avdcol_abe pts={56.7,-7.1:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+385.35680       VIEW_SEGLIST         pHelmIvP:774:avdcol_abe pts={56.9,-6.5:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+386.36211       VIEW_SEGLIST         pHelmIvP:778:avdcol_abe pts={57.4,-6.3:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+388.36663       VIEW_SEGLIST         pHelmIvP:786:avdcol_abe pts={58.3,-6:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+389.37021       VIEW_SEGLIST         pHelmIvP:790:avdcol_abe pts={58.7,-6:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+390.37318       VIEW_SEGLIST         pHelmIvP:794:avdcol_abe pts={59,-6.2:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+391.37647       VIEW_SEGLIST         pHelmIvP:798:avdcol_abe pts={59.4,-5.8:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+392.37903       VIEW_SEGLIST         pHelmIvP:802:avdcol_abe pts={59.7,-5.7:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+393.38208       VIEW_SEGLIST         pHelmIvP:806:avdcol_abe pts={60,-5.5:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+394.38260       VIEW_SEGLIST         pHelmIvP:810:avdcol_abe pts={60,-4.9:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+396.38794       VIEW_SEGLIST         pHelmIvP:818:avdcol_abe pts={60.4,-4:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+397.39099       VIEW_SEGLIST         pHelmIvP:822:avdcol_abe pts={60.7,-3.5:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+398.39411       VIEW_SEGLIST         pHelmIvP:826:avdcol_abe pts={60.9,-2.9:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+399.39619       VIEW_SEGLIST         pHelmIvP:830:avdcol_abe pts={61.3,-2:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+400.39778       VIEW_SEGLIST         pHelmIvP:834:avdcol_abe pts={61.5,-1.3:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+401.40124       VIEW_SEGLIST         pHelmIvP:838:avdcol_abe pts={61.8,-0.7:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+402.40446       VIEW_SEGLIST         pHelmIvP:842:avdcol_abe pts={61.9,-0.1:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+403.40725       VIEW_SEGLIST         pHelmIvP:846:avdcol_abe pts={62.3,0.2:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+404.40762       VIEW_SEGLIST         pHelmIvP:850:avdcol_abe pts={62.9,0.8:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+405.41022       VIEW_SEGLIST         pHelmIvP:854:avdcol_abe pts={63.4,0.9:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+406.41293       VIEW_SEGLIST         pHelmIvP:858:avdcol_abe pts={63.9,1.3:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+407.41496       VIEW_SEGLIST         pHelmIvP:862:avdcol_abe pts={64.3,1.5:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+408.41639       VIEW_SEGLIST         pHelmIvP:866:avdcol_abe pts={64.8,1.4:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+409.41867       VIEW_SEGLIST         pHelmIvP:870:avdcol_abe pts={65.4,1.6:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+410.42137       VIEW_SEGLIST         pHelmIvP:874:avdcol_abe pts={65.8,1.8:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+411.42414       VIEW_SEGLIST         pHelmIvP:878:avdcol_abe pts={66.1,2.3:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+412.42646       VIEW_SEGLIST         pHelmIvP:882:avdcol_abe pts={66.3,3.4:20.4,5.7},label=pearlavdcol_abe,msg=cpa 
+412.67859       VIEW_SEGLIST         pHelmIvP:883:avdcol_abe pts={66.3,3.4:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+413.42948       VIEW_SEGLIST         pHelmIvP:886:avdcol_abe pts={66.4,4:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+414.43201       VIEW_SEGLIST         pHelmIvP:890:avdcol_abe pts={66.6,4.6:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+415.43277       VIEW_SEGLIST         pHelmIvP:894:avdcol_abe pts={67,5.1:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+416.43718       VIEW_SEGLIST         pHelmIvP:898:avdcol_abe pts={67.1,5.5:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+417.44085       VIEW_SEGLIST         pHelmIvP:902:avdcol_abe pts={67.6,6:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+418.44204       VIEW_SEGLIST         pHelmIvP:906:avdcol_abe pts={68.3,6.4:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+420.44753       VIEW_SEGLIST         pHelmIvP:914:avdcol_abe pts={69.1,6.7:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+421.45012       VIEW_SEGLIST         pHelmIvP:918:avdcol_abe pts={69.5,7.1:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+422.45279       VIEW_SEGLIST         pHelmIvP:922:avdcol_abe pts={69.9,7.1:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+423.45782       VIEW_SEGLIST         pHelmIvP:926:avdcol_abe pts={70.5,7.4:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+424.46060       VIEW_SEGLIST         pHelmIvP:930:avdcol_abe pts={70.8,8.2:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+425.46367       VIEW_SEGLIST         pHelmIvP:934:avdcol_abe pts={71.1,8.5:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+427.46746       VIEW_SEGLIST         pHelmIvP:942:avdcol_abe pts={71.6,9.8:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+428.46946       VIEW_SEGLIST         pHelmIvP:946:avdcol_abe pts={71.8,10.2:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+429.47210       VIEW_SEGLIST         pHelmIvP:950:avdcol_abe pts={72.1,10.9:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+431.47751       VIEW_SEGLIST         pHelmIvP:958:avdcol_abe pts={72.5,11.8:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+432.47959       VIEW_SEGLIST         pHelmIvP:962:avdcol_abe pts={72.9,12.2:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+433.48299       VIEW_SEGLIST         pHelmIvP:966:avdcol_abe pts={73.2,12.5:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+439.49761       VIEW_SEGLIST         pHelmIvP:990:avdcol_abe pts={75.9,14:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+440.49834       VIEW_SEGLIST         pHelmIvP:994:avdcol_abe pts={76.6,14.7:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+441.49963       VIEW_SEGLIST         pHelmIvP:998:avdcol_abe pts={77.1,15:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+442.50201       VIEW_SEGLIST         pHelmIvP:1002:avdcol_abe pts={77.7,15:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+443.50371       VIEW_SEGLIST         pHelmIvP:1006:avdcol_abe pts={78,15.6:21.6,3.5},label=pearlavdcol_abe,msg=cpa 
+443.75530       VIEW_SEGLIST         pHelmIvP:1007:avdcol_abe pts={78,15.6:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+444.50602       VIEW_SEGLIST         pHelmIvP:1010:avdcol_abe pts={78.2,16.1:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+445.50986       VIEW_SEGLIST         pHelmIvP:1014:avdcol_abe pts={78.8,16.8:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+449.52165       VIEW_SEGLIST         pHelmIvP:1030:avdcol_abe pts={80.2,18.7:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+450.27421       VIEW_SEGLIST         pHelmIvP:1033:avdcol_abe pts={80.5,18.8:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+451.27591       VIEW_SEGLIST         pHelmIvP:1037:avdcol_abe pts={80.9,19.4:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+452.52811       VIEW_SEGLIST         pHelmIvP:1042:avdcol_abe pts={81.2,19.7:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+453.27986       VIEW_SEGLIST         pHelmIvP:1045:avdcol_abe pts={81.6,20.1:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+454.28189       VIEW_SEGLIST         pHelmIvP:1049:avdcol_abe pts={81.8,20.5:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+455.28546       VIEW_SEGLIST         pHelmIvP:1053:avdcol_abe pts={82.2,21:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+458.29118       VIEW_SEGLIST         pHelmIvP:1065:avdcol_abe pts={83.3,21.9:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+459.29451       VIEW_SEGLIST         pHelmIvP:1069:avdcol_abe pts={83.6,22.3:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+461.30089       VIEW_SEGLIST         pHelmIvP:1077:avdcol_abe pts={84.3,22.8:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+462.30146       VIEW_SEGLIST         pHelmIvP:1081:avdcol_abe pts={84.6,23:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+464.30546       VIEW_SEGLIST         pHelmIvP:1089:avdcol_abe pts={85.1,23.2:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+465.31032       VIEW_SEGLIST         pHelmIvP:1093:avdcol_abe pts={85.4,23.5:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+466.31037       VIEW_SEGLIST         pHelmIvP:1097:avdcol_abe pts={85.6,23.9:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+467.80964       VIEW_POINT           pHelmIvP:1103:travel x=0,y=0,active=false,label=pearl's next waypoint 
+467.80966       VIEW_SEGLIST         pHelmIvP:1103:travel pts={100,40},active=false,label=pearl_travel 
+468.31125       VIEW_SEGLIST         pHelmIvP:1105:avdcol_abe pts={86.2,25:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+469.31461       VIEW_SEGLIST         pHelmIvP:1109:avdcol_abe pts={86.6,25.4:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+470.31678       VIEW_SEGLIST         pHelmIvP:1113:avdcol_abe pts={86.7,25.4:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+471.31976       VIEW_SEGLIST         pHelmIvP:1117:avdcol_abe pts={87.3,25.3:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+472.32156       VIEW_SEGLIST         pHelmIvP:1121:avdcol_abe pts={87.7,25.3:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+473.32470       VIEW_SEGLIST         pHelmIvP:1125:avdcol_abe pts={87.8,25.1:21.9,4.9},label=pearlavdcol_abe,msg=cpa 
+473.57547       VIEW_SEGLIST         pHelmIvP:1126:avdcol_abe pts={87.8,25.1:23.2,4.9},label=pearlavdcol_abe,msg=cpa 
+474.32715       VIEW_SEGLIST         pHelmIvP:1129:avdcol_abe pts={88.1,24.9:23.2,4.9},label=pearlavdcol_abe,msg=cpa 
+476.33120       VIEW_SEGLIST         pHelmIvP:1137:avdcol_abe pts={87.8,25:23.2,4.9},label=pearlavdcol_abe,msg=cpa 
+332.76626       VIEW_POLYGON         pHelmIvP:565:station-keep radial:: x=20.6,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 
+467.80964       VIEW_POINT           pHelmIvP:1103:travel x=0,y=0,active=false,label=pearl's next waypoint 
+476.33120       VIEW_SEGLIST         pHelmIvP:1137:avdcol_abe pts={87.8,25:23.2,4.9},label=pearlavdcol_abe,msg=cpa 
+332.76626       VIEW_POLYGON         pHelmIvP:565:station-keep radial:: x=20.6,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 
+467.80964       VIEW_POINT           pHelmIvP:1103:travel x=0,y=0,active=false,label=pearl's next waypoint 
+476.33120       VIEW_SEGLIST         pHelmIvP:1137:avdcol_abe pts={87.8,25:23.2,4.9},label=pearlavdcol_abe,msg=cpa 
+671.34279       VIEW_POINT           pHelmIvP:1916:loiter x=0,y=0,active=false,label=abe_waypoint 
+671.34283       VIEW_POLYGON         pHelmIvP:1916:loiter pts={-5,-29:-11,-35:-11,-45:-5,-51:5,-51:11,-45:11,-35:5,-29},active=false,label=abe_loiter 
+671.34329       VIEW_POLYGON         pHelmIvP:1916:station-keep radial:: x=20.6,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-out,radius=10.0 
+671.34333       VIEW_POLYGON         pHelmIvP:1916:station-keep radial:: x=20.6,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 
+476.33120       VIEW_SEGLIST         pHelmIvP:1137:avdcol_abe pts={87.8,25:23.2,4.9},label=pearlavdcol_abe,msg=cpa 
+671.34279       VIEW_POINT           pHelmIvP:1916:loiter x=0,y=0,active=false,label=abe_waypoint 
+671.34333       VIEW_POLYGON         pHelmIvP:1916:station-keep radial:: x=20.6,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 

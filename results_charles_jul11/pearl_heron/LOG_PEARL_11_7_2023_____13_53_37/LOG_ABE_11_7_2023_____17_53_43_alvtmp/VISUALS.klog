@@ -1,0 +1,31 @@
+173.74225       VIEW_POINT           pHelmIvP:1:loiter x=0,y=0,active=false,label=abe_waypoint 
+173.74230       VIEW_POLYGON         pHelmIvP:1:loiter pts={-5,-29:-11,-35:-11,-45:-5,-51:5,-51:11,-45:11,-35:5,-29},active=false,label=abe_loiter 
+173.74299       VIEW_SEGLIST         pHelmIvP:1:travel pts={20,20},label=abe_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+173.74304       VIEW_POINT           pHelmIvP:1:travel x=20,y=20,active=true,label=abe's next waypoint,label_color=aqua,vertex_color=yellow,vertex_size=5 
+173.74307       VIEW_POINT           pHelmIvP:1:travel x=20,y=20,active=false,label=abe's track-point,label_color=yellow,vertex_color=yellow,vertex_size=4 
+173.74230       VIEW_POLYGON         pHelmIvP:1:loiter pts={-5,-29:-11,-35:-11,-45:-5,-51:5,-51:11,-45:11,-35:5,-29},active=false,label=abe_loiter 
+173.74299       VIEW_SEGLIST         pHelmIvP:1:travel pts={20,20},label=abe_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+173.74307       VIEW_POINT           pHelmIvP:1:travel x=20,y=20,active=false,label=abe's track-point,label_color=yellow,vertex_color=yellow,vertex_size=4 
+173.74230       VIEW_POLYGON         pHelmIvP:1:loiter pts={-5,-29:-11,-35:-11,-45:-5,-51:5,-51:11,-45:11,-35:5,-29},active=false,label=abe_loiter 
+173.74299       VIEW_SEGLIST         pHelmIvP:1:travel pts={20,20},label=abe_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+173.74307       VIEW_POINT           pHelmIvP:1:travel x=20,y=20,active=false,label=abe's track-point,label_color=yellow,vertex_color=yellow,vertex_size=4 
+308.31033       VIEW_POINT           pHelmIvP:538:travel x=20,y=20,active=false,label=abe's next waypoint,label_color=aqua,vertex_color=yellow,vertex_size=5 
+308.56136       VIEW_SEGLIST         pHelmIvP:539:travel pts={20,20},active=false,label=abe_travel 
+308.56159       VIEW_POLYGON         pHelmIvP:539:station-keep radial:: x=20.6,y=7.7,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-out,radius=10.0 
+308.56163       VIEW_POLYGON         pHelmIvP:539:station-keep radial:: x=20.6,y=7.7,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 
+308.31033       VIEW_POINT           pHelmIvP:538:travel x=20,y=20,active=false,label=abe's next waypoint,label_color=aqua,vertex_color=yellow,vertex_size=5 
+308.56136       VIEW_SEGLIST         pHelmIvP:539:travel pts={20,20},active=false,label=abe_travel 
+308.56163       VIEW_POLYGON         pHelmIvP:539:station-keep radial:: x=20.6,y=7.7,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 
+309.56299       VIEW_POLYGON         pHelmIvP:543:station-keep radial:: x=20.5,y=7.7,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-out,radius=10.0 
+309.56304       VIEW_POLYGON         pHelmIvP:543:station-keep radial:: x=20.5,y=7.7,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 
+314.07649       VIEW_POLYGON         pHelmIvP:561:station-keep radial:: x=20.5,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-out,radius=10.0 
+314.07676       VIEW_POLYGON         pHelmIvP:561:station-keep radial:: x=20.5,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 
+315.07957       VIEW_POLYGON         pHelmIvP:565:station-keep radial:: x=20.6,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-out,radius=10.0 
+315.07982       VIEW_POLYGON         pHelmIvP:565:station-keep radial:: x=20.6,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 
+653.65634       VIEW_POINT           pHelmIvP:1916:loiter x=0,y=0,active=false,label=abe_waypoint 
+653.65638       VIEW_POLYGON         pHelmIvP:1916:loiter pts={-5,-29:-11,-35:-11,-45:-5,-51:5,-51:11,-45:11,-35:5,-29},active=false,label=abe_loiter 
+653.65685       VIEW_POLYGON         pHelmIvP:1916:station-keep radial:: x=20.6,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-out,radius=10.0 
+653.65689       VIEW_POLYGON         pHelmIvP:1916:station-keep radial:: x=20.6,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 
+308.56136       VIEW_SEGLIST         pHelmIvP:539:travel pts={20,20},active=false,label=abe_travel 
+653.65634       VIEW_POINT           pHelmIvP:1916:loiter x=0,y=0,active=false,label=abe_waypoint 
+653.65689       VIEW_POLYGON         pHelmIvP:1916:station-keep radial:: x=20.6,y=7.8,source=abe:station-keep,pts=32,edge_size=1.00000,vertex_size=0.00000,edge_color=gray50,label_color=white,vertex_color=red,label=abe:station-keep-in,radius=5.0 

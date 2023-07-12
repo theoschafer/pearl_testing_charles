@@ -1,0 +1,32 @@
+28.32404        VIEW_SEGLIST         pHelmIvP:1:waypt_square pts={39.3,36.3:48.1,37.7:53.1,37.5:54.6,36.9:57,32.4:58.1,26.3:58.1,17.4:40.8,8.8:20.7,0.5:4.9,-6.3:-19.1,-15.8:-37.5,-25.2:-60.2,-37.4:-77.1,-45.3:-84.7,-46.3:-87.5,-45.6:-91.2,-40.1:-94.2,-33.9:-94.9,-30.5:-94.7,-26:-85.6,-20.1:-77.9,-18.3},label=pearl_waypt_square,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=5,edge_size=1 
+28.32407        VIEW_POINT           pHelmIvP:1:waypt_square x=39.32,y=36.25,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+28.32410        VIEW_POINT           pHelmIvP:1:waypt_square x=0,y=0,active=false,label=pearl's track-point 
+28.32404        VIEW_SEGLIST         pHelmIvP:1:waypt_square pts={39.3,36.3:48.1,37.7:53.1,37.5:54.6,36.9:57,32.4:58.1,26.3:58.1,17.4:40.8,8.8:20.7,0.5:4.9,-6.3:-19.1,-15.8:-37.5,-25.2:-60.2,-37.4:-77.1,-45.3:-84.7,-46.3:-87.5,-45.6:-91.2,-40.1:-94.2,-33.9:-94.9,-30.5:-94.7,-26:-85.6,-20.1:-77.9,-18.3},label=pearl_waypt_square,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=5,edge_size=1 
+28.32410        VIEW_POINT           pHelmIvP:1:waypt_square x=0,y=0,active=false,label=pearl's track-point 
+28.32404        VIEW_SEGLIST         pHelmIvP:1:waypt_square pts={39.3,36.3:48.1,37.7:53.1,37.5:54.6,36.9:57,32.4:58.1,26.3:58.1,17.4:40.8,8.8:20.7,0.5:4.9,-6.3:-19.1,-15.8:-37.5,-25.2:-60.2,-37.4:-77.1,-45.3:-84.7,-46.3:-87.5,-45.6:-91.2,-40.1:-94.2,-33.9:-94.9,-30.5:-94.7,-26:-85.6,-20.1:-77.9,-18.3},label=pearl_waypt_square,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=5,edge_size=1 
+28.32410        VIEW_POINT           pHelmIvP:1:waypt_square x=0,y=0,active=false,label=pearl's track-point 
+28.32404        VIEW_SEGLIST         pHelmIvP:1:waypt_square pts={39.3,36.3:48.1,37.7:53.1,37.5:54.6,36.9:57,32.4:58.1,26.3:58.1,17.4:40.8,8.8:20.7,0.5:4.9,-6.3:-19.1,-15.8:-37.5,-25.2:-60.2,-37.4:-77.1,-45.3:-84.7,-46.3:-87.5,-45.6:-91.2,-40.1:-94.2,-33.9:-94.9,-30.5:-94.7,-26:-85.6,-20.1:-77.9,-18.3},label=pearl_waypt_square,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=5,edge_size=1 
+28.32410        VIEW_POINT           pHelmIvP:1:waypt_square x=0,y=0,active=false,label=pearl's track-point 
+115.02245       VIEW_POINT           pHelmIvP:275:waypt_square x=48.1,y=37.73,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+131.06385       VIEW_POINT           pHelmIvP:339:waypt_square x=53.09,y=37.48,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+141.08864       VIEW_POINT           pHelmIvP:379:waypt_square x=54.63,y=36.85,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+143.09418       VIEW_POINT           pHelmIvP:387:waypt_square x=56.96,y=32.42,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+151.11561       VIEW_POINT           pHelmIvP:419:waypt_square x=58.05,y=26.28,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+166.15425       VIEW_POINT           pHelmIvP:479:waypt_square x=58.1,y=17.43,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+188.20922       VIEW_POINT           pHelmIvP:567:waypt_square x=40.78,y=8.85,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+224.04220       VIEW_POINT           pHelmIvP:710:waypt_square x=20.68,y=0.5,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+275.16519       VIEW_POINT           pHelmIvP:914:waypt_square x=4.93,y=-6.34,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+317.02162       VIEW_POINT           pHelmIvP:1081:waypt_square x=-19.09,y=-15.84,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+373.14531       VIEW_POINT           pHelmIvP:1305:waypt_square x=-37.5,y=-25.23,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+422.00096       VIEW_POINT           pHelmIvP:1500:waypt_square x=-60.2,y=-37.4,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+482.13549       VIEW_POINT           pHelmIvP:1740:waypt_square x=-77.05,y=-45.27,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+529.23204       VIEW_POINT           pHelmIvP:1928:waypt_square x=-84.7,y=-46.3,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+548.27720       VIEW_POINT           pHelmIvP:2004:waypt_square x=-87.54,y=-45.64,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+554.03934       VIEW_POINT           pHelmIvP:2027:waypt_square x=-91.15,y=-40.12,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+567.07106       VIEW_POINT           pHelmIvP:2079:waypt_square x=-94.18,y=-33.86,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+586.11059       VIEW_POINT           pHelmIvP:2127:waypt_square x=-94.88,y=-30.51,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+593.12499       VIEW_POINT           pHelmIvP:2155:waypt_square x=-94.71,y=-25.97,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+604.89994       VIEW_POINT           pHelmIvP:2202:waypt_square x=-85.64,y=-20.06,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+664.02106       VIEW_POINT           pHelmIvP:2379:waypt_square x=-77.85,y=-18.32,active=true,label=pearl's next waypoint,label_color=gray70,vertex_size=8 
+854.32668       VIEW_POINT           pHelmIvP:2438:waypt_square x=0,y=0,active=false,label=pearl's next waypoint 
+854.32671       VIEW_SEGLIST         pHelmIvP:2438:waypt_square pts={39.3,36.3:48.1,37.7:53.1,37.5:54.6,36.9:57,32.4:58.1,26.3:58.1,17.4:40.8,8.8:20.7,0.5:4.9,-6.3:-19.1,-15.8:-37.5,-25.2:-60.2,-37.4:-77.1,-45.3:-84.7,-46.3:-87.5,-45.6:-91.2,-40.1:-94.2,-33.9:-94.9,-30.5:-94.7,-26:-85.6,-20.1:-77.9,-18.3},active=false,label=pearl_waypt_square 
